@@ -42,7 +42,7 @@ Utilizando o modelo campeão, foi possível identificar os fatores que mais "pes
 3. **Influência do Agente:** Vendedores como *Hayden Neloms* e *Donn Cantrell* possuem padrões de atuação que alteram significativamente o score de risco.
 
 > [!TIP]
-> **O Insight para o Gestor:** Focar o esforço da equipa em produtos de alta conversão em setores onde o modelo aponta baixo risco pode aumentar o Win Rate em até 15%.
+> **O Insight para o Gestor:** Focar o esforço da equipe em produtos de alta conversão em setores onde o modelo aponta baixo risco pode aumentar o Win Rate em até 15%.
 
 ---
 
