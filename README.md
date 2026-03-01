@@ -4,8 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**[📸 COLOQUE AQUI A IMAGEM DO SEU DASHBOARD DO POWER BI NO MOCKUP]**
-*Exemplo: `![Dashboard de Deal Scoring](caminho/para/imagem.png)`*
+![Dashboard de Deal Scoring](visual-dashboard.png)
 
 Este projeto utiliza **Machine Learning** para transformar dados estáticos de um CRM num **Score de Risco Dinâmico (0-100)** e entrega esses *insights* através de um dashboard interativo no Power BI. A solução permite que equipas comerciais priorizem oportunidades com maior probabilidade de fecho e identifiquem antecipadamente negócios em risco de perda.
 
