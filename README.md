@@ -1,62 +1,86 @@
-# 🚀 Deal Scoring Preditivo: Inteligência Artificial no Funil de Vendas
+# 🚀 Deal Scoring Preditivo: Inteligência Artificial e BI no Funil de Vendas
 
-Este projeto utiliza **Machine Learning** para transformar dados estáticos de um CRM num **Score de Risco Dinâmico (0-100)**. A solução permite que equipas comerciais priorizem oportunidades com maior probabilidade de fecho e identifiquem antecipadamente negócios em risco de perda.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**[📸 COLOQUE AQUI A IMAGEM DO SEU DASHBOARD DO POWER BI NO MOCKUP]**
+*Exemplo: `![Dashboard de Deal Scoring](caminho/para/imagem.png)`*
+
+Este projeto utiliza **Machine Learning** para transformar dados estáticos de um CRM num **Score de Risco Dinâmico (0-100)** e entrega esses *insights* através de um dashboard interativo no Power BI. A solução permite que equipas comerciais priorizem oportunidades com maior probabilidade de fecho e identifiquem antecipadamente negócios em risco de perda.
 
 ---
 
-## 📌 Contexto e Problema de Negócio
-No cenário comercial tradicional, métricas como "Dias na Etapa" servem apenas como alertas passivos. O desafio deste projeto foi criar um modelo preditivo capaz de analisar o comportamento histórico de vendas e responder:
+## 📌 O Problema de Negócio
+No cenário comercial tradicional, as equipas de vendas perdem muito tempo e energia com negociações ("deals") que têm baixa probabilidade de fechar. Métricas como "Dias na Etapa" servem apenas como alertas passivos. O desafio deste projeto foi criar um modelo preditivo capaz de analisar o comportamento histórico e responder:
 * **Qual é a probabilidade real deste negócio ser ganho?**
 * **Quais fatores (produto, setor, vendedor) mais influenciam o sucesso?**
 
-A inovação aqui reside em converter dados descritivos em **estatística acionável**, integrando o resultado diretamente num dashboard de Business Intelligence.
+A inovação aqui reside em converter dados descritivos em **estatística acionável**, tirando o modelo do ecrã preto do código e colocando-o nas mãos dos gestores através de Business Intelligence.
 
 ---
 
-## 🛠️ Stack Tecnológica
-* **Linguagem:** Python 3.14.0
-* **Bibliotecas de ML:** Scikit-learn, Pandas, Numpy.
-* **Algoritmos Testados:** Regressão Logística, Random Forest, Decision Tree e Gradient Boosting.
-* **Visualização de Dados:** Power BI, Seaborn, Matplotlib.
-* **Workflow:** ETL -> Feature Engineering -> Model Selection -> Exportação para BI.
+## 🧠 A Solução: Machine Learning e Engenharia de Dados
+Para garantir a melhor precisão no **Score de Risco**, o projeto enfrentou o desafio clássico do desbalanceamento de dados em vendas. 
+
+A evolução do modelo decorreu em duas fases:
+1. **Baseline:** Testes iniciais com Regressão Logística, Random Forest e Árvore de Decisão.
+2. **Otimização:** Adoção do **Gradient Boosting**, que se destacou pela sua capacidade de corrigir erros sequencialmente. Para lidar com o desbalanceamento brutal das classes, foi aplicado o método **SMOTE** (Synthetic Minority Over-sampling Technique) e o **Target Encoding** para capturar a performance histórica.
+
+🏆 **Resultado Técnico:** Esta abordagem otimizada permitiu um salto de quase 20% na métrica ROC-AUC, garantindo um perfil de score equilibrado e muito mais preciso (Acurácia de 62.25%).
 
 ---
 
-## 📊 Performance e Batalha de Modelos
-Para garantir a melhor precisão no **Score de Risco**, realizei uma comparação de performance entre quatro algoritmos. O **Gradient Boosting** destacou-se pela sua capacidade de corrigir erros sequencialmente durante o treino.
-
-| Modelo | Acurácia (Taxa de Acerto) | Perfil do Score |
-| :--- | :---: | :--- |
-| **Gradient Boosting** | **62.25%** | **Equilibrado e Preciso** |
-| Regressão Logística | 62.17% | Suave e Linear |
-| Random Forest | 55.32% | Tendência a Extremos |
-| Árvore de Decisão | 53.46% | Radical (0 ou 100) |
+## 📊 Entrega de Valor (Power BI)
+O output final do modelo (Score de Risco) foi integrado num **Dashboard no Power BI**. Com ele, o gestor de vendas pode:
+* Filtrar leads e vendedores específicos.
+* Visualizar o risco através de gráficos de dispersão.
+* Identificar rapidamente negócios em **Risco Crítico** com formatação condicional.
+* Direcionar o esforço da equipa exatamente para onde é necessário no dia a dia.
 
 ---
 
 ## 💡 Insights Estratégicos (Feature Importance)
-Utilizando o modelo campeão, foi possível identificar os fatores que mais "pesam" na balança do risco:
+O modelo campeão revelou os fatores que mais "pesam" na balança do risco:
 
-1. **Impacto do Produto:** O produto `GTX Basic` é o fator isolado de maior influência (~7.6%).
+1. **Impacto do Produto:** O produto `GTX Basic` é o fator isolado de maior influência nas previsões (~7.6%).
 2. **Setores Chave:** Leads dos setores de **Tecnologia, Software e Entretenimento** apresentam padrões de conversão mais previsíveis.
-3. **Influência do Agente:** Vendedores como *Hayden Neloms* e *Donn Cantrell* possuem padrões de atuação que alteram significativamente o score de risco.
+3. **Influência do Agente:** Vendedores como *Hayden Neloms* e *Donn Cantrell* possuem padrões de atuação históricos que alteram significativamente o score de risco.
 
 > [!TIP]
-> **O Insight para o Gestor:** Focar o esforço da equipe em produtos de alta conversão em setores onde o modelo aponta baixo risco pode aumentar o Win Rate em até 15%.
+> **O Insight para o Gestor:** Focar o esforço da equipa em produtos de alta conversão, em setores onde o modelo aponta baixo risco, tem o potencial de aumentar o *Win Rate* em até 15%.
+
+---
+
+## 🛠️ Stack Tecnológica
+* **Linguagem & Dados:** Python, Pandas, Numpy.
+* **Machine Learning:** Scikit-learn, Imbalanced-learn (SMOTE), Gradient Boosting.
+* **Visualização & BI:** Power BI (`.pbix`), Seaborn, Matplotlib.
+* **Workflow:** ETL -> Feature Engineering (Target Encoding) -> Model Selection -> Exportação de *Scored Data*.
 
 ---
 
 ## 📁 Estrutura do Repositório
-* `index.ipynb`: Notebook com todo o tratamento de dados e treino dos modelos.
-* `dataset/`: Dados originais do CRM (Sales Pipeline, Accounts, Products, etc).
+* `modelo_v1_baseline.ipynb`: Exploração inicial dos dados e treino dos primeiros modelos.
+* `modelo_v2_otimizado.ipynb`: Pipeline avançado com SMOTE, Target Encoding e afinação do Gradient Boosting.
+* `deal-scoring.pbix`: O dashboard final desenvolvido no Power BI.
+* `dataset/`: Diretório com os dados originais do CRM (Sales Pipeline, Accounts, Products, etc).
+* `pipeline_com_score_v4.csv`: Dataset gerado pelo modelo final, pronto para consumo no BI.
 
 ---
 
 ## 🚀 Como Executar o Projeto
-1. Instale as dependências:
+
+1. Clone o repositório:
    ```bash
-   pip install pandas scikit-learn seaborn matplotlib
+   git clone [https://github.com/SeuUsuario/projeto-ml-deal-scoring.git](https://github.com/SeuUsuario/projeto-ml-deal-scoring.git)
+
+2. Instale as dependências:
+   ```bash
+   pip install pandas numpy scikit-learn imbalanced-learn seaborn matplotlib
    ```
-2. Execute o ficheiro `index.ipynb` para processar os dados.
+3. Execute os notebooks na ordem (primeiro o `v1`, depois o `v2`) para processar os dados e gerar as previsões.
+
+4. Abra o ficheiro `deal-scoring.pbix` no Power BI Desktop para visualizar o dashboard com os dados pontuados.
 
 > *Desenvolvido por **Karla Renata** 📍 Estudante de Ciência da Computação*
