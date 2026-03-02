@@ -1,0 +1,1590 @@
+opportunity_id,account,product,sales_agent,deal_stage,engage_date,close_date,close_value,sector,regional_office,prob_ganhar,score_risco,categoria_risco
+7W9S4DCZ,Dalttechnology,MG Special,Lajuana Vencill,Engaging,2017-07-28,,,software,Central,0.9990157174042661,0.09842825957339096,Baixo
+1VFT3UCK,Condax,GTX Plus Basic,Boris Faz,Engaging,2017-08-21,,,medical,East,0.9991164095443001,0.08835904556998564,Baixo
+DFFEQ87N,Scottech,MG Special,Maureen Marcano,Engaging,2017-03-28,,,marketing,West,0.9991249833348715,0.08750166651284585,Baixo
+7FFV8D9U,Plusstrip,GTXPro,Gladys Colclough,Engaging,2017-08-06,,,entertainment,Central,0.9991761043419657,0.08238956580343126,Baixo
+5P3NH791,Golddex,MG Advanced,Boris Faz,Engaging,2017-02-10,,,finance,East,0.9992079568533845,0.07920431466155176,Baixo
+TWEVVI99,Scottech,GTX Plus Basic,Daniell Hammack,Engaging,2017-08-25,,,marketing,East,0.9992368390001862,0.07631609998137723,Baixo
+H3DYTZIQ,Scottech,GTX Plus Basic,Cassey Cress,Engaging,2017-06-18,,,marketing,East,0.9992733116517277,0.07266883482722752,Baixo
+49T60OCI,Scottech,GTX Plus Pro,Cassey Cress,Engaging,2017-07-04,,,marketing,East,0.9992862351150993,0.07137648849007139,Baixo
+ZI89S9HC,Dalttechnology,MG Advanced,Markita Hansen,Engaging,2017-06-11,,,software,West,0.9993108257572477,0.06891742427522773,Baixo
+3372JYYQ,Condax,MG Advanced,Cassey Cress,Engaging,2017-05-15,,,medical,East,0.9993281369455488,0.06718630544512161,Baixo
+Z9S1ZX7W,Condax,GTX Plus Basic,Daniell Hammack,Engaging,2017-07-02,,,medical,East,0.9993298943693025,0.06701056306974706,Baixo
+YTGQKC7A,Dalttechnology,MG Special,Rosalina Dieter,Engaging,2017-06-03,,,software,West,0.9993310845052191,0.06689154947808751,Baixo
+ANRCHVJM,Plusstrip,MG Special,Violet Mclelland,Engaging,2017-04-15,,,entertainment,East,0.9993637469534898,0.06362530465101601,Baixo
+QP006VDE,Domzoom,MG Advanced,Markita Hansen,Engaging,2017-05-01,,,entertainment,West,0.9993790994829918,0.06209005170082493,Baixo
+DJFMG9QI,Plusstrip,MG Special,Moses Frase,Engaging,2017-07-30,,,entertainment,Central,0.9993985231871508,0.060147681284916654,Baixo
+7DT8UKKY,Zencorporation,GTX Basic,Corliss Cosme,Engaging,2017-05-01,,,technolgy,East,0.9994073566587219,0.05926433412780652,Baixo
+RJYG004O,Domzoom,GTX Basic,Daniell Hammack,Engaging,2016-12-16,,,entertainment,East,0.9994096432259149,0.05903567740851434,Baixo
+JIACLB24,Scottech,GTX Basic,Vicki Laflamme,Engaging,2017-01-14,,,marketing,West,0.999412160170775,0.05878398292249454,Baixo
+R55U5QI4,Scottech,GTX Plus Pro,Darcel Schlecht,Engaging,2017-07-30,,,marketing,Central,0.9994166998892167,0.05833001107833358,Baixo
+61IKUAZI,Dalttechnology,GTX Plus Basic,Rosalina Dieter,Engaging,2017-09-20,,,software,West,0.9994195294883641,0.05804705116358999,Baixo
+5RNWV17L,Golddex,MG Advanced,Rosalina Dieter,Engaging,2017-02-11,,,finance,West,0.9994245176633342,0.05754823366658224,Baixo
+WEKW3XIN,Condax,GTX Plus Pro,Cassey Cress,Engaging,2017-06-20,,,medical,East,0.9994331144314476,0.05668855685524443,Baixo
+J9PCNCUP,Golddex,GTX Basic,Kary Hendrixson,Engaging,2017-11-06,,,finance,West,0.9994402144028807,0.05597855971193333,Baixo
+5VYJCJAE,Zoomit,GTX Plus Pro,Corliss Cosme,Engaging,2017-01-15,,,entertainment,East,0.9994436897487268,0.055631025127322875,Baixo
+4ZB2W6O7,Plusstrip,MG Special,Anna Snelling,Engaging,2017-08-01,,,entertainment,Central,0.9994816976627645,0.05183023372354878,Baixo
+H2MC2E7K,Condax,GTX Plus Basic,Vicki Laflamme,Engaging,2017-02-02,,,medical,West,0.999485318996389,0.05146810036109617,Baixo
+YT34YUZN,Betasoloin,GTXPro,Corliss Cosme,Engaging,2017-06-12,,,medical,East,0.9994888546915895,0.05111453084104545,Baixo
+NCMT5KK3,Dalttechnology,GTX Basic,Vicki Laflamme,Engaging,2017-03-07,,,software,West,0.999505891742538,0.04941082574619893,Baixo
+QP0QCP8Y,Dalttechnology,GTX Plus Pro,Kary Hendrixson,Engaging,2017-07-05,,,software,West,0.9995083578148195,0.04916421851804964,Baixo
+RY6T3GLC,Zathunicon,GTXPro,Corliss Cosme,Engaging,2017-05-29,,,retail,East,0.9995119277113788,0.04880722886212441,Baixo
+IGHYUSN8,Golddex,GTX Plus Pro,Vicki Laflamme,Engaging,2017-05-06,,,finance,West,0.9995130054537107,0.048699454628930994,Baixo
+P91SQBST,Dalttechnology,MG Special,Anna Snelling,Engaging,2017-07-25,,,software,Central,0.9995164106124197,0.04835893875803077,Baixo
+XTE9XJTS,Zencorporation,MG Special,Kary Hendrixson,Engaging,2017-06-04,,,technolgy,West,0.9995214162988529,0.04785837011470617,Baixo
+REO3FMSB,Massive Dynamic,MG Advanced,Corliss Cosme,Engaging,2017-06-09,,,entertainment,East,0.9995216200102318,0.04783799897681851,Baixo
+LMOAYCUK,Plusstrip,GTX Plus Basic,Kami Bicknell,Engaging,2017-01-11,,,entertainment,West,0.9995330488315505,0.04669511684495253,Baixo
+3H3TNCP5,Condax,GTX Plus Basic,James Ascencio,Engaging,2017-05-23,,,medical,West,0.9995334532574439,0.04665467425560843,Baixo
+GXIVJQPG,Xx-zobam,GTX Plus Basic,Daniell Hammack,Engaging,2017-10-01,,,entertainment,East,0.999538017342343,0.046198265765695634,Baixo
+PXNDLIL2,Initech,MG Special,Lajuana Vencill,Engaging,2017-08-13,,,telecommunications,Central,0.9995391666570265,0.04608333429735323,Baixo
+5W29OCB8,Bioholding,MG Special,Lajuana Vencill,Engaging,2017-07-30,,,medical,Central,0.9995569233083014,0.04430766916986295,Baixo
+VSYO182N,Dalttechnology,GTXPro,Kary Hendrixson,Engaging,2017-07-01,,,software,West,0.999558180704386,0.04418192956140432,Baixo
+1XJFMYCW,Golddex,MG Special,Anna Snelling,Engaging,2017-07-27,,,finance,Central,0.9995635173504618,0.04364826495382168,Baixo
+4DLY9ZDH,Dalttechnology,MG Advanced,Anna Snelling,Engaging,2017-07-25,,,software,Central,0.9995695860129485,0.043041398705145895,Baixo
+B00UMAV4,Gogozoom,MG Advanced,Kami Bicknell,Engaging,2016-12-26,,,telecommunications,West,0.9995716235821922,0.042837641780779645,Baixo
+TLLW2ZRM,Condax,GTXPro,Zane Levy,Engaging,2017-08-25,,,medical,West,0.9995755270541505,0.04244729458494634,Baixo
+LORMJLTE,Konmatfix,GTX Plus Basic,Lajuana Vencill,Engaging,2017-07-19,,,marketing,Central,0.9995780539513612,0.042194604863876606,Baixo
+R9GI5SJ5,Domzoom,MG Advanced,Vicki Laflamme,Engaging,2017-08-05,,,entertainment,West,0.9995786826711424,0.042131732885763995,Baixo
+M7I5O9YU,Cheers,GTX Basic,Corliss Cosme,Engaging,2016-11-23,,,entertainment,East,0.9995835475613426,0.04164524386573998,Baixo
+ERTQ4SN3,Zumgoity,MG Special,Lajuana Vencill,Engaging,2017-07-29,,,medical,Central,0.9995957934047828,0.04042065952172269,Baixo
+O7UUAK3Y,dambase,GTX Plus Basic,Corliss Cosme,Engaging,2017-01-02,,,marketing,East,0.9995984794210416,0.04015205789583698,Baixo
+806KPNNN,Zathunicon,GTX Basic,Versie Hillebrand,Engaging,2017-07-24,,,retail,Central,0.9995991381516164,0.04008618483836157,Baixo
+SXFE42KG,Gogozoom,MG Advanced,Cecily Lampkin,Engaging,2017-07-25,,,telecommunications,Central,0.999601132782231,0.039886721776905,Baixo
+1L68AC0E,Gogozoom,GTXPro,Wilburn Farren,Engaging,2017-10-04,,,telecommunications,East,0.9996041310742174,0.039586892578258315,Baixo
+AMNKCM1H,Betasoloin,MG Special,Elease Gluck,Engaging,2017-02-17,,,medical,West,0.9996052363481648,0.03947636518352171,Baixo
+SKBDCYV5,Zencorporation,GTX Plus Basic,Zane Levy,Engaging,2017-04-09,,,technolgy,West,0.9996115501035165,0.038844989648345596,Baixo
+EJVD09HQ,Betasoloin,MG Special,James Ascencio,Engaging,2017-09-25,,,medical,West,0.9996116476894238,0.03883523105762121,Baixo
+1LY8CAXD,Betasoloin,GTK 500,Rosalina Dieter,Engaging,2017-09-27,,,medical,West,0.9996119058271792,0.03880941728208187,Baixo
+GWOOPZE8,Cheers,GTX Plus Basic,Cassey Cress,Engaging,2017-10-01,,,entertainment,East,0.9996121509780729,0.038784902192712245,Baixo
+BTUG5VDL,Inity,GTXPro,Corliss Cosme,Engaging,2017-01-15,,,marketing,East,0.9996167353618376,0.03832646381624061,Baixo
+KPH05GU8,The New York Inquirer,MG Advanced,Lajuana Vencill,Engaging,2017-07-26,,,medical,Central,0.9996168297924832,0.03831702075167698,Baixo
+XYLNH45V,Zathunicon,GTX Plus Basic,Daniell Hammack,Engaging,2017-01-31,,,retail,East,0.9996172551514236,0.038274484857636626,Baixo
+5VW9YVTU,Condax,GTX Basic,Moses Frase,Engaging,2017-08-04,,,medical,Central,0.9996177070018041,0.03822929981959211,Baixo
+18YA4UUP,Xx-zobam,GTX Plus Pro,Versie Hillebrand,Engaging,2017-07-27,,,entertainment,Central,0.9996306995746786,0.036930042532135055,Baixo
+2TYZRE2R,Massive Dynamic,MG Special,Moses Frase,Engaging,2017-07-24,,,entertainment,Central,0.9996310829592612,0.036891704073882536,Baixo
+R9U1QNHQ,Betasoloin,MG Special,Hayden Neloms,Engaging,2017-04-29,,,medical,West,0.9996316422342051,0.03683577657949133,Baixo
+KIKG1BGV,Domzoom,MG Advanced,Moses Frase,Engaging,2017-08-02,,,entertainment,Central,0.9996328848094076,0.036711519059240416,Baixo
+0STR2QEA,Inity,GTX Plus Pro,Corliss Cosme,Engaging,2017-05-25,,,marketing,East,0.9996368389969753,0.036316100302469234,Baixo
+SQ71BWHG,Zencorporation,GTXPro,Kary Hendrixson,Engaging,2017-11-04,,,technolgy,West,0.9996406341713124,0.03593658286875634,Baixo
+WA4TPQ5U,Zoomit,GTX Plus Basic,Maureen Marcano,Engaging,2017-06-13,,,entertainment,West,0.9996428230515106,0.03571769484893572,Baixo
+8I84MV5A,Zencorporation,GTX Basic,Cassey Cress,Engaging,2017-05-11,,,technolgy,East,0.9996435155777296,0.03564844222704311,Baixo
+ISQJD695,Sunnamplex,GTX Basic,Boris Faz,Engaging,2017-07-16,,,marketing,East,0.9996450635526734,0.03549364473266481,Baixo
+DYNHHN6P,Massive Dynamic,GTXPro,Maureen Marcano,Engaging,2017-04-29,,,entertainment,West,0.9996457725986064,0.03542274013935698,Baixo
+DF1011UT,Konmatfix,GTX Plus Basic,Corliss Cosme,Engaging,2017-03-17,,,marketing,East,0.9996525982130284,0.03474017869715684,Baixo
+XSEG5T4H,Zoomit,GTX Plus Basic,Markita Hansen,Engaging,2017-11-03,,,entertainment,West,0.9996527334150556,0.034726658494443896,Baixo
+WOO9JXOQ,Sumace,MG Advanced,Gladys Colclough,Engaging,2017-07-31,,,retail,Central,0.9996548375454646,0.03451624545354193,Baixo
+EVXPG3V5,The New York Inquirer,GTX Basic,Lajuana Vencill,Engaging,2017-08-09,,,medical,Central,0.9996576936555459,0.03423063444540908,Baixo
+E887HZT1,Cheers,MG Advanced,Rosalina Dieter,Engaging,2017-02-12,,,entertainment,West,0.999659232217264,0.03407677827359512,Baixo
+ZGK1AWBD,Vehement Capital Partners,MG Special,Boris Faz,Engaging,2017-08-06,,,finance,East,0.9996595751827111,0.034042481728890905,Baixo
+2MKG6ZDD,Domzoom,GTX Basic,James Ascencio,Engaging,2017-06-20,,,entertainment,West,0.9996597885357283,0.03402114642716558,Baixo
+WM7XURV6,Groovestreet,GTX Plus Basic,Corliss Cosme,Engaging,2017-05-22,,,retail,East,0.9996606396257557,0.0339360374244313,Baixo
+4D0K5T7T,Gogozoom,GTXPro,Zane Levy,Engaging,2017-10-26,,,telecommunications,West,0.9996629822338973,0.03370177661027318,Baixo
+LDK61ORQ,Xx-zobam,MG Special,Hayden Neloms,Engaging,2017-07-19,,,entertainment,West,0.9996648407979086,0.033515920209137295,Baixo
+DJMPI9TO,Xx-zobam,GTK 500,Elease Gluck,Engaging,2017-04-18,,,entertainment,West,0.9996649045224314,0.033509547756860325,Baixo
+5653N8BM,Zoomit,GTX Plus Basic,Rosie Papadopoulos,Engaging,2017-06-11,,,entertainment,East,0.9996686583247755,0.033134167522452795,Baixo
+BJOY31DL,Betasoloin,MG Special,Violet Mclelland,Engaging,2017-06-23,,,medical,East,0.999672028859409,0.03279711405910213,Baixo
+ATMWAQL5,Gogozoom,GTX Plus Basic,Niesha Huffines,Engaging,2017-08-03,,,telecommunications,Central,0.9996722291955106,0.03277708044894245,Baixo
+GY10EROJ,Cheers,GTX Basic,Jonathan Berthelot,Engaging,2017-07-20,,,entertainment,Central,0.9996726251448446,0.032737485515543785,Baixo
+DW29KM30,Zathunicon,MG Advanced,Elease Gluck,Engaging,2017-06-07,,,retail,West,0.9996732830705313,0.03267169294687289,Baixo
+HIV4W2E0,Betasoloin,GTX Plus Basic,Kary Hendrixson,Engaging,2017-07-02,,,medical,West,0.9996767462564257,0.032325374357433656,Baixo
+EPSIB2JR,Zoomit,MG Special,Violet Mclelland,Engaging,2017-05-26,,,entertainment,East,0.9996789103477158,0.032108965228416775,Baixo
+A5SCVK7E,Goodsilron,GTX Plus Pro,Corliss Cosme,Engaging,2017-09-01,,,marketing,East,0.9996791597787061,0.0320840221293861,Baixo
+WZN26QZQ,Lexiqvolax,GTX Plus Pro,Corliss Cosme,Engaging,2017-08-27,,,medical,East,0.9996850986984698,0.03149013015302238,Baixo
+F5I33E1I,Sumace,MG Special,Elease Gluck,Engaging,2017-03-13,,,retail,West,0.9996865598670052,0.03134401329948355,Baixo
+JH643YRI,Umbrella Corporation,MG Advanced,Lajuana Vencill,Engaging,2017-07-25,,,finance,Central,0.9996866686007272,0.03133313992728093,Baixo
+PR1H7NHK,Mathtouch,MG Special,Versie Hillebrand,Engaging,2017-08-01,,,marketing,Central,0.9996877050932238,0.031229490677620042,Baixo
+RP7KA6HS,Mathtouch,MG Special,Elease Gluck,Engaging,2017-02-05,,,marketing,West,0.9996890926331174,0.031090736688255127,Baixo
+CT3HBBI2,Mathtouch,MG Special,Elease Gluck,Engaging,2017-01-15,,,marketing,West,0.9996890926331174,0.031090736688255127,Baixo
+TIPXNDS2,Betatech,MG Special,Gladys Colclough,Engaging,2017-08-03,,,medical,Central,0.9996901132400912,0.03098867599088395,Baixo
+ICG3THQK,Sumace,GTX Basic,Gladys Colclough,Engaging,2017-07-31,,,retail,Central,0.9996921597885481,0.03078402114519152,Baixo
+OHOWVHYX,Zoomit,MG Advanced,Rosalina Dieter,Engaging,2017-10-11,,,entertainment,West,0.9996928069001707,0.030719309982929488,Baixo
+8TFYRWZ6,Mathtouch,MG Advanced,Gladys Colclough,Engaging,2017-07-22,,,marketing,Central,0.9996961829701893,0.0303817029810749,Baixo
+WLS5J30E,Inity,MG Special,Elease Gluck,Engaging,2017-03-31,,,marketing,West,0.9996962894952234,0.030371050477662198,Baixo
+GVJFKHNL,Silis,MG Special,Gladys Colclough,Engaging,2017-07-21,,,medical,Central,0.9996979771940475,0.030202280595248432,Baixo
+F2B62IW4,Bioplex,MG Special,Maureen Marcano,Engaging,2017-02-28,,,medical,West,0.9996996519493138,0.030034805068623882,Baixo
+JCPQZ2SN,Cheers,GTX Plus Basic,Hayden Neloms,Engaging,2017-02-04,,,entertainment,West,0.9996998028133146,0.03001971866853914,Baixo
+I9SPENCQ,Cheers,GTX Plus Basic,Violet Mclelland,Engaging,2017-07-21,,,entertainment,East,0.9997017142907934,0.02982857092066471,Baixo
+KJHM27ZM,Labdrill,GTX Plus Pro,Daniell Hammack,Engaging,2017-05-15,,,medical,East,0.9997040652701851,0.02959347298149284,Baixo
+6VIK2VX8,Isdom,MG Special,Hayden Neloms,Engaging,2017-02-06,,,medical,West,0.9997041643370003,0.029583566299973274,Baixo
+5MAXF8FK,The New York Inquirer,GTX Plus Pro,Gladys Colclough,Engaging,2017-08-11,,,medical,Central,0.9997050001951002,0.029499980489977595,Baixo
+RTWAUR7C,Y-corporation,GTX Plus Pro,Gladys Colclough,Engaging,2017-07-24,,,employment,Central,0.9997088647745797,0.029113522542034698,Baixo
+NY7Z4I06,Betasoloin,GTX Plus Pro,Kary Hendrixson,Engaging,2017-08-05,,,medical,West,0.9997112964854431,0.028870351455689836,Baixo
+CUV49MUR,Zathunicon,GTXPro,Violet Mclelland,Engaging,2017-06-02,,,retail,East,0.9997171190665103,0.028288093348971532,Baixo
+693K7IAT,Funholding,GTX Basic,Boris Faz,Engaging,2017-08-07,,,finance,East,0.9997176959850292,0.028230401497075785,Baixo
+8LA72RM8,Donware,MG Advanced,Maureen Marcano,Engaging,2017-09-17,,,marketing,West,0.9997210387115336,0.02789612884663839,Baixo
+PQOHTS9I,Inity,GTXPro,Jonathan Berthelot,Engaging,2017-07-19,,,marketing,Central,0.9997218626530474,0.02781373469525894,Baixo
+EMH2I8XE,Acme Corporation,MG Advanced,Lajuana Vencill,Engaging,2017-07-31,,,technolgy,Central,0.9997229842351164,0.027701576488359247,Baixo
+YY2DWBG5,Ron-tech,MG Advanced,Versie Hillebrand,Engaging,2017-07-24,,,medical,Central,0.9997231769443511,0.027682305564891152,Baixo
+Y3AAS62P,Zoomit,GTX Plus Basic,Vicki Laflamme,Engaging,2017-09-12,,,entertainment,West,0.9997233541381723,0.02766458618277401,Baixo
+T9QD8U1Y,Betasoloin,MG Special,Darcel Schlecht,Engaging,2017-07-21,,,medical,Central,0.9997242744243424,0.02757255756575816,Baixo
+9P180HVQ,Zencorporation,GTX Basic,Moses Frase,Engaging,2017-08-05,,,technolgy,Central,0.9997250140853714,0.027498591462860045,Baixo
+CX0SXNCN,Treequote,GTX Basic,Corliss Cosme,Engaging,2017-05-21,,,telecommunications,East,0.9997251933227652,0.027480667723478458,Baixo
+44Q1W18Y,Zoomit,MG Special,Moses Frase,Engaging,2017-08-12,,,entertainment,Central,0.9997256727056009,0.027432729439913484,Baixo
+G1M1KVHU,Xx-zobam,GTX Plus Basic,Niesha Huffines,Engaging,2017-07-23,,,entertainment,Central,0.9997274433745403,0.02725566254596634,Baixo
+5XPYFICK,Inity,MG Special,Rosie Papadopoulos,Engaging,2017-03-10,,,marketing,East,0.9997276499336912,0.027235006630876857,Baixo
+11V16SZZ,Labdrill,GTX Basic,Corliss Cosme,Engaging,2017-05-24,,,medical,East,0.9997289296647976,0.027107033520235024,Baixo
+EFIR7HGR,Groovestreet,MG Advanced,Daniell Hammack,Engaging,2017-06-18,,,retail,East,0.9997296595838177,0.02703404161823464,Baixo
+30R81VZX,Zoomit,GTXPro,Kami Bicknell,Engaging,2017-02-06,,,entertainment,West,0.9997305574640635,0.0269442535936526,Baixo
+26CH1NDR,Mathtouch,GTX Basic,Daniell Hammack,Engaging,2017-03-09,,,marketing,East,0.9997307380478261,0.02692619521739159,Baixo
+25FUROM1,Y-corporation,GTX Plus Basic,Daniell Hammack,Engaging,2017-02-27,,,employment,East,0.9997321758123623,0.026782418763771076,Baixo
+EZDMNAK8,Plussunin,MG Advanced,Lajuana Vencill,Engaging,2017-08-14,,,retail,Central,0.9997331442184701,0.026685578152985112,Baixo
+XOVYPE58,Betasoloin,GTXPro,Rosie Papadopoulos,Engaging,2017-04-19,,,medical,East,0.9997335945234772,0.02664054765227908,Baixo
+XT8HCGAD,Bubba Gump,MG Special,Rosalina Dieter,Engaging,2017-09-10,,,software,West,0.9997340040409588,0.026599595904119866,Baixo
+23J295J4,Xx-holding,MG Special,Rosalina Dieter,Engaging,2017-08-21,,,finance,West,0.9997344108720461,0.026558912795393574,Baixo
+33BMGHPN,Opentech,MG Special,Gladys Colclough,Engaging,2017-07-22,,,finance,Central,0.9997346311021413,0.026536889785866435,Baixo
+9D43V124,Mathtouch,MG Special,Vicki Laflamme,Engaging,2017-08-20,,,marketing,West,0.9997353863578144,0.02646136421855516,Baixo
+GZCWM6GK,Statholdings,MG Special,Elease Gluck,Engaging,2017-03-22,,,employment,West,0.9997357448962353,0.026425510376471006,Baixo
+JUHQ1POT,Streethex,GTX Plus Basic,Boris Faz,Engaging,2017-07-01,,,retail,East,0.999737124228485,0.026287577151495878,Baixo
+VPG5E490,Bubba Gump,GTX Basic,Boris Faz,Engaging,2017-05-11,,,software,East,0.999737722161704,0.026227783829602114,Baixo
+TOJ902PF,Bioholding,GTX Plus Basic,Daniell Hammack,Engaging,2017-12-15,,,medical,East,0.9997393209625165,0.02606790374835022,Baixo
+GZ6SFRAT,Hottechi,MG Special,Lajuana Vencill,Engaging,2017-07-25,,,technolgy,Central,0.9997393684088969,0.026063159110312206,Baixo
+PFKDTEYU,Xx-zobam,GTXPro,Rosie Papadopoulos,Engaging,2017-06-16,,,entertainment,East,0.9997394911627917,0.026050883720829532,Baixo
+74KGIZW4,Betasoloin,GTXPro,Kary Hendrixson,Engaging,2017-06-24,,,medical,West,0.9997397298334403,0.026027016655971735,Baixo
+CZ8PPZTC,Bioplex,MG Special,Rosie Papadopoulos,Engaging,2017-03-05,,,medical,East,0.9997424172357585,0.025758276424148185,Baixo
+HB740BLB,Silis,MG Special,Hayden Neloms,Engaging,2017-12-20,,,medical,West,0.9997437999780918,0.02562000219081817,Baixo
+USVLKDF4,Dontechi,GTX Basic,Corliss Cosme,Engaging,2017-02-04,,,software,East,0.9997447311827566,0.025526881724335926,Baixo
+AY3KTIXX,Cheers,GTX Plus Pro,James Ascencio,Engaging,2017-06-08,,,entertainment,West,0.999746081893557,0.02539181064430407,Baixo
+WJO52I18,Inity,GTXPro,Cassey Cress,Engaging,2017-11-04,,,marketing,East,0.9997479828864092,0.02520171135907967,Baixo
+49SUORYW,Betasoloin,GTX Plus Basic,Niesha Huffines,Engaging,2017-08-04,,,medical,Central,0.9997490065113513,0.025099348864865423,Baixo
+IBZI95HI,Zoomit,GTX Plus Basic,James Ascencio,Engaging,2017-05-26,,,entertainment,West,0.999749520547013,0.02504794529869514,Baixo
+AI76U58A,Treequote,GTX Basic,Maureen Marcano,Engaging,2016-12-25,,,telecommunications,West,0.9997510416846597,0.024895831534033075,Baixo
+BJJQSJD8,Zotware,GTX Plus Basic,Daniell Hammack,Engaging,2017-06-09,,,software,East,0.9997519443548298,0.024805564517016432,Baixo
+AF8NG5JC,Betatech,MG Special,Cassey Cress,Engaging,2017-02-08,,,medical,East,0.99975230011253,0.02476998874699765,Baixo
+MCE5DKD1,Bioholding,MG Special,Markita Hansen,Engaging,2017-01-10,,,medical,West,0.9997523047066357,0.024769529336432505,Baixo
+7GDSUY9K,Konmatfix,GTX Plus Pro,Hayden Neloms,Engaging,2017-09-05,,,marketing,West,0.9997526319560227,0.024736804397729184,Baixo
+SU1NDYXR,Stanredtax,GTX Plus Basic,Boris Faz,Engaging,2017-08-16,,,finance,East,0.9997534914109023,0.02465085890976937,Baixo
+PDMZ1I99,Globex Corporation,MG Advanced,Lajuana Vencill,Engaging,2017-08-06,,,technolgy,Central,0.9997543761413273,0.024562385867266112,Baixo
+FHPRER2D,Sonron,MG Special,Versie Hillebrand,Engaging,2017-07-25,,,telecommunications,Central,0.9997560418344799,0.02439581655201417,Baixo
+VDIU10RV,Lexiqvolax,MG Special,Markita Hansen,Engaging,2016-11-23,,,medical,West,0.9997562026415902,0.02437973584098474,Baixo
+OT26ZUZ7,Betatech,GTXPro,Daniell Hammack,Engaging,2017-07-09,,,medical,East,0.9997568368210659,0.024316317893413597,Baixo
+UBO7V799,,MG Advanced,Lajuana Vencill,Engaging,2017-07-31,,,Unknown,Central,0.9997571333699509,0.024286663004913223,Baixo
+0QPZIIPF,Donware,GTX Plus Basic,Vicki Laflamme,Engaging,2017-03-27,,,marketing,West,0.999757200461107,0.024279953889294603,Baixo
+5G4I94TF,Statholdings,GTX Plus Pro,Kary Hendrixson,Engaging,2017-03-26,,,employment,West,0.999757781003218,0.024221899678200653,Baixo
+HHWZEWDV,,GTX Plus Basic,Lajuana Vencill,Engaging,2017-07-31,,,Unknown,Central,0.999759440595371,0.024055940462897052,Baixo
+L8XNQONA,Inity,GTX Basic,Zane Levy,Engaging,2017-11-27,,,marketing,West,0.9997597473679208,0.024025263207916314,Baixo
+7DOGGIXI,Bioplex,MG Special,Elease Gluck,Engaging,2017-08-05,,,medical,West,0.9997616710063078,0.023832899369224947,Baixo
+FZWU2I30,The New York Inquirer,GTX Plus Pro,Zane Levy,Engaging,2017-12-10,,,medical,West,0.9997620156729576,0.023798432704236205,Baixo
+OI3UIKVF,Konmatfix,GTX Plus Basic,Hayden Neloms,Engaging,2017-07-20,,,marketing,West,0.9997621648466094,0.023783515339059758,Baixo
+4ZX1WPS7,Inity,GTXPro,Cassey Cress,Engaging,2017-05-03,,,marketing,East,0.999762826640395,0.023717335960504737,Baixo
+E29GOFUV,Sumace,MG Special,Elease Gluck,Engaging,2017-06-20,,,retail,West,0.9997630678209434,0.02369321790566259,Baixo
+6AO6E15O,Statholdings,GTXPro,Rosalina Dieter,Engaging,2017-07-09,,,employment,West,0.9997638086058449,0.023619139415509416,Baixo
+NNH4EBG8,Mathtouch,MG Special,Vicki Laflamme,Engaging,2017-08-03,,,marketing,West,0.9997658382918644,0.02341617081356162,Baixo
+SWJ9OOZU,Opentech,MG Advanced,Hayden Neloms,Engaging,2017-02-13,,,finance,West,0.9997663989259732,0.02336010740268124,Baixo
+K9KGXL2E,Lexiqvolax,MG Advanced,Markita Hansen,Engaging,2017-12-13,,,medical,West,0.9997671725426445,0.023282745735553334,Baixo
+X8GGF9MG,Dontechi,MG Special,Rosalina Dieter,Engaging,2017-04-12,,,software,West,0.9997674548429247,0.023254515707527013,Baixo
+W1XRTUT2,Finhigh,MG Special,Versie Hillebrand,Engaging,2017-08-15,,,finance,Central,0.9997674787302917,0.02325212697082968,Baixo
+N5UIZYIV,Konmatfix,MG Special,Zane Levy,Engaging,2017-01-28,,,marketing,West,0.9997680471373549,0.023195286264510173,Baixo
+GRYHHER0,Finhigh,MG Special,Hayden Neloms,Engaging,2017-09-03,,,finance,West,0.9997687184801249,0.02312815198750595,Baixo
+ZJQKUIZ4,Opentech,MG Special,Kary Hendrixson,Engaging,2017-05-22,,,finance,West,0.9997713280274634,0.02286719725366204,Baixo
+YM8DBAFV,Sumace,GTX Basic,Cassey Cress,Engaging,2017-02-05,,,retail,East,0.9997724755302495,0.022752446975049523,Baixo
+HJRM13DI,Treequote,MG Special,Marty Freudenburg,Engaging,2017-07-25,,,telecommunications,Central,0.9997728281271963,0.022717187280374418,Baixo
+1UW6ILCH,Bioplex,GTX Basic,Maureen Marcano,Engaging,2017-09-05,,,medical,West,0.9997732706087619,0.022672939123813407,Baixo
+X9HFP474,Dontechi,GTX Basic,Daniell Hammack,Engaging,2017-07-12,,,software,East,0.9997735487302312,0.02264512697688348,Baixo
+SCS5H8V1,Vehement Capital Partners,GTK 500,Markita Hansen,Engaging,2017-02-14,,,finance,West,0.9997737380584643,0.022626194153574364,Baixo
+HIVUC1C4,,MG Special,Lajuana Vencill,Engaging,2017-07-19,,,Unknown,Central,0.9997740788568684,0.022592114313157996,Baixo
+VJ9K12PY,,MG Special,Lajuana Vencill,Engaging,2017-07-21,,,Unknown,Central,0.9997740788568684,0.022592114313157996,Baixo
+3BA9OPGY,,MG Special,Lajuana Vencill,Engaging,2017-08-03,,,Unknown,Central,0.9997740788568684,0.022592114313157996,Baixo
+EFKPYBI9,Xx-holding,MG Advanced,Gladys Colclough,Engaging,2017-07-26,,,finance,Central,0.9997740968831924,0.02259031168075909,Baixo
+OLGT0VHP,Statholdings,GTX Plus Pro,James Ascencio,Engaging,2017-05-01,,,employment,West,0.9997741755467415,0.02258244532584719,Baixo
+H7GXKD3O,Kan-code,GTX Plus Basic,Maureen Marcano,Engaging,2017-08-19,,,software,West,0.9997742663937724,0.022573360622757388,Baixo
+SE6OIGYN,Isdom,GTX Plus Basic,Violet Mclelland,Engaging,2017-06-12,,,medical,East,0.9997743637065558,0.02256362934441869,Baixo
+QU220OFI,Finhigh,GTX Basic,Boris Faz,Engaging,2017-07-08,,,finance,East,0.9997744945382018,0.02255054617982255,Baixo
+IE7VQ5BA,Finhigh,GTX Plus Basic,Daniell Hammack,Engaging,2016-12-23,,,finance,East,0.9997748800610717,0.022511993892826432,Baixo
+DC2JL47C,Dontechi,GTXPro,Daniell Hammack,Engaging,2017-05-27,,,software,East,0.9997753816258499,0.022461837415010955,Baixo
+KKRJ6TBY,Scotfind,GTXPro,Daniell Hammack,Engaging,2017-04-01,,,software,East,0.9997753816258499,0.022461837415010955,Baixo
+AV72Y65Y,Streethex,MG Special,Cecily Lampkin,Engaging,2017-08-06,,,retail,Central,0.9997755080067924,0.02244919932076206,Baixo
+751V8OFM,Funholding,GTX Plus Basic,Gladys Colclough,Engaging,2017-07-22,,,finance,Central,0.999776839515308,0.022316048469195326,Baixo
+LDQITW5C,Acme Corporation,MG Advanced,Lajuana Vencill,Engaging,2017-08-03,,,technolgy,Central,0.9997770179248594,0.022298207514059865,Baixo
+IKU97NEU,Funholding,MG Advanced,Markita Hansen,Engaging,2017-04-10,,,finance,West,0.999778478273379,0.02215217266210434,Baixo
+EQCD7G7Q,Initech,GTX Basic,Rosalina Dieter,Engaging,2017-01-08,,,telecommunications,West,0.9997806194836313,0.02193805163687168,Baixo
+81MXE1H7,Bioholding,MG Advanced,Markita Hansen,Engaging,2017-02-14,,,medical,West,0.9997816813984498,0.021831860155019367,Baixo
+MV227O65,Sonron,GTX Plus Pro,Maureen Marcano,Engaging,2017-05-11,,,telecommunications,West,0.9997819215440902,0.021807845590982033,Baixo
+PFFHM7HR,Opentech,MG Advanced,Markita Hansen,Engaging,2016-11-27,,,finance,West,0.9997819536739618,0.02180463260381682,Baixo
+GG85QBTM,Lexiqvolax,GTK 500,Elease Gluck,Engaging,2017-06-10,,,medical,West,0.9997825017288617,0.021749827113826115,Baixo
+E3Z74U5K,,GTX Basic,Lajuana Vencill,Engaging,2017-07-24,,,Unknown,Central,0.999783395770991,0.021660422900904308,Baixo
+WU81R3XH,,GTX Basic,Lajuana Vencill,Engaging,2017-07-31,,,Unknown,Central,0.999783395770991,0.021660422900904308,Baixo
+J31SUXQJ,Sumace,GTX Plus Pro,Marty Freudenburg,Engaging,2017-08-10,,,retail,Central,0.9997836689708264,0.0216331029173622,Baixo
+FM505XD5,Y-corporation,GTX Plus Pro,Daniell Hammack,Engaging,2017-04-08,,,employment,East,0.9997844813927009,0.021551860729907002,Baixo
+ZJLW1OPF,Xx-zobam,GTXPro,Darcel Schlecht,Engaging,2017-07-28,,,entertainment,Central,0.9997849881776583,0.021501182234173744,Baixo
+SP9W5IND,Acme Corporation,MG Special,Boris Faz,Engaging,2017-07-30,,,technolgy,East,0.9997858304318299,0.021416956817010835,Baixo
+NX2EICNQ,Kan-code,GTX Basic,Versie Hillebrand,Engaging,2017-07-28,,,software,Central,0.9997858499977775,0.02141500022224685,Baixo
+7P069DNF,Labdrill,GTX Plus Basic,Kary Hendrixson,Engaging,2017-08-20,,,medical,West,0.9997862496614703,0.02137503385296613,Baixo
+4ZQTMS3Z,Kan-code,MG Special,Violet Mclelland,Engaging,2017-11-23,,,software,East,0.9997868062589063,0.021319374109374234,Baixo
+I5VHXAWW,Bluth Company,GTX Plus Pro,Boris Faz,Engaging,2017-11-06,,,technolgy,East,0.9997870685653638,0.02129314346361877,Baixo
+7A3R2M9T,Sonron,GTX Plus Pro,Vicki Laflamme,Engaging,2017-07-17,,,telecommunications,West,0.9997882300564594,0.02117699435405518,Baixo
+1LHU0876,Labdrill,MG Advanced,Elease Gluck,Engaging,2017-09-22,,,medical,West,0.9997891092993323,0.021089070066770965,Baixo
+T4FQOS6J,Opentech,GTX Plus Basic,Maureen Marcano,Engaging,2017-05-14,,,finance,West,0.9997893633287539,0.021063667124610053,Baixo
+3PVNGGBX,The New York Inquirer,GTX Basic,Markita Hansen,Engaging,2017-03-14,,,medical,West,0.9997895432919814,0.02104567080185582,Baixo
+2N2MUDOA,Bioholding,GTXPro,Daniell Hammack,Engaging,2017-08-05,,,medical,East,0.9997901372135907,0.020986278640933165,Baixo
+ICMXZOVL,Stanredtax,GTXPro,Daniell Hammack,Engaging,2016-12-08,,,finance,East,0.9997902679682018,0.020973203179819322,Baixo
+LR45YFE4,Groovestreet,MG Special,Violet Mclelland,Engaging,2017-05-03,,,retail,East,0.9997905287663853,0.020947123361469977,Baixo
+B06D1F9M,Faxquote,GTXPro,Vicki Laflamme,Engaging,2017-02-13,,,telecommunications,West,0.9997906518899358,0.02093481100642336,Baixo
+EM1BA4EK,Scotfind,GTX Basic,Cassey Cress,Engaging,2017-10-01,,,software,East,0.9997915678058732,0.020843219412680636,Baixo
+5URQT67R,Treequote,GTK 500,Markita Hansen,Engaging,2017-06-14,,,telecommunications,West,0.9997933667506315,0.020663324936853744,Baixo
+EJDRMHNC,,MG Special,Boris Faz,Engaging,2017-07-17,,,Unknown,East,0.9997936821305718,0.0206317869428152,Baixo
+ALZNZ666,Toughzap,MG Advanced,Boris Faz,Engaging,2017-05-14,,,retail,East,0.9997942487132953,0.02057512867047473,Baixo
+LJBQ7P0V,Zotware,MG Special,James Ascencio,Engaging,2017-03-09,,,software,West,0.9997949694386365,0.020503056136345066,Baixo
+5UFU5IO4,Cancity,MG Special,Corliss Cosme,Engaging,2017-08-04,,,retail,East,0.9997962687496413,0.020373125035866302,Baixo
+3SEMPUU1,Labdrill,GTXPro,Markita Hansen,Engaging,2017-05-17,,,medical,West,0.9997968247701532,0.020317522984680814,Baixo
+7868JVH9,Rantouch,GTX Plus Basic,Cassey Cress,Engaging,2017-08-29,,,telecommunications,East,0.9997977756141173,0.020222438588268776,Baixo
+SY61BAXZ,Rantouch,GTX Plus Basic,Cassey Cress,Engaging,2017-08-17,,,telecommunications,East,0.9997977756141173,0.020222438588268776,Baixo
+HFUZQFQQ,Groovestreet,GTX Basic,Markita Hansen,Engaging,2017-05-09,,,retail,West,0.9997989792822463,0.020102071775374153,Baixo
+WWCMITY9,Funholding,GTXPro,Rosalina Dieter,Engaging,2017-06-12,,,finance,West,0.9997992085194941,0.02007914805058908,Baixo
+VKT0UN11,Codehow,MG Advanced,James Ascencio,Engaging,2017-01-14,,,software,West,0.999799866227305,0.02001337726950103,Baixo
+RG893DYQ,The New York Inquirer,GTX Basic,Markita Hansen,Engaging,2017-05-05,,,medical,West,0.9998004172640498,0.019958273595022114,Baixo
+H6I16U57,Sunnamplex,MG Advanced,Rosie Papadopoulos,Engaging,2017-04-01,,,marketing,East,0.9998009982579746,0.019900174202536203,Baixo
+8XY5IA68,Sonron,GTXPro,Rosie Papadopoulos,Engaging,2017-09-11,,,telecommunications,East,0.9998011496841661,0.019885031583388724,Baixo
+01XZ9CRY,Initech,GTX Plus Pro,Zane Levy,Engaging,2017-09-18,,,telecommunications,West,0.9998014875506608,0.019851244933921652,Baixo
+IMLG35AP,,GTX Plus Pro,Lajuana Vencill,Engaging,2017-07-22,,,Unknown,Central,0.9998018900572956,0.01981099427044164,Baixo
+OD895EQM,,GTX Plus Pro,Lajuana Vencill,Engaging,2017-07-26,,,Unknown,Central,0.9998018973581589,0.019810264184105808,Baixo
+MV7I9RKH,Treequote,GTX Plus Basic,Marty Freudenburg,Engaging,2017-07-21,,,telecommunications,Central,0.9998020833038438,0.019791669615620844,Baixo
+V3G1HBTZ,Nam-zim,GTX Basic,Lajuana Vencill,Engaging,2017-07-28,,,services,Central,0.999802168639657,0.019783136034301485,Baixo
+NOLCZMV6,Goodsilron,GTXPro,Violet Mclelland,Engaging,2017-02-21,,,marketing,East,0.9998031599446104,0.019684005538955773,Baixo
+PM2BF2KB,Xx-holding,GTX Plus Basic,Cassey Cress,Engaging,2017-12-13,,,finance,East,0.9998032013134277,0.019679868657229704,Baixo
+CBQRKYZP,Silis,GTX Plus Pro,Marty Freudenburg,Engaging,2017-07-21,,,medical,Central,0.9998035366177497,0.019646338225032256,Baixo
+3N46WQVI,Faxquote,MG Advanced,Hayden Neloms,Engaging,2017-05-13,,,telecommunications,West,0.9998036206172003,0.019637938279970513,Baixo
+0T2CY70E,,MG Advanced,Lajuana Vencill,Engaging,2017-07-22,,,Unknown,Central,0.9998045001512332,0.019549984876676696,Baixo
+VBB0LCEN,,MG Advanced,Lajuana Vencill,Engaging,2017-07-26,,,Unknown,Central,0.9998045073559266,0.019549264407336953,Baixo
+YCQTM2BQ,,MG Advanced,Lajuana Vencill,Engaging,2017-07-25,,,Unknown,Central,0.9998045073559266,0.019549264407336953,Baixo
+DEHQTB8B,Kinnamplus,MG Special,Boris Faz,Engaging,2017-03-01,,,retail,East,0.9998046182565071,0.019538174349287285,Baixo
+5CAP1055,Kan-code,GTX Plus Pro,Kary Hendrixson,Engaging,2017-08-13,,,software,West,0.9998052705134342,0.019472948656584776,Baixo
+0XYUJ7HF,Isdom,MG Special,Vicki Laflamme,Engaging,2017-08-23,,,medical,West,0.9998054751184003,0.019452488159965586,Baixo
+7439NGIG,Sumace,GTXPro,Marty Freudenburg,Engaging,2017-07-20,,,retail,Central,0.9998055978155092,0.019440218449084945,Baixo
+D9MZMDOL,Zumgoity,MG Special,Vicki Laflamme,Engaging,2017-09-20,,,medical,West,0.999805907504264,0.019409249573598686,Baixo
+I2ESAAIK,,GTX Plus Basic,Lajuana Vencill,Engaging,2017-07-22,,,Unknown,Central,0.9998063574808637,0.01936425191363389,Baixo
+2KWJIZX6,,GTX Plus Basic,Lajuana Vencill,Engaging,2017-08-10,,,Unknown,Central,0.999806364617123,0.019363538287697768,Baixo
+95YT659K,Groovestreet,MG Special,Zane Levy,Engaging,2017-09-06,,,retail,West,0.9998072079066065,0.019279209339351233,Baixo
+DFSFEADV,,GTX Basic,Lajuana Vencill,Engaging,2017-08-13,,,Unknown,Central,0.9998088702033033,0.01911297966966652,Baixo
+D2QPN9LN,,GTX Basic,Lajuana Vencill,Engaging,2017-07-23,,,Unknown,Central,0.9998088702033033,0.01911297966966652,Baixo
+K6MTPSB5,,GTX Basic,Lajuana Vencill,Engaging,2017-07-23,,,Unknown,Central,0.9998088702033033,0.01911297966966652,Baixo
+UHIIYU2J,,GTX Basic,Lajuana Vencill,Engaging,2017-07-30,,,Unknown,Central,0.9998088702033033,0.01911297966966652,Baixo
+CN8X0DLA,Stanredtax,GTX Plus Basic,Daniell Hammack,Engaging,2017-08-24,,,finance,East,0.9998096593445694,0.019034065543055423,Baixo
+I6M40320,Betatech,GTX Plus Basic,Niesha Huffines,Engaging,2017-08-07,,,medical,Central,0.9998099466694431,0.0190053330556883,Baixo
+102XKYAC,Zotware,GTXPro,Cassey Cress,Engaging,2017-09-01,,,software,East,0.9998099614766626,0.019003852333743243,Baixo
+Q9VC6GV0,Konmatfix,MG Special,Anna Snelling,Engaging,2017-07-19,,,marketing,Central,0.999810344295744,0.018965570425599765,Baixo
+UVCHXUIG,Konmatfix,MG Special,Anna Snelling,Engaging,2017-07-26,,,marketing,Central,0.999810344295744,0.018965570425599765,Baixo
+WARBRUXU,Stanredtax,GTX Basic,Jonathan Berthelot,Engaging,2017-07-21,,,finance,Central,0.999810868531822,0.01891314681780054,Baixo
+8CBTC1PX,Streethex,MG Advanced,Marty Freudenburg,Engaging,2017-08-11,,,retail,Central,0.9998110274216795,0.018897257832051206,Baixo
+IN9S33CD,Finhigh,GTX Plus Pro,Rosalina Dieter,Engaging,2017-03-17,,,finance,West,0.9998119312529588,0.018806874704124787,Baixo
+JDXSS1HT,Silis,GTX Basic,Markita Hansen,Engaging,2017-03-08,,,medical,West,0.9998123899620612,0.018761003793876796,Baixo
+ALHQU8W8,Plexzap,GTX Basic,Corliss Cosme,Engaging,2017-03-20,,,retail,East,0.9998135077994489,0.018649220055111382,Baixo
+WRUG19FZ,Vehement Capital Partners,MG Advanced,Hayden Neloms,Engaging,2017-01-13,,,finance,West,0.9998137314735377,0.018626852646230763,Baixo
+EZVKSQ9C,Genco Pura Olive Oil Company,GTX Plus Pro,Boris Faz,Engaging,2016-12-16,,,retail,East,0.9998143160021399,0.01856839978601199,Baixo
+7TFHGN6O,Inity,GTX Plus Pro,Darcel Schlecht,Engaging,2017-07-26,,,marketing,Central,0.9998148950303942,0.018510496960577605,Baixo
+CENVLTFH,Toughzap,GTX Plus Basic,Corliss Cosme,Engaging,2017-01-28,,,retail,East,0.9998158536896896,0.018414631031038464,Baixo
+HF74MC9F,Ganjaflex,GTX Plus Pro,Corliss Cosme,Engaging,2017-05-06,,,retail,East,0.9998163732049891,0.018362679501093826,Baixo
+OO9U4C0Y,Y-corporation,GTX Plus Basic,Cassey Cress,Engaging,2017-08-27,,,employment,East,0.999816974659971,0.018302534002900828,Baixo
+NSX4NR40,Bioholding,GTX Plus Pro,Anna Snelling,Engaging,2017-08-14,,,medical,Central,0.9998173028636201,0.01826971363798613,Baixo
+PSMWYTMB,Toughzap,MG Advanced,Boris Faz,Engaging,2017-09-20,,,retail,East,0.9998184717016586,0.01815282983413935,Baixo
+OT5G3M9A,Treequote,MG Advanced,Cecily Lampkin,Engaging,2017-07-22,,,telecommunications,Central,0.999818631970723,0.018136802927704032,Baixo
+3CB3WNBM,Kinnamplus,GTX Basic,Boris Faz,Engaging,2017-07-17,,,retail,East,0.9998187410470485,0.018125895295151295,Baixo
+J5BCAQ1Z,Bioplex,GTX Basic,Zane Levy,Engaging,2017-12-15,,,medical,West,0.9998188729771158,0.01811270228841977,Baixo
+FVGRGJU8,Betatech,MG Advanced,Rosie Papadopoulos,Engaging,2017-04-21,,,medical,East,0.99981888105539,0.018111894461003697,Baixo
+7MP6KLZO,Goodsilron,GTX Basic,Moses Frase,Engaging,2017-07-24,,,marketing,Central,0.999819697045531,0.01803029544690249,Baixo
+7D75QXBD,Groovestreet,GTX Plus Basic,Kary Hendrixson,Engaging,2017-05-18,,,retail,West,0.9998203222677837,0.01796777322162768,Baixo
+4G0X8VHP,Y-corporation,MG Advanced,Markita Hansen,Engaging,2017-05-24,,,employment,West,0.9998205360950235,0.017946390497647347,Baixo
+TLOHEQ18,,GTX Plus Basic,Corliss Cosme,Engaging,2017-01-02,,,Unknown,East,0.9998206720480747,0.017932795192532325,Baixo
+7FZ9CBZ3,Scotfind,GTX Plus Pro,Anna Snelling,Engaging,2017-07-24,,,software,Central,0.9998209072489505,0.01790927510495477,Baixo
+PYRLUYIQ,Y-corporation,GTX Plus Basic,Marty Freudenburg,Engaging,2017-07-27,,,employment,Central,0.9998213550027063,0.017864499729369765,Baixo
+DMG5EOFC,Lexiqvolax,MG Advanced,Violet Mclelland,Engaging,2017-07-19,,,medical,East,0.9998215725173147,0.017842748268526165,Baixo
+BNY8MJ6L,Labdrill,GTX Basic,Kary Hendrixson,Engaging,2017-02-16,,,medical,West,0.999821926817956,0.01780731820439918,Baixo
+AW4PSTWR,Ron-tech,GTX Basic,Rosie Papadopoulos,Engaging,2017-06-25,,,medical,East,0.9998223482296885,0.017765177031148216,Baixo
+QELHQ898,Statholdings,GTX Plus Basic,Zane Levy,Engaging,2017-07-22,,,employment,West,0.9998227858932343,0.0177214106765744,Baixo
+OIO2H2MY,,GTX Plus Pro,Boris Faz,Engaging,2017-05-01,,,Unknown,East,0.9998229240728626,0.01770759271374489,Baixo
+6GG9CSTV,,MG Special,Gladys Colclough,Engaging,2017-07-23,,,Unknown,Central,0.99982307817098,0.017692182901996034,Baixo
+RTOIXNPC,,MG Special,Gladys Colclough,Engaging,2017-07-30,,,Unknown,Central,0.99982307817098,0.017692182901996034,Baixo
+5WSQ6D2E,,MG Special,Gladys Colclough,Engaging,2017-07-23,,,Unknown,Central,0.99982307817098,0.017692182901996034,Baixo
+Y3TOQUQI,Zotware,GTX Basic,Marty Freudenburg,Engaging,2017-07-25,,,software,Central,0.9998241994874166,0.017580051258336837,Baixo
+9HRMW8SL,,MG Special,Daniell Hammack,Engaging,2017-02-19,,,Unknown,East,0.9998242089249089,0.017579107509113623,Baixo
+125VIRMX,Warephase,GTK 500,Elease Gluck,Engaging,2016-12-19,,,services,West,0.9998248202194782,0.017517978052183913,Baixo
+OSG9KZGB,Kan-code,GTX Plus Basic,Anna Snelling,Engaging,2017-08-07,,,software,Central,0.999824945905674,0.01750540943260548,Baixo
+UAE5ZC7O,,GTX Plus Pro,Daniell Hammack,Engaging,2016-12-05,,,Unknown,East,0.9998252514613009,0.01747485386991432,Baixo
+SZS2IPM3,Doncon,MG Advanced,Versie Hillebrand,Engaging,2017-07-24,,,technolgy,Central,0.999825437856189,0.017456214381095236,Baixo
+SPMQ0BHA,,GTX Basic,Lajuana Vencill,Engaging,2017-07-29,,,Unknown,Central,0.9998256414351524,0.01743585648475987,Baixo
+2CZUU9E0,,GTX Basic,Lajuana Vencill,Engaging,2017-07-22,,,Unknown,Central,0.9998256414351524,0.01743585648475987,Baixo
+CPOA6FVA,,GTX Basic,Lajuana Vencill,Engaging,2017-08-04,,,Unknown,Central,0.9998256478608686,0.017435213913141734,Baixo
+YE7F777U,,GTX Basic,Lajuana Vencill,Engaging,2017-08-01,,,Unknown,Central,0.9998256478608686,0.017435213913141734,Baixo
+XGHMOHYQ,,GTX Basic,Lajuana Vencill,Engaging,2017-08-15,,,Unknown,Central,0.9998256478608686,0.017435213913141734,Baixo
+XV41LZYE,,GTX Basic,Lajuana Vencill,Engaging,2017-07-28,,,Unknown,Central,0.9998256478608686,0.017435213913141734,Baixo
+FS60AX8A,,GTX Basic,Lajuana Vencill,Engaging,2017-08-08,,,Unknown,Central,0.9998256478608686,0.017435213913141734,Baixo
+0RI2I8ZL,,GTX Basic,Lajuana Vencill,Engaging,2017-07-28,,,Unknown,Central,0.9998256478608686,0.017435213913141734,Baixo
+WZ3FJA3V,Labdrill,GTX Plus Basic,Zane Levy,Engaging,2017-08-25,,,medical,West,0.9998275423374788,0.01724576625211638,Baixo
+3FWZBSW1,Cancity,MG Special,Versie Hillebrand,Engaging,2017-08-01,,,retail,Central,0.9998275920563967,0.017240794360329215,Baixo
+RIC5ZHK4,Plussunin,GTX Plus Basic,Corliss Cosme,Engaging,2017-05-07,,,retail,East,0.9998279828895362,0.017201711046377355,Baixo
+MG1YUTUE,Acme Corporation,MG Special,Markita Hansen,Engaging,2017-10-01,,,technolgy,West,0.9998280776698253,0.017192233017471192,Baixo
+NMY6FA6X,,MG Advanced,Corliss Cosme,Engaging,2017-04-24,,,Unknown,East,0.9998283066613891,0.017169333861088987,Baixo
+0N11U6L3,Acme Corporation,GTX Plus Basic,Daniell Hammack,Engaging,2017-10-30,,,technolgy,East,0.9998285851780581,0.01714148219419398,Baixo
+J1G2SZKD,Goodsilron,GTX Basic,Zane Levy,Engaging,2017-11-22,,,marketing,West,0.99982889532076,0.017110467923997508,Baixo
+UIX6X6R3,Umbrella Corporation,MG Advanced,Zane Levy,Engaging,2017-05-01,,,finance,West,0.9998289545843487,0.017104541565127196,Baixo
+TX5SADEI,Dontechi,GTX Plus Basic,Niesha Huffines,Engaging,2017-07-30,,,software,Central,0.999828961417069,0.01710385829309935,Baixo
+7XRWWM0X,Scotfind,MG Special,Kami Bicknell,Engaging,2017-11-15,,,software,West,0.9998295915828465,0.01704084171535447,Baixo
+4SOUOUKH,Treequote,GTX Plus Pro,Vicki Laflamme,Engaging,2017-09-30,,,telecommunications,West,0.9998297437147571,0.017025628524292014,Baixo
+961ED0B1,,GTX Plus Basic,Corliss Cosme,Engaging,2017-06-19,,,Unknown,East,0.9998299389109833,0.017006108901673755,Baixo
+6Q67ZUJ1,,MG Special,Maureen Marcano,Engaging,2017-01-09,,,Unknown,West,0.9998303535413061,0.016964645869388395,Baixo
+TH9RV79M,,MG Special,Maureen Marcano,Engaging,2017-02-06,,,Unknown,West,0.9998303535413061,0.016964645869388395,Baixo
+K64TY8LU,,MG Special,Maureen Marcano,Engaging,2017-01-16,,,Unknown,West,0.9998303535413061,0.016964645869388395,Baixo
+46UHJGY0,,MG Special,Corliss Cosme,Engaging,2017-11-02,,,Unknown,East,0.9998304173140994,0.016958268590061554,Baixo
+S7UVZXM3,,MG Special,Corliss Cosme,Engaging,2017-10-24,,,Unknown,East,0.9998304173140994,0.016958268590061554,Baixo
+2BXYT4PD,Funholding,GTX Plus Pro,Hayden Neloms,Engaging,2017-05-18,,,finance,West,0.999830501264205,0.016949873579497066,Baixo
+P1SGQODJ,Rangreen,GTX Plus Basic,Boris Faz,Engaging,2017-03-21,,,technolgy,East,0.9998309267798504,0.01690732201495848,Baixo
+Z7EBMMAE,,MG Special,Versie Hillebrand,Engaging,2017-07-24,,,Unknown,Central,0.9998313652098083,0.01686347901916907,Baixo
+KT4OEP4X,,MG Special,Versie Hillebrand,Engaging,2017-07-24,,,Unknown,Central,0.9998313652098083,0.01686347901916907,Baixo
+ODHVHXKS,,MG Special,Versie Hillebrand,Engaging,2017-07-24,,,Unknown,Central,0.9998313652098083,0.01686347901916907,Baixo
+K63TD0WD,,MG Special,Versie Hillebrand,Engaging,2017-07-31,,,Unknown,Central,0.9998313652098083,0.01686347901916907,Baixo
+5M5TW9RC,Umbrella Corporation,GTX Plus Basic,Cassey Cress,Engaging,2017-07-07,,,finance,East,0.9998314122676956,0.016858773230443713,Baixo
+LCQ934W7,Xx-holding,GTX Plus Basic,Cassey Cress,Engaging,2017-05-05,,,finance,East,0.9998315307954521,0.016846920454793857,Baixo
+MPME6VZD,Dontechi,GTX Plus Basic,Kami Bicknell,Engaging,2017-05-29,,,software,West,0.9998315684608593,0.016843153914070097,Baixo
+G39V1X3G,,MG Special,Corliss Cosme,Engaging,2017-01-07,,,Unknown,East,0.9998315782739822,0.016842172601783112,Baixo
+VXMFL425,Faxquote,GTX Basic,James Ascencio,Engaging,2017-02-12,,,telecommunications,West,0.9998317966382518,0.016820336174816486,Baixo
+JA5G7YBO,Blackzim,MG Special,Markita Hansen,Engaging,2017-03-05,,,retail,West,0.9998331015645768,0.01668984354231684,Baixo
+LC2RIMSX,Vehement Capital Partners,GTXPro,Rosalina Dieter,Engaging,2017-06-10,,,finance,West,0.9998332291610149,0.016677083898508638,Baixo
+0CR37ETK,,MG Advanced,Corliss Cosme,Engaging,2017-11-05,,,Unknown,East,0.9998334406339091,0.01665593660908904,Baixo
+055Z2OAS,Dontechi,MG Special,Anna Snelling,Engaging,2017-07-19,,,software,Central,0.9998335966942035,0.01664033057965364,Baixo
+68EYCEV4,Faxquote,GTXPro,Rosie Papadopoulos,Engaging,2017-08-10,,,telecommunications,East,0.9998335978097477,0.016640219025232383,Baixo
+E3XLWCWX,Ontomedia,GTX Plus Pro,Marty Freudenburg,Engaging,2017-07-19,,,employment,Central,0.9998341377649599,0.01658622350401151,Baixo
+0TC6I9SJ,Dontechi,GTXPro,Darcel Schlecht,Engaging,2017-07-24,,,software,Central,0.9998343849243427,0.016561507565726608,Baixo
+021Z2J9L,Rundofase,GTK 500,Markita Hansen,Engaging,2017-07-23,,,technolgy,West,0.9998343987711888,0.01656012288111519,Baixo
+9Z2WTTNY,Statholdings,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-28,,,employment,Central,0.9998346608947966,0.016533910520344364,Baixo
+Q65B52C5,Kan-code,GTX Basic,Niesha Huffines,Engaging,2017-07-31,,,software,Central,0.9998347114664127,0.016528853358732665,Baixo
+PGXIPGDM,Lexiqvolax,MG Advanced,Vicki Laflamme,Engaging,2017-04-12,,,medical,West,0.9998352215702565,0.01647784297434951,Baixo
+DWUXMAGZ,,GTX Plus Pro,Corliss Cosme,Engaging,2016-12-17,,,Unknown,East,0.9998361175651812,0.016388243481879616,Baixo
+WO1OYV0Z,,GTX Plus Pro,Boris Faz,Engaging,2017-08-06,,,Unknown,East,0.9998368753931361,0.016312460686385144,Baixo
+VXTVHC1Z,,GTX Plus Pro,Boris Faz,Engaging,2017-05-28,,,Unknown,East,0.9998369910490733,0.016300895092669077,Baixo
+VK9KN5PT,,MG Advanced,Boris Faz,Engaging,2017-04-02,,,Unknown,East,0.9998377047479176,0.0162295252082445,Baixo
+KQ83VL8T,,GTX Plus Basic,Boris Faz,Engaging,2017-09-17,,,Unknown,East,0.99983779866498,0.016220133501998468,Baixo
+VGSH1TSW,Vehement Capital Partners,MG Special,Violet Mclelland,Engaging,2017-08-25,,,finance,East,0.9998379900262668,0.016200997373316817,Baixo
+NXXKM7C7,Cancity,GTX Plus Basic,Daniell Hammack,Engaging,2017-11-14,,,retail,East,0.999837991428585,0.016200857141501768,Baixo
+FZC2J90W,Bluth Company,MG Advanced,Maureen Marcano,Engaging,2017-02-26,,,technolgy,West,0.9998388770863762,0.016112291362380127,Baixo
+7AFBJFP5,,MG Special,Maureen Marcano,Engaging,2017-07-24,,,Unknown,West,0.9998393648220024,0.01606351779975812,Baixo
+21OMR381,,MG Special,Corliss Cosme,Engaging,2017-07-12,,,Unknown,East,0.9998401742283769,0.015982577162310108,Baixo
+KF05URX0,,MG Special,Corliss Cosme,Engaging,2017-05-11,,,Unknown,East,0.9998402865969093,0.015971340309073323,Baixo
+FHM7LYZ3,,MG Special,Corliss Cosme,Engaging,2017-06-09,,,Unknown,East,0.9998402875284242,0.015971247157575696,Baixo
+73HO9OZC,Finjob,GTX Basic,Cassey Cress,Engaging,2017-03-12,,,employment,East,0.9998403653307502,0.015963466924984182,Baixo
+CVFUMOK9,Rangreen,GTX Plus Pro,Corliss Cosme,Engaging,2017-04-12,,,technolgy,East,0.9998412068048516,0.015879319514844337,Baixo
+ZTLLHCBU,Dontechi,GTX Basic,Kary Hendrixson,Engaging,2017-03-07,,,software,West,0.9998414237157534,0.01585762842466476,Baixo
+DNBR1VHP,Silis,MG Special,Anna Snelling,Engaging,2017-07-20,,,medical,Central,0.9998416510204635,0.01583489795364823,Baixo
+N07XYH50,Newex,GTXPro,Gladys Colclough,Engaging,2017-07-28,,,services,Central,0.999841813270321,0.0158186729679044,Baixo
+EUBMHJGQ,Hottechi,MG Special,Versie Hillebrand,Engaging,2017-07-21,,,technolgy,Central,0.9998420465698825,0.015795343011748564,Baixo
+7Y530NLJ,Genco Pura Olive Oil Company,GTX Plus Basic,Boris Faz,Engaging,2017-04-12,,,retail,East,0.9998422197406757,0.015778025932433604,Baixo
+MA56XGWR,Iselectrics,GTX Basic,Daniell Hammack,Engaging,2017-11-05,,,technolgy,East,0.9998422898032328,0.015771019676724674,Baixo
+MUSSD9WD,Goodsilron,GTX Plus Basic,Darcel Schlecht,Engaging,2017-08-09,,,marketing,Central,0.9998423940864092,0.01576059135908192,Baixo
+NJNY07JZ,Codehow,GTX Basic,Darcel Schlecht,Engaging,2017-07-29,,,software,Central,0.9998424836292955,0.01575163707044913,Baixo
+HABN7JBG,Rantouch,GTX Basic,Elease Gluck,Engaging,2017-06-17,,,telecommunications,West,0.9998428787543447,0.01571212456552562,Baixo
+VHT6G2BS,,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-08-14,,,Unknown,Central,0.999842926689406,0.015707331059400254,Baixo
+0OHEJOI5,,MG Advanced,Corliss Cosme,Engaging,2017-08-13,,,Unknown,East,0.9998431356702707,0.015686432972927822,Baixo
+LTVGILHP,Bioholding,GTX Basic,Kary Hendrixson,Engaging,2017-05-11,,,medical,West,0.9998431769292758,0.01568230707241769,Baixo
+PVLGUIEN,,MG Advanced,Corliss Cosme,Engaging,2017-04-09,,,Unknown,East,0.9998432459570319,0.015675404296811024,Baixo
+N07K7DR7,Plexzap,MG Special,Rosie Papadopoulos,Engaging,2016-12-18,,,retail,East,0.999843449123101,0.01565508768990309,Baixo
+KXR63BV7,,GTXPro,Corliss Cosme,Engaging,2017-09-04,,,Unknown,East,0.9998435414368759,0.015645856312407336,Baixo
+JB60NPU9,,GTXPro,Corliss Cosme,Engaging,2017-09-11,,,Unknown,East,0.9998435414368759,0.015645856312407336,Baixo
+4CXUC4VR,Rantouch,GTX Basic,Vicki Laflamme,Engaging,2017-03-02,,,telecommunications,West,0.9998435427215508,0.015645727844915136,Baixo
+BO1ZOZG2,Ontomedia,GTX Plus Basic,Kary Hendrixson,Engaging,2017-05-28,,,employment,West,0.9998437295506499,0.015627044935007106,Baixo
+1FEHFRKX,Labdrill,GTX Plus Pro,Anna Snelling,Engaging,2017-07-20,,,medical,Central,0.9998438547178938,0.015614528210616818,Baixo
+QDGUWTLU,,MG Special,Rosalina Dieter,Engaging,2017-02-27,,,Unknown,West,0.9998439839249512,0.015601607504878157,Baixo
+0HUWQWOJ,,MG Special,Markita Hansen,Engaging,2017-10-09,,,Unknown,West,0.9998440403393383,0.015595966066173084,Baixo
+P9PFSLS6,,MG Special,Maureen Marcano,Engaging,2017-02-05,,,Unknown,West,0.9998443903448692,0.015560965513083946,Baixo
+LD4F6QTP,Groovestreet,GTX Plus Pro,Anna Snelling,Engaging,2017-07-20,,,retail,Central,0.9998445838157831,0.01554161842168833,Baixo
+BYF6ABTZ,Opentech,GTX Plus Pro,Kary Hendrixson,Engaging,2017-04-18,,,finance,West,0.9998446225749973,0.015537742500271179,Baixo
+QJ1DIUN7,Ganjaflex,MG Special,Rosalina Dieter,Engaging,2017-08-17,,,retail,West,0.999844649602531,0.015535039746894519,Baixo
+7S8SLZDY,,MG Special,Rosalina Dieter,Engaging,2017-11-27,,,Unknown,West,0.9998447607059756,0.015523929402438963,Baixo
+UP409DSB,Ganjaflex,MG Advanced,Maureen Marcano,Engaging,2016-11-10,,,retail,West,0.9998451299102272,0.015487008977277394,Baixo
+3FI1J4VO,,MG Special,Gladys Colclough,Engaging,2017-07-29,,,Unknown,Central,0.999845295389589,0.015470461041100503,Baixo
+XNHTLVT1,,MG Special,Gladys Colclough,Engaging,2017-07-22,,,Unknown,Central,0.999845295389589,0.015470461041100503,Baixo
+G78ZK6XI,,MG Special,Gladys Colclough,Engaging,2017-08-01,,,Unknown,Central,0.9998453010911013,0.015469890889874272,Baixo
+3G61D5KV,,MG Special,Gladys Colclough,Engaging,2017-08-03,,,Unknown,Central,0.9998453010911013,0.015469890889874272,Baixo
+ZCUMC0XC,,MG Special,Gladys Colclough,Engaging,2017-08-04,,,Unknown,Central,0.9998453010911013,0.015469890889874272,Baixo
+BRDB1I76,,MG Special,Gladys Colclough,Engaging,2017-07-26,,,Unknown,Central,0.9998453010911013,0.015469890889874272,Baixo
+7RLLNAYC,,MG Special,Gladys Colclough,Engaging,2017-07-26,,,Unknown,Central,0.9998453010911013,0.015469890889874272,Baixo
+P3Z2LYCL,,MG Special,Versie Hillebrand,Engaging,2017-07-23,,,Unknown,Central,0.9998453183193456,0.015468168065435606,Baixo
+0M3NCPQX,,MG Special,Versie Hillebrand,Engaging,2017-07-30,,,Unknown,Central,0.9998453183193456,0.015468168065435606,Baixo
+NJC4XMEN,Initech,GTX Plus Basic,James Ascencio,Engaging,2017-09-09,,,telecommunications,West,0.9998456298285691,0.015437017143093978,Baixo
+3E4VTH6E,Hatfan,MG Special,Hayden Neloms,Engaging,2017-03-12,,,services,West,0.9998457125008555,0.01542874991444787,Baixo
+FWTTJ2G8,Initech,GTX Basic,Kary Hendrixson,Engaging,2017-05-06,,,telecommunications,West,0.9998458589336228,0.015414106637723357,Baixo
+4RDJBBB6,,MG Special,Daniell Hammack,Engaging,2017-03-22,,,Unknown,East,0.99984628983434,0.015371016566001483,Baixo
+HHDQ9EW4,Inity,GTX Basic,Kami Bicknell,Engaging,2017-04-28,,,marketing,West,0.999846379430783,0.015362056921697231,Baixo
+Z236WCM1,Vehement Capital Partners,GTX Plus Basic,Kary Hendrixson,Engaging,2017-05-05,,,finance,West,0.9998464314117814,0.015356858821857777,Baixo
+0558PJL2,,GTX Basic,Corliss Cosme,Engaging,2017-09-11,,,Unknown,East,0.9998467658087479,0.015323419125212734,Baixo
+PMEENWD5,Globex Corporation,GTXPro,Corliss Cosme,Engaging,2017-01-21,,,technolgy,East,0.9998472742985614,0.01527257014386496,Baixo
+Z9QZKUV5,Zumgoity,GTX Basic,Zane Levy,Engaging,2017-03-30,,,medical,West,0.9998474128757224,0.015258712427757004,Baixo
+NGTVHTFH,,GTXPro,Boris Faz,Engaging,2017-12-19,,,Unknown,East,0.9998475260969834,0.015247390301664776,Baixo
+S9JXWIBD,,GTX Plus Basic,Gladys Colclough,Engaging,2017-07-30,,,Unknown,Central,0.9998477538913612,0.01522461086388427,Baixo
+BREOLQD9,,MG Advanced,Boris Faz,Engaging,2017-11-16,,,Unknown,East,0.9998479625427849,0.015203745721514839,Baixo
+EP5QRHID,,MG Advanced,Boris Faz,Engaging,2017-10-04,,,Unknown,East,0.9998479625427849,0.015203745721514839,Baixo
+FH30JK3J,Ontomedia,GTX Plus Basic,Cassey Cress,Engaging,2017-09-06,,,employment,East,0.9998485213857985,0.015147861420150566,Baixo
+S3LATQVJ,Kinnamplus,GTX Plus Basic,Versie Hillebrand,Engaging,2017-07-23,,,retail,Central,0.9998485333714177,0.015146662858234183,Baixo
+1ORXGKVH,Sonron,GTXPro,Kary Hendrixson,Engaging,2017-06-17,,,telecommunications,West,0.9998486141174476,0.01513858825523684,Baixo
+VIY7P8J6,Hatfan,MG Special,Versie Hillebrand,Engaging,2017-08-01,,,services,Central,0.999848824513357,0.015117548664300706,Baixo
+7ZN8YCH8,Gekko & Co,MG Special,Versie Hillebrand,Engaging,2017-08-12,,,retail,Central,0.999849422157717,0.01505778422830062,Baixo
+G40058T1,Yearin,MG Special,Versie Hillebrand,Engaging,2017-07-29,,,retail,Central,0.999849422157717,0.01505778422830062,Baixo
+CJ2ON1LV,Nam-zim,GTXPro,Corliss Cosme,Engaging,2017-01-11,,,services,East,0.9998494221914414,0.015057780855864955,Baixo
+R5RSH4JV,,GTX Plus Pro,Boris Faz,Engaging,2017-02-25,,,Unknown,East,0.9998496949125382,0.01503050874618328,Baixo
+T7T1YIM7,,GTX Plus Pro,Boris Faz,Engaging,2017-01-06,,,Unknown,East,0.9998497004519341,0.015029954806589085,Baixo
+059K86LU,Labdrill,GTX Plus Pro,Kami Bicknell,Engaging,2017-08-26,,,medical,West,0.9998499853357811,0.015001466421893372,Baixo
+W5FH95XO,,MG Special,Hayden Neloms,Engaging,2017-10-30,,,Unknown,West,0.9998502612334766,0.014973876652335516,Baixo
+VN8LKQN3,,GTX Plus Basic,Boris Faz,Engaging,2017-02-02,,,Unknown,East,0.999850551145851,0.014944885414902576,Baixo
+Z0RLNFVY,,GTX Plus Basic,Boris Faz,Engaging,2017-03-16,,,Unknown,East,0.999850551145851,0.014944885414902576,Baixo
+ZQ4QTT1Z,,GTX Plus Basic,Boris Faz,Engaging,2017-03-07,,,Unknown,East,0.999850551145851,0.014944885414902576,Baixo
+7VKQWIXD,,GTX Plus Basic,Boris Faz,Engaging,2017-03-14,,,Unknown,East,0.999850551145851,0.014944885414902576,Baixo
+WQAKXOYU,,GTXPro,Boris Faz,Engaging,2017-07-02,,,Unknown,East,0.9998508784553108,0.014912154468915695,Baixo
+KD6MB4AP,,MG Special,Elease Gluck,Engaging,2016-12-11,,,Unknown,West,0.9998509712573805,0.014902874261946142,Baixo
+GQDS81G1,,GTX Plus Pro,Corliss Cosme,Engaging,2017-11-30,,,Unknown,East,0.999851193833054,0.01488061669460139,Baixo
+WLDFQR7Z,Bubba Gump,MG Advanced,Darcel Schlecht,Engaging,2017-07-21,,,software,Central,0.9998515486892814,0.01484513107186114,Baixo
+RFQFJLNJ,,MG Special,Markita Hansen,Engaging,2017-08-21,,,Unknown,West,0.9998515857209891,0.014841427901091109,Baixo
+PNISVWNN,Scotfind,MG Advanced,Darcel Schlecht,Engaging,2017-07-21,,,software,Central,0.9998518065859684,0.014819341403160546,Baixo
+7OZ7L8BB,,GTX Basic,Gladys Colclough,Engaging,2017-07-24,,,Unknown,Central,0.9998518296593576,0.01481703406424062,Baixo
+CMW6IQJI,Faxquote,MG Advanced,Niesha Huffines,Engaging,2017-07-25,,,telecommunications,Central,0.9998519921136215,0.014800788637847617,Baixo
+S2XTTF3B,,MG Special,Rosalina Dieter,Engaging,2017-09-11,,,Unknown,West,0.9998522712411917,0.01477287588083076,Baixo
+W24IDMVV,,GTX Plus Pro,Corliss Cosme,Engaging,2017-02-15,,,Unknown,East,0.9998523235044684,0.014767649553160123,Baixo
+F761DF0M,Silis,GTX Basic,Zane Levy,Engaging,2017-10-11,,,medical,West,0.9998524981740855,0.014750182591449779,Baixo
+SQLYCFGV,Opentech,GTXPro,Zane Levy,Engaging,2016-12-22,,,finance,West,0.9998525227998919,0.014747720010810372,Baixo
+T0VJ4AMX,Green-Plus,GTX Basic,Corliss Cosme,Engaging,2017-03-31,,,services,East,0.999852525387825,0.014747461217501368,Baixo
+6I125KPN,,MG Advanced,Daniell Hammack,Engaging,2017-05-22,,,Unknown,East,0.9998526367069416,0.014736329305842233,Baixo
+ZT52DT8H,,MG Advanced,Daniell Hammack,Engaging,2017-06-26,,,Unknown,East,0.9998526375664363,0.01473624335637247,Baixo
+USS2SNQI,,MG Special,Maureen Marcano,Engaging,2017-08-13,,,Unknown,West,0.9998526561285045,0.014734387149550887,Baixo
+8GV0BQTU,Xx-holding,MG Advanced,Kary Hendrixson,Engaging,2017-05-17,,,finance,West,0.9998526879595862,0.014731204041384949,Baixo
+0U3WVJO0,,GTXPro,Corliss Cosme,Engaging,2016-12-28,,,Unknown,East,0.9998527311985266,0.014726880147342136,Baixo
+A194RP0I,,MG Advanced,Rosalina Dieter,Engaging,2016-12-12,,,Unknown,West,0.9998529504273002,0.01470495726998422,Baixo
+WJQ8VD51,Faxquote,GTX Basic,Kami Bicknell,Engaging,2017-02-19,,,telecommunications,West,0.9998536503019884,0.014634969801163855,Baixo
+SU8JNMP4,Bubba Gump,GTX Plus Basic,Kami Bicknell,Engaging,2016-11-24,,,software,West,0.9998540483850621,0.014595161493791142,Baixo
+NZJXKD9H,,MG Special,Daniell Hammack,Engaging,2017-08-19,,,Unknown,East,0.9998541242934538,0.014587570654622795,Baixo
+VHZFABAC,,MG Special,Daniell Hammack,Engaging,2017-06-22,,,Unknown,East,0.9998542330781474,0.01457669218526414,Baixo
+6US3WW0M,,MG Special,Jonathan Berthelot,Engaging,2017-07-29,,,Unknown,Central,0.999854443986938,0.014555601306198707,Baixo
+0NSRB3EO,,MG Special,Jonathan Berthelot,Engaging,2017-07-20,,,Unknown,Central,0.999854449351335,0.014555064866494938,Baixo
+4O3EPWFR,,GTX Plus Basic,Corliss Cosme,Engaging,2017-10-12,,,Unknown,East,0.9998545496596558,0.014545034034418869,Baixo
+G1W97XZA,,GTX Plus Basic,Maureen Marcano,Engaging,2017-11-13,,,Unknown,West,0.9998546502218499,0.014534977815006123,Baixo
+ACGLK2YE,Treequote,GTX Plus Basic,Moses Frase,Engaging,2017-08-05,,,telecommunications,Central,0.9998546639278315,0.014533607216848932,Baixo
+A7SA2L21,,GTK 500,Elease Gluck,Engaging,2017-01-30,,,Unknown,West,0.9998549805503029,0.014501944969713687,Baixo
+O9WYT5ST,Kan-code,GTXPro,Zane Levy,Engaging,2017-06-23,,,software,West,0.999855162335959,0.014483766404105314,Baixo
+I6PXHXST,Singletechno,MG Advanced,Marty Freudenburg,Engaging,2017-08-14,,,retail,Central,0.9998552846610173,0.014471533898274824,Baixo
+QEZ2X87C,Iselectrics,MG Special,Rosalina Dieter,Engaging,2017-09-07,,,technolgy,West,0.9998555486081584,0.01444513918416046,Baixo
+KBPKLB2X,,GTXPro,Jonathan Berthelot,Engaging,2017-08-14,,,Unknown,Central,0.9998555930195342,0.014440698046580547,Baixo
+XRZVJPD5,,GTX Plus Basic,Maureen Marcano,Engaging,2017-02-27,,,Unknown,West,0.999855643050013,0.014435694998704562,Baixo
+K72CEXGZ,,GTX Plus Basic,Maureen Marcano,Engaging,2017-03-20,,,Unknown,West,0.999855643050013,0.014435694998704562,Baixo
+T1F2I8ED,,GTX Plus Basic,Corliss Cosme,Engaging,2017-03-09,,,Unknown,East,0.9998556538587784,0.014434614122160738,Baixo
+SJ3QA8KP,Treequote,MG Advanced,Niesha Huffines,Engaging,2017-07-28,,,telecommunications,Central,0.9998557556348758,0.014424436512416872,Baixo
+EUG019AS,,GTX Basic,Corliss Cosme,Engaging,2016-12-23,,,Unknown,East,0.9998557662107758,0.014423378922423513,Baixo
+HAUB1NBF,,GTXPro,Corliss Cosme,Engaging,2017-07-02,,,Unknown,East,0.9998559707981128,0.014402920188716362,Baixo
+8Y4LJOJ0,,GTX Plus Basic,Versie Hillebrand,Engaging,2017-07-24,,,Unknown,Central,0.9998559840912192,0.01440159087807702,Baixo
+YVXKNYSM,,GTXPro,Corliss Cosme,Engaging,2017-05-07,,,Unknown,East,0.9998560720621666,0.014392793783335467,Baixo
+WK1319MB,,MG Advanced,Boris Faz,Engaging,2017-08-23,,,Unknown,East,0.999856812413395,0.01431875866050314,Baixo
+1K6HY455,,MG Advanced,Boris Faz,Engaging,2017-05-09,,,Unknown,East,0.9998569139359356,0.014308606406443491,Baixo
+7AXR8U55,,MG Advanced,Boris Faz,Engaging,2017-05-26,,,Unknown,East,0.9998569139359356,0.014308606406443491,Baixo
+FKY3O5O1,Zotware,GTXPro,Niesha Huffines,Engaging,2017-08-01,,,software,Central,0.9998570537246295,0.014294627537048132,Baixo
+ZEYGDEBG,,GTXPro,Daniell Hammack,Engaging,2017-10-09,,,Unknown,East,0.9998574130631561,0.014258693684388035,Baixo
+O691ZXXH,,MG Special,Markita Hansen,Engaging,2017-10-08,,,Unknown,West,0.999857441199485,0.014255880051494696,Baixo
+EBLSL27F,,GTX Plus Pro,Boris Faz,Engaging,2017-06-24,,,Unknown,East,0.999857461371144,0.014253862885604818,Baixo
+JL9ERNVY,,GTX Plus Pro,Boris Faz,Engaging,2017-05-20,,,Unknown,East,0.9998574613866529,0.01425386133471207,Baixo
+41RF80KQ,,GTX Plus Pro,Boris Faz,Engaging,2017-05-23,,,Unknown,East,0.9998574666398611,0.014253336013891893,Baixo
+PU62ZGX4,Singletechno,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-07-27,,,retail,Central,0.9998574691938162,0.014253080618376046,Baixo
+L6223VHA,Sumace,GTXPro,Darcel Schlecht,Engaging,2017-07-26,,,retail,Central,0.999857871305564,0.014212869443597231,Baixo
+0I6U3MQ6,Funholding,GTX Basic,Violet Mclelland,Engaging,2017-01-12,,,finance,East,0.9998580751860022,0.014192481399777357,Baixo
+STT3X4NB,Xx-holding,GTX Basic,Violet Mclelland,Engaging,2017-03-01,,,finance,East,0.9998580751860022,0.014192481399777357,Baixo
+ZLN48IIP,Iselectrics,GTX Basic,Markita Hansen,Engaging,2017-04-03,,,technolgy,West,0.9998581302019155,0.014186979808450406,Baixo
+0K59ZLQC,Donquadtech,GTX Basic,Corliss Cosme,Engaging,2017-05-18,,,technolgy,East,0.9998581559037364,0.014184409626361028,Baixo
+I3KQNE9V,Isdom,GTX Plus Pro,Darcel Schlecht,Engaging,2017-07-19,,,medical,Central,0.9998581696013215,0.014183039867854408,Baixo
+IOPIJ6C6,,GTX Plus Basic,Boris Faz,Engaging,2017-09-07,,,Unknown,East,0.9998581728253431,0.014182717465693884,Baixo
+EB89ONZN,Funholding,GTXPro,Kary Hendrixson,Engaging,2017-03-29,,,finance,West,0.9998582690993069,0.014173090069313776,Baixo
+BMH2FEGF,,GTX Plus Basic,Boris Faz,Engaging,2017-06-30,,,Unknown,East,0.9998582733680432,0.014172663195677337,Baixo
+60NIT1PM,,GTX Plus Basic,Boris Faz,Engaging,2017-05-02,,,Unknown,East,0.9998582733834639,0.014172661653610863,Baixo
+K5GFWLKM,,GTX Plus Basic,Boris Faz,Engaging,2017-05-09,,,Unknown,East,0.9998582733834639,0.014172661653610863,Baixo
+44Y3J17P,,GTX Plus Basic,Boris Faz,Engaging,2017-05-02,,,Unknown,East,0.9998582733834639,0.014172661653610863,Baixo
+BDUNPUWY,,GTX Plus Basic,Boris Faz,Engaging,2017-04-25,,,Unknown,East,0.9998582733834639,0.014172661653610863,Baixo
+HYSOZRCG,,GTX Plus Basic,Boris Faz,Engaging,2017-05-23,,,Unknown,East,0.9998582733834639,0.014172661653610863,Baixo
+YI1V6SOX,The New York Inquirer,GTXPro,Darcel Schlecht,Engaging,2017-07-29,,,medical,Central,0.9998582932320277,0.014170676797231607,Baixo
+QGXJLNK1,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-24,,,Unknown,Central,0.9998585690618378,0.014143093816221253,Baixo
+Y8ZUSC9C,,GTX Basic,Jonathan Berthelot,Engaging,2017-08-14,,,Unknown,Central,0.9998585690618378,0.014143093816221253,Baixo
+4XXAK1QL,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-31,,,Unknown,Central,0.9998585690618378,0.014143093816221253,Baixo
+I7BWM5O0,Warephase,MG Special,Violet Mclelland,Engaging,2017-03-06,,,services,East,0.999858683652892,0.014131634710801144,Baixo
+GACPNKGI,,MG Special,Elease Gluck,Engaging,2017-04-17,,,Unknown,West,0.9998593918741931,0.014060812580685145,Baixo
+7YT7NRV9,,MG Special,Elease Gluck,Engaging,2017-05-15,,,Unknown,West,0.9998593918741931,0.014060812580685145,Baixo
+8FGW6RSX,,MG Special,Elease Gluck,Engaging,2017-08-14,,,Unknown,West,0.9998596064555829,0.01403935444170834,Baixo
+RACLHBXN,,GTX Plus Basic,Daniell Hammack,Engaging,2017-03-19,,,Unknown,East,0.9998597544721269,0.014024552787306188,Baixo
+B3A6VXVQ,Acme Corporation,GTX Basic,Corliss Cosme,Engaging,2017-07-08,,,technolgy,East,0.9998598210781244,0.014017892187556669,Baixo
+FOJG3OCO,,GTX Plus Pro,Corliss Cosme,Engaging,2017-07-01,,,Unknown,East,0.9998598504763332,0.014014952366681044,Baixo
+A7OVC1WK,,GTX Plus Pro,Corliss Cosme,Engaging,2017-09-19,,,Unknown,East,0.9998598556415047,0.014014435849529772,Baixo
+Y0M8X7BV,,GTX Plus Pro,Corliss Cosme,Engaging,2017-08-25,,,Unknown,East,0.9998598556415047,0.014014435849529772,Baixo
+R1K16RZO,,GTX Plus Pro,Maureen Marcano,Engaging,2017-05-01,,,Unknown,West,0.999859943738312,0.014005626168800411,Baixo
+RXAQJKSL,,GTX Plus Pro,Corliss Cosme,Engaging,2017-04-26,,,Unknown,East,0.9998599541745852,0.014004582541482513,Baixo
+LXZD2PZD,,GTX Plus Pro,Corliss Cosme,Engaging,2017-04-04,,,Unknown,East,0.9998599541745852,0.014004582541482513,Baixo
+0XBGT413,,GTXPro,Gladys Colclough,Engaging,2017-07-30,,,Unknown,Central,0.9998600310123115,0.013996898768853239,Baixo
+7EHJYKWE,Xx-holding,GTX Basic,Kary Hendrixson,Engaging,2017-10-28,,,finance,West,0.999860422586201,0.01395774137989969,Baixo
+VRYR5A81,Finhigh,GTX Basic,Wilburn Farren,Engaging,2017-03-25,,,finance,East,0.9998604363971103,0.013956360288969183,Baixo
+HJY0TQ7X,Toughzap,MG Special,Zane Levy,Engaging,2017-09-18,,,retail,West,0.9998605511876448,0.01394488123551696,Baixo
+Q2CLAKLM,,GTX Plus Pro,Daniell Hammack,Engaging,2017-04-30,,,Unknown,East,0.9998606748157651,0.013932518423487306,Baixo
+HEWKNHTH,,GTX Plus Pro,Daniell Hammack,Engaging,2017-06-18,,,Unknown,East,0.999860675628384,0.013932437161601197,Baixo
+29W6WPLA,Gekko & Co,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-07-20,,,retail,Central,0.9998611205351202,0.013887946487978198,Baixo
+SLYFFVBE,Blackzim,GTX Plus Basic,Maureen Marcano,Engaging,2017-03-07,,,retail,West,0.9998614950539784,0.013850494602163366,Baixo
+4QQOSYGL,,MG Advanced,Corliss Cosme,Engaging,2017-07-29,,,Unknown,East,0.9998616970487163,0.013830295128369752,Baixo
+04SCU6DK,,MG Advanced,Corliss Cosme,Engaging,2017-07-01,,,Unknown,East,0.9998616970487163,0.013830295128369752,Baixo
+XNKIZY9J,,MG Advanced,Corliss Cosme,Engaging,2017-08-18,,,Unknown,East,0.9998617021458422,0.013829785415775397,Baixo
+JJGRAQ2K,Rangreen,GTX Plus Pro,Kary Hendrixson,Engaging,2017-10-23,,,technolgy,West,0.9998617230901842,0.013827690981582652,Baixo
+I6UG2OLX,,MG Advanced,Corliss Cosme,Engaging,2017-05-13,,,Unknown,East,0.9998617942873143,0.01382057126857461,Baixo
+ZIK2R3S7,,MG Advanced,Corliss Cosme,Engaging,2017-05-16,,,Unknown,East,0.999861799380857,0.013820061914304738,Baixo
+M9V8824W,,MG Advanced,Corliss Cosme,Engaging,2017-04-07,,,Unknown,East,0.999861799380857,0.013820061914304738,Baixo
+WSO3NMK5,,MG Advanced,Maureen Marcano,Engaging,2017-09-18,,,Unknown,West,0.9998620000548325,0.013799994516749958,Baixo
+6HG76L6U,,GTXPro,Boris Faz,Engaging,2017-02-21,,,Unknown,East,0.9998626027272933,0.013739727270667412,Baixo
+1ZDDZD8B,,MG Special,Markita Hansen,Engaging,2016-12-15,,,Unknown,West,0.9998627181623482,0.013728183765182589,Baixo
+7O1UQ19W,,GTX Basic,Gladys Colclough,Engaging,2017-08-13,,,Unknown,Central,0.9998629157507439,0.013708424925606977,Baixo
+BRFZCNMP,,GTX Plus Basic,Corliss Cosme,Engaging,2017-07-06,,,Unknown,East,0.9998630161566792,0.013698384332083702,Baixo
+O28I4VDY,,GTX Plus Basic,Corliss Cosme,Engaging,2017-07-18,,,Unknown,East,0.9998630161566792,0.013698384332083702,Baixo
+0AQGBN7B,,GTX Plus Basic,Maureen Marcano,Engaging,2017-05-08,,,Unknown,West,0.9998631022176255,0.01368977823744677,Baixo
+U177IWW0,,GTX Plus Basic,Maureen Marcano,Engaging,2017-05-22,,,Unknown,West,0.9998631022176255,0.01368977823744677,Baixo
+ZD1X3R4G,,GTX Plus Basic,Corliss Cosme,Engaging,2017-06-29,,,Unknown,East,0.9998631132663637,0.013688673363632109,Baixo
+JS5N8USN,,GTX Plus Basic,Corliss Cosme,Engaging,2017-06-14,,,Unknown,East,0.9998631132663637,0.013688673363632109,Baixo
+CYWZJ2AI,Donquadtech,GTX Plus Basic,Kary Hendrixson,Engaging,2017-02-20,,,technolgy,West,0.9998632017988099,0.013679820119005814,Baixo
+IBB0VGUN,,MG Special,Cassey Cress,Engaging,2017-11-05,,,Unknown,East,0.9998634808531168,0.01365191468831739,Baixo
+XSTGL252,Toughzap,GTXPro,Cassey Cress,Engaging,2017-10-15,,,retail,East,0.9998635221835461,0.013647781645387269,Baixo
+WRKPDK7O,Hatfan,GTX Plus Pro,Versie Hillebrand,Engaging,2017-08-01,,,services,Central,0.9998636577768453,0.013634222315472844,Baixo
+XYNTWPN1,Rundofase,MG Special,Violet Mclelland,Engaging,2017-01-08,,,technolgy,East,0.9998637517817909,0.013624821820912292,Baixo
+G7RZTAMV,,GTX Plus Pro,Gladys Colclough,Engaging,2017-07-27,,,Unknown,Central,0.9998638063560494,0.013619364395056621,Baixo
+3ECHUPQY,,GTX Plus Basic,Daniell Hammack,Engaging,2016-12-20,,,Unknown,East,0.9998639126899023,0.013608731009773223,Baixo
+5T8Q2YID,,MG Special,Elease Gluck,Engaging,2017-01-01,,,Unknown,West,0.9998639988471366,0.013600115286338532,Baixo
+YQ0Y0YQS,Newex,MG Advanced,Violet Mclelland,Engaging,2017-03-05,,,services,East,0.9998640789344995,0.013592106550053273,Baixo
+579LZ3F9,J-Texon,GTX Plus Basic,Daniell Hammack,Engaging,2016-11-24,,,retail,East,0.9998642260744726,0.013577392552743817,Baixo
+M9GP930T,,MG Special,Rosalina Dieter,Engaging,2017-04-23,,,Unknown,West,0.9998642876760858,0.01357123239141833,Baixo
+W4XB23IP,,GTX Basic,Boris Faz,Engaging,2017-11-09,,,Unknown,East,0.9998644041303556,0.01355958696444004,Baixo
+WIQQUZRQ,,MG Special,Rosalina Dieter,Engaging,2017-09-10,,,Unknown,West,0.9998644947870282,0.013550521297178708,Baixo
+E617EXPD,Iselectrics,MG Advanced,Vicki Laflamme,Engaging,2017-08-14,,,technolgy,West,0.9998645427469574,0.013545725304264788,Baixo
+TQZLDFIJ,,MG Special,Versie Hillebrand,Engaging,2017-07-29,,,Unknown,Central,0.9998647430764666,0.013525692353344443,Baixo
+MM79TSUR,,MG Special,Versie Hillebrand,Engaging,2017-07-22,,,Unknown,Central,0.9998647430764666,0.013525692353344443,Baixo
+3A54O8JT,,MG Special,Versie Hillebrand,Engaging,2017-08-05,,,Unknown,Central,0.9998647430764666,0.013525692353344443,Baixo
+4JTH72JR,,MG Special,Versie Hillebrand,Engaging,2017-07-22,,,Unknown,Central,0.9998647430764666,0.013525692353344443,Baixo
+INLVV78V,,MG Special,Versie Hillebrand,Engaging,2017-07-22,,,Unknown,Central,0.9998647430764666,0.013525692353344443,Baixo
+8LP076IV,,MG Special,Versie Hillebrand,Engaging,2017-08-02,,,Unknown,Central,0.9998647480613471,0.013525193865293605,Baixo
+WVT3X6IC,,MG Special,Versie Hillebrand,Engaging,2017-07-27,,,Unknown,Central,0.9998647480613471,0.013525193865293605,Baixo
+VJSI29OF,,MG Special,Versie Hillebrand,Engaging,2017-08-11,,,Unknown,Central,0.9998647480613471,0.013525193865293605,Baixo
+CWXHKUV5,,MG Special,Versie Hillebrand,Engaging,2017-08-02,,,Unknown,Central,0.9998647480613471,0.013525193865293605,Baixo
+Q1TS5ZKD,,MG Special,Versie Hillebrand,Engaging,2017-08-03,,,Unknown,Central,0.9998647480613471,0.013525193865293605,Baixo
+1DC9PQ4S,,MG Special,Versie Hillebrand,Engaging,2017-08-01,,,Unknown,Central,0.9998647480613471,0.013525193865293605,Baixo
+A9TEJW6U,,MG Special,Versie Hillebrand,Engaging,2017-08-01,,,Unknown,Central,0.9998647480613471,0.013525193865293605,Baixo
+8SVMGDPA,Donquadtech,GTX Plus Basic,Maureen Marcano,Engaging,2017-05-09,,,technolgy,West,0.9998648083886112,0.013519161138875191,Baixo
+754UOV5F,,MG Special,Marty Freudenburg,Engaging,2017-07-30,,,Unknown,Central,0.9998652511958303,0.013474880416974866,Baixo
+6F79VYH8,,GTX Basic,Boris Faz,Engaging,2017-03-07,,,Unknown,East,0.9998654343279697,0.013456567203029568,Baixo
+HMWIP0F2,Finjob,MG Special,Darcel Schlecht,Engaging,2017-08-12,,,employment,Central,0.9998655080207599,0.013449197924009226,Baixo
+9C3YHNBY,,MG Advanced,Gladys Colclough,Engaging,2017-08-01,,,Unknown,Central,0.9998656008138327,0.013439918616731106,Baixo
+82K9NWKO,,MG Advanced,Gladys Colclough,Engaging,2017-07-27,,,Unknown,Central,0.9998656008138327,0.013439918616731106,Baixo
+COSC7XVA,,MG Advanced,Gladys Colclough,Engaging,2017-07-21,,,Unknown,Central,0.9998656008138327,0.013439918616731106,Baixo
+8AK3KGFA,,MG Advanced,Gladys Colclough,Engaging,2017-07-25,,,Unknown,Central,0.9998656008138327,0.013439918616731106,Baixo
+J962I0KG,,GTX Plus Basic,Cassey Cress,Engaging,2017-11-20,,,Unknown,East,0.9998656581227969,0.013434187720307023,Baixo
+B4SIVH1O,Fasehatice,GTX Basic,Daniell Hammack,Engaging,2017-02-22,,,retail,East,0.9998656761670585,0.013432383294154082,Baixo
+9SLINQY5,Newex,MG Advanced,Markita Hansen,Engaging,2017-02-21,,,services,West,0.9998660363476525,0.013396365234752405,Baixo
+C9330YF1,Blackzim,GTX Basic,Markita Hansen,Engaging,2017-04-17,,,retail,West,0.9998661656086165,0.013383439138348052,Baixo
+NFMCPYOV,Finjob,GTX Basic,Rosie Papadopoulos,Engaging,2017-03-30,,,employment,East,0.9998661846504233,0.01338153495766825,Baixo
+R69OYH4Z,Umbrella Corporation,GTXPro,Vicki Laflamme,Engaging,2017-07-21,,,finance,West,0.9998661908427184,0.01338091572815614,Baixo
+C2FSIMZP,,GTXPro,Corliss Cosme,Engaging,2017-11-07,,,Unknown,East,0.9998662787951362,0.013372120486376815,Baixo
+XBPJ6M4K,Finhigh,GTX Basic,Kary Hendrixson,Engaging,2017-08-31,,,finance,West,0.999866858323481,0.013314167651901077,Baixo
+IW6S2BN0,,GTX Plus Basic,Gladys Colclough,Engaging,2017-08-01,,,Unknown,Central,0.9998668777391223,0.013312226087769385,Baixo
+LSA39JBG,,GTX Basic,Daniell Hammack,Engaging,2017-03-05,,,Unknown,East,0.9998669922152016,0.013300778479841124,Baixo
+67IKZGGJ,,GTX Plus Basic,Maureen Marcano,Engaging,2017-01-29,,,Unknown,West,0.9998671111642169,0.013288883578310706,Baixo
+HVZMZW96,,GTX Plus Basic,Maureen Marcano,Engaging,2017-02-26,,,Unknown,West,0.9998671111642169,0.013288883578310706,Baixo
+1H1YDS7C,,GTX Plus Basic,Maureen Marcano,Engaging,2017-02-26,,,Unknown,West,0.9998671111642169,0.013288883578310706,Baixo
+G6CMP5I9,,MG Advanced,Versie Hillebrand,Engaging,2017-08-06,,,Unknown,Central,0.9998672542305042,0.01327457694958456,Baixo
+OMJHW2J1,,MG Advanced,Versie Hillebrand,Engaging,2017-08-06,,,Unknown,Central,0.9998672542305042,0.01327457694958456,Baixo
+RN7M3757,,MG Advanced,Versie Hillebrand,Engaging,2017-07-30,,,Unknown,Central,0.9998672542305042,0.01327457694958456,Baixo
+4I8X7EMW,,GTXPro,Corliss Cosme,Engaging,2017-01-11,,,Unknown,East,0.9998672939633078,0.013270603669224279,Baixo
+KVR52YDI,,GTXPro,Corliss Cosme,Engaging,2017-03-01,,,Unknown,East,0.9998672939633078,0.013270603669224279,Baixo
+L1YN7LDL,Bluth Company,MG Special,Cassey Cress,Engaging,2017-06-16,,,technolgy,East,0.9998673731346626,0.01326268653374374,Baixo
+NMKAJZJ4,,MG Special,Kary Hendrixson,Engaging,2017-03-06,,,Unknown,West,0.9998675581767296,0.013244182327043497,Baixo
+3N3RAHXR,Nam-zim,GTX Plus Basic,Cassey Cress,Engaging,2017-03-19,,,services,East,0.9998681480634533,0.01318519365467452,Baixo
+OYH46MQB,,GTX Basic,Corliss Cosme,Engaging,2017-10-25,,,Unknown,East,0.9998690346461814,0.013096535381862395,Baixo
+5WAKI1NB,,GTX Basic,Corliss Cosme,Engaging,2017-10-04,,,Unknown,East,0.9998690346461814,0.013096535381862395,Baixo
+T6MPH7JC,,MG Special,Violet Mclelland,Engaging,2017-12-17,,,Unknown,East,0.999869130291382,0.013086970861797553,Baixo
+X3ZSQCH8,Scotfind,GTX Basic,Kami Bicknell,Engaging,2017-02-10,,,software,West,0.9998694539024744,0.013054609752560786,Baixo
+MOAP4XN7,,GTXPro,Boris Faz,Engaging,2017-08-05,,,Unknown,East,0.9998696050676689,0.013039493233113486,Baixo
+CFI2GXN1,,GTXPro,Boris Faz,Engaging,2017-07-07,,,Unknown,East,0.9998696098733845,0.013039012661553162,Baixo
+5E274CQS,,GTXPro,Boris Faz,Engaging,2017-09-05,,,Unknown,East,0.9998696098733845,0.013039012661553162,Baixo
+DB801ISB,,MG Special,Elease Gluck,Engaging,2017-12-22,,,Unknown,West,0.9998696867183903,0.013031328160972855,Baixo
+QCNOCX0P,,GTXPro,Boris Faz,Engaging,2017-04-07,,,Unknown,East,0.9998697023234812,0.013029767651884239,Baixo
+1QKDD1OI,Isdom,GTXPro,Darcel Schlecht,Engaging,2017-07-25,,,medical,Central,0.9998697759563472,0.01302240436528157,Baixo
+LUTZ8UQM,Isdom,GTXPro,Darcel Schlecht,Engaging,2017-07-25,,,medical,Central,0.9998697759563472,0.01302240436528157,Baixo
+MBPJUJ7F,Plexzap,GTX Basic,Jonathan Berthelot,Engaging,2017-08-10,,,retail,Central,0.999869971536368,0.01300284636319704,Baixo
+9W7PFSNX,,GTX Basic,Corliss Cosme,Engaging,2017-01-31,,,Unknown,East,0.9998700288955419,0.012997110445811533,Baixo
+CMKXOOJQ,,GTX Basic,Corliss Cosme,Engaging,2017-02-24,,,Unknown,East,0.9998700288955419,0.012997110445811533,Baixo
+6PW6ZQEE,,GTX Basic,Corliss Cosme,Engaging,2017-02-23,,,Unknown,East,0.9998700288955419,0.012997110445811533,Baixo
+EJDHOY6M,,GTX Basic,Corliss Cosme,Engaging,2017-03-17,,,Unknown,East,0.9998700288955419,0.012997110445811533,Baixo
+GEJLL5L3,,GTX Basic,Corliss Cosme,Engaging,2017-03-24,,,Unknown,East,0.9998700288955419,0.012997110445811533,Baixo
+1BW8S7JD,,MG Special,Violet Mclelland,Engaging,2017-11-06,,,Unknown,East,0.9998704468973472,0.012955310265283515,Baixo
+PQ84ANKD,,MG Special,Violet Mclelland,Engaging,2017-11-20,,,Unknown,East,0.9998704468973472,0.012955310265283515,Baixo
+MB7G8DWS,,GTX Plus Pro,Cassey Cress,Engaging,2017-04-03,,,Unknown,East,0.999870649979353,0.012935002064695666,Baixo
+IIVP87B8,,MG Special,Maureen Marcano,Engaging,2017-04-22,,,Unknown,West,0.9998709625586119,0.012903744138814677,Baixo
+SIBR2J01,,MG Special,Maureen Marcano,Engaging,2017-05-31,,,Unknown,West,0.9998709673143036,0.012903268569641746,Baixo
+6BIZ2MB6,,MG Special,Maureen Marcano,Engaging,2017-05-24,,,Unknown,West,0.9998709673143036,0.012903268569641746,Baixo
+WW1WV7IT,Cancity,GTXPro,Cassey Cress,Engaging,2017-03-31,,,retail,East,0.9998711431431687,0.012885685683128312,Baixo
+UGB3A3CE,,MG Special,Maureen Marcano,Engaging,2017-07-04,,,Unknown,West,0.9998711642787117,0.012883572128830068,Baixo
+H0RRUQZ6,,MG Special,Maureen Marcano,Engaging,2017-09-08,,,Unknown,West,0.9998711642787117,0.012883572128830068,Baixo
+JKAYQ4HQ,,MG Special,Elease Gluck,Engaging,2017-09-03,,,Unknown,West,0.9998712231406977,0.012877685930234861,Baixo
+HLDA8IA1,,MG Special,Elease Gluck,Engaging,2017-07-02,,,Unknown,West,0.9998712231406977,0.012877685930234861,Baixo
+M16D8PYH,,GTX Plus Pro,Daniell Hammack,Engaging,2017-01-05,,,Unknown,East,0.9998715378914381,0.012846210856187756,Baixo
+QM6VR1H5,,GTX Plus Pro,Daniell Hammack,Engaging,2017-01-04,,,Unknown,East,0.9998715378914381,0.012846210856187756,Baixo
+RQULJHTU,,GTX Plus Pro,Daniell Hammack,Engaging,2017-03-16,,,Unknown,East,0.9998715378914381,0.012846210856187756,Baixo
+DZ57QIQN,,GTX Plus Pro,Daniell Hammack,Engaging,2017-01-18,,,Unknown,East,0.9998715378914381,0.012846210856187756,Baixo
+Y28VHZKQ,,MG Advanced,Cassey Cress,Engaging,2017-03-13,,,Unknown,East,0.9998718469800271,0.012815301997293194,Baixo
+WS3BIQ4S,,GTX Plus Pro,Markita Hansen,Engaging,2017-05-22,,,Unknown,West,0.9998719728912611,0.01280271087389373,Baixo
+9X2S0K15,,MG Advanced,Hayden Neloms,Engaging,2017-02-27,,,Unknown,West,0.9998720899112017,0.01279100887983109,Baixo
+8TRT2HNF,Green-Plus,GTX Basic,Markita Hansen,Engaging,2017-04-03,,,services,West,0.9998721479160652,0.012785208393484293,Baixo
+DZQW0KQ4,,GTX Plus Pro,Markita Hansen,Engaging,2017-07-31,,,Unknown,West,0.9998721682752753,0.012783172472474735,Baixo
+JIEO87ZV,,MG Advanced,Daniell Hammack,Engaging,2017-10-06,,,Unknown,East,0.9998722607321142,0.012773926788578471,Baixo
+DXRG254A,,GTX Basic,Boris Faz,Engaging,2017-07-28,,,Unknown,East,0.9998722970832369,0.012770291676311718,Baixo
+WNTAT1OT,,GTX Basic,Boris Faz,Engaging,2017-08-31,,,Unknown,East,0.9998722970832369,0.012770291676311718,Baixo
+WGETO859,,GTX Basic,Boris Faz,Engaging,2017-04-19,,,Unknown,East,0.9998723876282728,0.012761237172720374,Baixo
+OSMGVV1S,,MG Special,Vicki Laflamme,Engaging,2017-04-24,,,Unknown,West,0.999872714064632,0.012728593536803778,Baixo
+HVT28XPH,,MG Special,Vicki Laflamme,Engaging,2017-04-03,,,Unknown,West,0.999872714064632,0.012728593536803778,Baixo
+INKH0Y59,,MG Special,Vicki Laflamme,Engaging,2017-04-24,,,Unknown,West,0.999872714064632,0.012728593536803778,Baixo
+NEFPSWOJ,Toughzap,GTX Plus Basic,Markita Hansen,Engaging,2017-06-16,,,retail,West,0.9998727423618539,0.012725763814613877,Baixo
+8P3O8A9H,,MG Special,Vicki Laflamme,Engaging,2017-08-21,,,Unknown,West,0.9998729083176745,0.01270916823254975,Baixo
+RYNZ2WOK,Iselectrics,MG Advanced,Markita Hansen,Engaging,2017-08-29,,,technolgy,West,0.9998731162258219,0.012688377417813257,Baixo
+H5VBBEVI,,GTX Plus Basic,Cassey Cress,Engaging,2017-04-03,,,Unknown,East,0.999873567047362,0.012643295263803367,Baixo
+VM0MHPAO,,MG Special,Wilburn Farren,Engaging,2017-04-03,,,Unknown,East,0.9998736420139824,0.012635798601756676,Baixo
+ZC987DAQ,,MG Advanced,Markita Hansen,Engaging,2017-08-07,,,Unknown,West,0.9998738525721327,0.012614742786731803,Baixo
+0DRC1U9Q,Green-Plus,GTX Basic,Maureen Marcano,Engaging,2016-11-20,,,services,West,0.9998738554634424,0.012614453655757085,Baixo
+7FLPKZN7,Kan-code,GTXPro,Kami Bicknell,Engaging,2017-09-23,,,software,West,0.9998740320527734,0.012596794722663507,Baixo
+G7QIQDSA,,GTXPro,Corliss Cosme,Engaging,2017-09-26,,,Unknown,East,0.9998740626386684,0.012593736133159616,Baixo
+54OH0061,,GTXPro,Maureen Marcano,Engaging,2017-06-19,,,Unknown,West,0.9998741425399544,0.01258574600455642,Baixo
+JM5GDLEF,,GTXPro,Corliss Cosme,Engaging,2017-05-20,,,Unknown,East,0.9998741465459515,0.012585345404847459,Baixo
+13FIM9V3,,GTXPro,Corliss Cosme,Engaging,2017-06-24,,,Unknown,East,0.999874147280006,0.012585271999399072,Baixo
+MTN3BOMC,,GTX Plus Basic,Maureen Marcano,Engaging,2017-07-30,,,Unknown,West,0.9998741701992003,0.012582980079967054,Baixo
+9E8A7MQ8,Blackzim,GTX Plus Pro,Kary Hendrixson,Engaging,2017-02-26,,,retail,West,0.9998741796361107,0.012582036388930629,Baixo
+XAC1J3TF,,MG Advanced,Rosalina Dieter,Engaging,2017-05-15,,,Unknown,West,0.9998742434405503,0.012575655944968567,Baixo
+AMP2GT6F,,GTXPro,Maureen Marcano,Engaging,2017-08-14,,,Unknown,West,0.999874333925126,0.012566607487396464,Baixo
+OAUUCC2N,,GTX Plus Basic,Marty Freudenburg,Engaging,2017-07-31,,,Unknown,Central,0.9998745427077648,0.01254572922352315,Baixo
+0S6OQ9AO,,GTX Plus Basic,Marty Freudenburg,Engaging,2017-07-24,,,Unknown,Central,0.9998745427077648,0.01254572922352315,Baixo
+Z6R4KJFU,,GTXPro,Daniell Hammack,Engaging,2017-06-25,,,Unknown,East,0.9998747995105892,0.012520048941078166,Baixo
+WD7Q5D3G,,GTX Plus Basic,Markita Hansen,Engaging,2017-08-07,,,Unknown,West,0.9998750511073485,0.012494889265146636,Baixo
+ZTQD4PLQ,,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-07-22,,,Unknown,Central,0.9998752467239254,0.01247532760746406,Baixo
+7BKYKVF2,,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-07-29,,,Unknown,Central,0.9998752467239254,0.01247532760746406,Baixo
+6F5TIV66,,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-07-21,,,Unknown,Central,0.9998752513217434,0.012474867825662539,Baixo
+CDVDL9I5,,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-07-20,,,Unknown,Central,0.9998752513217434,0.012474867825662539,Baixo
+V1KABF71,,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-08-04,,,Unknown,Central,0.9998752513217434,0.012474867825662539,Baixo
+EVDKJDY3,,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-07-27,,,Unknown,Central,0.9998752513217434,0.012474867825662539,Baixo
+02K37JAK,,GTX Plus Basic,Jonathan Berthelot,Engaging,2017-07-21,,,Unknown,Central,0.9998752513217434,0.012474867825662539,Baixo
+8SLDCS0F,,MG Special,Markita Hansen,Engaging,2017-10-11,,,Unknown,West,0.999875348362556,0.012465163744401764,Baixo
+B2FSFXKA,,MG Special,Markita Hansen,Engaging,2017-10-19,,,Unknown,West,0.999875348362556,0.012465163744401764,Baixo
+W72TPY7P,,MG Special,Markita Hansen,Engaging,2017-10-19,,,Unknown,West,0.999875348362556,0.012465163744401764,Baixo
+0KWYQTQQ,,MG Special,Rosalina Dieter,Engaging,2017-11-10,,,Unknown,West,0.9998754921225848,0.01245078774152475,Baixo
+RVUJPYY8,,MG Special,Rosalina Dieter,Engaging,2017-10-18,,,Unknown,West,0.9998754921225848,0.01245078774152475,Baixo
+7VMOJBPN,Faxquote,GTXPro,Kami Bicknell,Engaging,2017-06-03,,,telecommunications,West,0.9998763294611902,0.012367053880979473,Baixo
+MU7JWTP6,,MG Special,Cassey Cress,Engaging,2017-02-18,,,Unknown,East,0.9998763488840682,0.01236511159318221,Baixo
+LDJ6VTNW,,GTX Plus Basic,Daniell Hammack,Engaging,2017-10-04,,,Unknown,East,0.9998764330047977,0.012356699520232883,Baixo
+ER0U0TOC,,GTX Basic,Corliss Cosme,Engaging,2017-09-15,,,Unknown,East,0.9998766580928102,0.012334190718976679,Baixo
+CTWSDG4U,,GTX Basic,Corliss Cosme,Engaging,2017-04-19,,,Unknown,East,0.9998767448138335,0.012325518616651543,Baixo
+EP9JNNF1,,MG Special,Violet Mclelland,Engaging,2017-07-31,,,Unknown,East,0.9998771323027515,0.012286769724845215,Baixo
+GVBWTDI3,,GTX Plus Basic,Daniell Hammack,Engaging,2017-01-31,,,Unknown,East,0.9998773710949453,0.012262890505465585,Baixo
+NKPH3EFG,,MG Advanced,Cassey Cress,Engaging,2016-12-18,,,Unknown,East,0.999877547991108,0.012245200889204888,Baixo
+ZOBJHMAF,,MG Advanced,Cassey Cress,Engaging,2016-12-11,,,Unknown,East,0.999877547991108,0.012245200889204888,Baixo
+RTWE19SU,Conecom,GTXPro,Kary Hendrixson,Engaging,2017-12-17,,,technolgy,West,0.9998776716793105,0.012232832068947985,Baixo
+HF1GSBT4,,GTX Plus Pro,Daniell Hammack,Engaging,2017-08-24,,,Unknown,East,0.9998780901315102,0.012190986848981122,Baixo
+LFI3BGEE,,GTX Plus Pro,Daniell Hammack,Engaging,2017-09-22,,,Unknown,East,0.9998780901315102,0.012190986848981122,Baixo
+0KEO3OP7,,GTX Plus Pro,Daniell Hammack,Engaging,2017-04-27,,,Unknown,East,0.9998781758457976,0.01218241542023657,Baixo
+K5CWSFCW,Blackzim,GTXPro,Elease Gluck,Engaging,2016-12-21,,,retail,West,0.9998783351034116,0.012166489658838042,Baixo
+O8C2G4G2,,MG Advanced,Cassey Cress,Engaging,2017-07-17,,,Unknown,East,0.9998783834568804,0.012161654311959591,Baixo
+11LIZUQE,,MG Advanced,Cassey Cress,Engaging,2017-07-24,,,Unknown,East,0.9998783834568804,0.012161654311959591,Baixo
+NUQPJV8A,,MG Advanced,Hayden Neloms,Engaging,2017-04-24,,,Unknown,West,0.9998786993447973,0.012130065520266076,Baixo
+2YLXKON1,,MG Advanced,Hayden Neloms,Engaging,2017-05-22,,,Unknown,West,0.9998786993447973,0.012130065520266076,Baixo
+XQ0N9T87,,MG Advanced,Hayden Neloms,Engaging,2017-04-10,,,Unknown,West,0.9998786993447973,0.012130065520266076,Baixo
+G5JP0G7Q,,MG Advanced,Markita Hansen,Engaging,2017-02-19,,,Unknown,West,0.9998787902530221,0.012120974697793496,Baixo
+CYV6MJL9,,MG Advanced,Hayden Neloms,Engaging,2017-08-14,,,Unknown,West,0.9998788844647175,0.012111553528248997,Baixo
+OBDEDIXA,,MG Advanced,Hayden Neloms,Engaging,2017-07-31,,,Unknown,West,0.9998788844647175,0.012111553528248997,Baixo
+1WHXI2RW,,GTX Plus Basic,Markita Hansen,Engaging,2017-02-19,,,Unknown,West,0.9998789462896144,0.01210537103856213,Baixo
+PODXJ4SP,Donquadtech,GTX Basic,Maureen Marcano,Engaging,2017-08-18,,,technolgy,West,0.9998789520303795,0.012104796962053577,Baixo
+KFPM2LJW,,GTX Basic,Rosalina Dieter,Engaging,2016-12-25,,,Unknown,West,0.9998792754030723,0.012072459692769044,Baixo
+EWDOBEM6,,MG Special,Hayden Neloms,Engaging,2017-01-03,,,Unknown,West,0.9998793029337275,0.012069706627249044,Baixo
+RDHTQLNI,,GTX Plus Pro,Cassey Cress,Engaging,2017-12-21,,,Unknown,East,0.9998796809579683,0.01203190420316913,Baixo
+2HT2R2GY,,GTX Plus Pro,Cassey Cress,Engaging,2016-12-29,,,Unknown,East,0.9998796809579683,0.01203190420316913,Baixo
+E2KGQVEO,,MG Advanced,Daniell Hammack,Engaging,2017-07-06,,,Unknown,East,0.9998796964120241,0.012030358797587848,Baixo
+MLD3WEJC,Xx-holding,MG Advanced,Moses Frase,Engaging,2017-07-25,,,finance,Central,0.9998797236895521,0.012027631044786435,Baixo
+FUI9BIS3,Funholding,MG Advanced,Moses Frase,Engaging,2017-08-04,,,finance,Central,0.9998797236895521,0.012027631044786435,Baixo
+0R5KAHNB,Umbrella Corporation,MG Advanced,Moses Frase,Engaging,2017-08-03,,,finance,Central,0.9998797236895521,0.012027631044786435,Baixo
+2GV66JA7,,MG Advanced,Daniell Hammack,Engaging,2017-04-06,,,Unknown,East,0.9998797809970785,0.012021900292147336,Baixo
+IGRY0M4Q,,MG Advanced,Daniell Hammack,Engaging,2017-04-26,,,Unknown,East,0.9998797809970785,0.012021900292147336,Baixo
+Q2BB73WT,,GTX Plus Basic,Hayden Neloms,Engaging,2017-04-03,,,Unknown,West,0.9998798518360329,0.012014816396710426,Baixo
+5Z8S8UHK,,GTX Basic,Cassey Cress,Engaging,2017-03-06,,,Unknown,East,0.9998799553499158,0.012004465008419452,Baixo
+YBY3PA1S,,GTX Basic,Gladys Colclough,Engaging,2017-07-22,,,Unknown,Central,0.9998801309065163,0.011986909348371544,Baixo
+0HVUV9OY,,GTX Basic,Gladys Colclough,Engaging,2017-07-21,,,Unknown,Central,0.9998801353243478,0.01198646756521704,Baixo
+PQL5GITI,,GTX Basic,Gladys Colclough,Engaging,2017-07-25,,,Unknown,Central,0.9998801353243478,0.01198646756521704,Baixo
+RZXMIHGO,,GTX Basic,Gladys Colclough,Engaging,2017-08-01,,,Unknown,Central,0.9998801353243478,0.01198646756521704,Baixo
+T7N0RX05,,GTX Plus Pro,Maureen Marcano,Engaging,2017-11-04,,,Unknown,West,0.9998803008663341,0.011969913366594032,Baixo
+HBN3R2TJ,,MG Advanced,Elease Gluck,Engaging,2017-07-17,,,Unknown,West,0.9998806700856524,0.011932991434759899,Baixo
+1GIP77EP,,GTX Plus Pro,Maureen Marcano,Engaging,2017-02-21,,,Unknown,West,0.9998811228871268,0.011887711287317249,Baixo
+4IT33RBO,,GTX Basic,Markita Hansen,Engaging,2017-03-13,,,Unknown,West,0.9998811831035653,0.01188168964346703,Baixo
+MNVMY83P,Plussunin,GTXPro,Cassey Cress,Engaging,2016-12-10,,,retail,East,0.9998811966508746,0.011880334912539592,Baixo
+9ILB20UV,,MG Special,Markita Hansen,Engaging,2017-04-05,,,Unknown,West,0.9998811979238227,0.011880207617731564,Baixo
+COM9RNBL,,MG Special,Markita Hansen,Engaging,2017-04-14,,,Unknown,West,0.9998811979238227,0.011880207617731564,Baixo
+RKVXBXBM,,MG Special,Markita Hansen,Engaging,2017-06-07,,,Unknown,West,0.9998811986167543,0.011880138324571465,Baixo
+FSNL204U,Hatfan,GTX Plus Pro,Marty Freudenburg,Engaging,2017-08-09,,,services,Central,0.9998812276410154,0.011877235898460903,Baixo
+CGJ7NRZH,,MG Special,Violet Mclelland,Engaging,2017-02-12,,,Unknown,East,0.9998812416437175,0.011875835628250009,Baixo
+J9OP2A5I,,MG Special,Rosalina Dieter,Engaging,2017-05-02,,,Unknown,West,0.9998813349383864,0.01186650616136209,Baixo
+OK39IHP1,,MG Special,Rosalina Dieter,Engaging,2017-05-18,,,Unknown,West,0.9998813349383864,0.01186650616136209,Baixo
+OXNWRI4I,,MG Special,Rosalina Dieter,Engaging,2017-06-15,,,Unknown,West,0.9998813356305187,0.011866436948126946,Baixo
+ZTVWSE98,,MG Special,Rosalina Dieter,Engaging,2017-06-01,,,Unknown,West,0.9998813356305187,0.011866436948126946,Baixo
+XXD7OQOH,,MG Special,Markita Hansen,Engaging,2017-08-30,,,Unknown,West,0.9998813792310522,0.011862076894775253,Baixo
+Z7Q2USU1,,MG Special,Markita Hansen,Engaging,2017-08-11,,,Unknown,West,0.9998813792310522,0.011862076894775253,Baixo
+1RXGKOUE,,GTX Plus Pro,Versie Hillebrand,Engaging,2017-07-29,,,Unknown,Central,0.9998813993686394,0.011860063136059917,Baixo
+3YDXZ4FA,,GTX Plus Pro,Versie Hillebrand,Engaging,2017-07-21,,,Unknown,Central,0.9998814037397267,0.011859626027332926,Baixo
+CI9S6CST,,MG Special,Rosalina Dieter,Engaging,2017-07-15,,,Unknown,West,0.9998815116695897,0.01184883304102824,Baixo
+8PLXH354,,MG Special,Rosalina Dieter,Engaging,2017-08-26,,,Unknown,West,0.9998815116695897,0.01184883304102824,Baixo
+8ODHXBNE,,MG Special,Rosalina Dieter,Engaging,2017-07-25,,,Unknown,West,0.9998815160365386,0.01184839634613688,Baixo
+LMU41E2W,,MG Special,Rosalina Dieter,Engaging,2017-08-30,,,Unknown,West,0.9998815160365386,0.01184839634613688,Baixo
+YB4YJTK4,Lexiqvolax,GTX Basic,Kami Bicknell,Engaging,2017-08-23,,,medical,West,0.9998816619389694,0.01183380610305651,Baixo
+O1SCOU11,,MG Special,Elease Gluck,Engaging,2017-10-31,,,Unknown,West,0.9998816744809758,0.011832551902424271,Baixo
+06C1N1F7,,MG Special,Elease Gluck,Engaging,2017-10-05,,,Unknown,West,0.9998816744809758,0.011832551902424271,Baixo
+MIA65OVY,,MG Special,Elease Gluck,Engaging,2017-10-06,,,Unknown,West,0.9998816744809758,0.011832551902424271,Baixo
+IQR162ZT,,GTX Plus Basic,Elease Gluck,Engaging,2017-12-13,,,Unknown,West,0.9998817372957762,0.01182627042237705,Baixo
+AD2YEH7W,,GTX Plus Pro,Marty Freudenburg,Engaging,2017-08-06,,,Unknown,Central,0.9998818449227442,0.011815507725576602,Baixo
+HXGDBNAV,,MG Advanced,Maureen Marcano,Engaging,2017-10-25,,,Unknown,West,0.9998818823751664,0.011811762483360244,Baixo
+DYO98F6J,,MG Special,Marty Freudenburg,Engaging,2017-08-10,,,Unknown,Central,0.999882177441573,0.011782255842696099,Baixo
+ZZY4516R,,MG Advanced,Hayden Neloms,Engaging,2016-11-20,,,Unknown,West,0.99988241677601,0.011758322399002541,Baixo
+73086D08,,GTX Plus Pro,Markita Hansen,Engaging,2017-05-07,,,Unknown,West,0.9998825528083729,0.011744719162709583,Baixo
+R65LGLJ0,,MG Special,Cassey Cress,Engaging,2017-08-30,,,Unknown,East,0.9998826600919151,0.011733990808493466,Baixo
+DO6VKC2G,,GTK 500,Marty Freudenburg,Engaging,2017-08-01,,,Unknown,Central,0.9998826782296052,0.011732177039480707,Baixo
+XFB1VXQY,,MG Advanced,Maureen Marcano,Engaging,2017-03-25,,,Unknown,West,0.999882684889124,0.011731511087598179,Baixo
+VJ5QGP8Z,,MG Advanced,Maureen Marcano,Engaging,2017-02-15,,,Unknown,West,0.9998826892128384,0.011731078716159526,Baixo
+JW4Q5F4Z,,MG Special,Cassey Cress,Engaging,2017-04-01,,,Unknown,East,0.9998827382717131,0.011726172828685488,Baixo
+VP8ERXPR,,MG Special,Cassey Cress,Engaging,2017-04-29,,,Unknown,East,0.9998827382717131,0.011726172828685488,Baixo
+CYB0NUCJ,,MG Special,Cassey Cress,Engaging,2017-05-23,,,Unknown,East,0.9998827425934604,0.011725740653956152,Baixo
+WTAM4BED,,MG Special,Cassey Cress,Engaging,2017-06-13,,,Unknown,East,0.9998827432773832,0.011725672261675424,Baixo
+TTKPNDTP,,MG Advanced,Versie Hillebrand,Engaging,2017-07-22,,,Unknown,Central,0.9998829620518548,0.011703794814521551,Baixo
+SLILSQJV,,GTX Plus Basic,Maureen Marcano,Engaging,2017-10-19,,,Unknown,West,0.9998830046276092,0.0116995372390849,Baixo
+62PCN0KS,,GTX Plus Basic,Maureen Marcano,Engaging,2017-11-16,,,Unknown,West,0.9998830046276092,0.0116995372390849,Baixo
+J6OQS0AU,,MG Advanced,Hayden Neloms,Engaging,2017-03-26,,,Unknown,West,0.9998832200053892,0.011677999461079391,Baixo
+YFB7Y92U,,GTK 500,Elease Gluck,Engaging,2017-02-07,,,Unknown,West,0.9998832705240854,0.011672947591456762,Baixo
+LXM6CTMS,,GTX Plus Basic,Hayden Neloms,Engaging,2017-02-12,,,Unknown,West,0.9998833703401063,0.011662965989367446,Baixo
+GL1YE4PQ,,GTK 500,Markita Hansen,Engaging,2017-05-09,,,Unknown,West,0.9998833811233439,0.011661887665614934,Baixo
+N3GVE0VP,,GTK 500,Markita Hansen,Engaging,2017-05-18,,,Unknown,West,0.9998833811233439,0.011661887665614934,Baixo
+X7MN9ROG,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-10-23,,,Unknown,West,0.9998835978629091,0.011640213709085412,Baixo
+5TCGN3GX,,GTX Plus Basic,Violet Mclelland,Engaging,2017-10-16,,,Unknown,East,0.9998836181456778,0.01163818543221673,Baixo
+2F41W100,,GTX Plus Basic,Daniell Hammack,Engaging,2017-08-26,,,Unknown,East,0.9998836215565319,0.011637844346812365,Baixo
+C51GWGUE,,GTX Plus Basic,Daniell Hammack,Engaging,2017-09-29,,,Unknown,East,0.9998836258457288,0.01163741542712371,Baixo
+NSO0UHK1,,GTX Plus Basic,Daniell Hammack,Engaging,2017-07-20,,,Unknown,East,0.9998836258457288,0.01163741542712371,Baixo
+X33HL9WS,,GTX Plus Basic,Daniell Hammack,Engaging,2017-07-28,,,Unknown,East,0.9998836258457288,0.01163741542712371,Baixo
+VLYT262U,,GTX Plus Basic,Daniell Hammack,Engaging,2017-08-04,,,Unknown,East,0.9998836258457288,0.01163741542712371,Baixo
+LBO52V0N,,GTXPro,Cassey Cress,Engaging,2017-08-14,,,Unknown,East,0.9998836810545044,0.011631894549557487,Baixo
+9SRD5NCR,,GTK 500,Rosalina Dieter,Engaging,2017-07-27,,,Unknown,West,0.9998836934875677,0.011630651243232926,Baixo
+5JDWBOLS,,GTX Basic,Daniell Hammack,Engaging,2017-03-04,,,Unknown,East,0.9998836955046727,0.01163044953272907,Baixo
+ISAWVDYZ,,GTX Basic,Daniell Hammack,Engaging,2017-03-09,,,Unknown,East,0.9998836997911448,0.011630020885522452,Baixo
+6SN2RQJX,,MG Special,Vicki Laflamme,Engaging,2016-12-17,,,Unknown,West,0.9998837107591282,0.011628924087181414,Baixo
+VCSHYIU8,,GTX Plus Basic,Maureen Marcano,Engaging,2017-01-12,,,Unknown,West,0.9998838038002918,0.011619619970815176,Baixo
+IEAPJ5X1,,GTX Plus Basic,Maureen Marcano,Engaging,2017-02-07,,,Unknown,West,0.9998838038002918,0.011619619970815176,Baixo
+J53D8EOL,Hottechi,GTX Plus Basic,Kary Hendrixson,Engaging,2016-12-14,,,technolgy,West,0.9998838538867445,0.011614611325549973,Baixo
+QIHWKCFK,Singletechno,MG Advanced,Cassey Cress,Engaging,2017-03-24,,,retail,East,0.9998838780707138,0.011612192928622811,Baixo
+WQ5U8PPM,Umbrella Corporation,GTX Plus Basic,Niesha Huffines,Engaging,2017-07-26,,,finance,Central,0.9998838998169557,0.01161001830443098,Baixo
+TUKHDOGS,,GTXPro,Maureen Marcano,Engaging,2017-08-20,,,Unknown,West,0.9998843173564633,0.011568264353667423,Baixo
+Y6UBZM6P,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-01-09,,,Unknown,West,0.9998843930250321,0.011560697496793004,Baixo
+HI9S2MRZ,,GTX Plus Basic,Elease Gluck,Engaging,2017-07-09,,,Unknown,West,0.9998845079205895,0.011549207941052853,Baixo
+V0G393Q6,,GTX Plus Basic,Marty Freudenburg,Engaging,2017-08-13,,,Unknown,Central,0.999884509554464,0.011549044553604837,Baixo
+R7I947IZ,,GTX Plus Basic,Marty Freudenburg,Engaging,2017-07-30,,,Unknown,Central,0.999884509554464,0.011549044553604837,Baixo
+6R6S91WE,,GTXPro,Daniell Hammack,Engaging,2017-03-25,,,Unknown,East,0.9998845564939377,0.011544350606229603,Baixo
+V74O6XQT,,GTXPro,Daniell Hammack,Engaging,2017-03-14,,,Unknown,East,0.999884560748681,0.01154392513189606,Baixo
+2J5E145N,,GTXPro,Daniell Hammack,Engaging,2017-02-07,,,Unknown,East,0.999884560748681,0.01154392513189606,Baixo
+S2Y2Q1D2,Singletechno,GTX Plus Basic,Marty Freudenburg,Engaging,2017-07-27,,,retail,Central,0.9998846220560971,0.011537794390292788,Baixo
+YX4E972E,Conecom,GTXPro,Markita Hansen,Engaging,2017-06-14,,,technolgy,West,0.9998847725030493,0.011522749695069834,Baixo
+QD4ONE04,Rangreen,MG Special,Anna Snelling,Engaging,2017-07-31,,,technolgy,Central,0.9998848623178911,0.011513768210891229,Baixo
+0PT4RY4P,,MG Advanced,Cecily Lampkin,Engaging,2017-07-31,,,Unknown,Central,0.9998850490410088,0.01149509589911668,Baixo
+CY7C3ZPJ,,MG Advanced,Markita Hansen,Engaging,2017-04-23,,,Unknown,West,0.9998850535030316,0.011494649696841552,Baixo
+YPM5PZMD,,MG Special,Vicki Laflamme,Engaging,2017-09-03,,,Unknown,West,0.9998850836483494,0.011491635165061798,Baixo
+0IO43YMS,,MG Advanced,Wilburn Farren,Engaging,2017-02-20,,,Unknown,East,0.9998851181786751,0.01148818213249081,Baixo
+OIFERO7S,,MG Advanced,Rosalina Dieter,Engaging,2017-05-07,,,Unknown,West,0.999885186166936,0.011481383306399806,Baixo
+7FVBMH48,,MG Advanced,Markita Hansen,Engaging,2017-08-13,,,Unknown,West,0.9998852289268275,0.011477107317248159,Baixo
+PJ75Q8VM,,GTXPro,Jonathan Berthelot,Engaging,2017-07-20,,,Unknown,Central,0.9998853113052043,0.011468869479569488,Baixo
+7K31BXX3,,GTXPro,Jonathan Berthelot,Engaging,2017-07-28,,,Unknown,Central,0.9998853113052043,0.011468869479569488,Baixo
+OW9OM3UO,,MG Advanced,Rosalina Dieter,Engaging,2017-07-09,,,Unknown,West,0.9998853613882921,0.011463861170790679,Baixo
+7K0S2P6K,,GTXPro,Rosalina Dieter,Engaging,2017-04-17,,,Unknown,West,0.9998854831724668,0.011451682753316206,Baixo
+07GUKIG3,,MG Special,Violet Mclelland,Engaging,2017-12-05,,,Unknown,East,0.999885565549325,0.011443445067504943,Baixo
+P8QXRXMR,,GTXPro,Rosalina Dieter,Engaging,2017-09-25,,,Unknown,West,0.9998856579406045,0.011434205939553355,Baixo
+PO158L29,Blackzim,GTX Basic,Cassey Cress,Engaging,2017-03-23,,,retail,East,0.9998856708028455,0.011432919715448353,Baixo
+ERFRHR3Z,,MG Advanced,Hayden Neloms,Engaging,2016-12-14,,,Unknown,West,0.9998858303663186,0.011416963368138244,Baixo
+37UCYEDY,Bluth Company,GTX Plus Basic,Cassey Cress,Engaging,2017-07-26,,,technolgy,East,0.9998861852026248,0.011381479737515576,Baixo
+SX0SSL0H,,GTX Plus Basic,Rosie Papadopoulos,Engaging,2017-03-06,,,Unknown,East,0.9998864556717288,0.011354432827115346,Baixo
+HY94AVIW,,GTX Basic,Maureen Marcano,Engaging,2017-05-14,,,Unknown,West,0.9998865281559906,0.011347184400944954,Baixo
+7J0ZLDB1,,MG Special,Zane Levy,Engaging,2017-06-05,,,Unknown,West,0.9998866947641281,0.011330523587194108,Baixo
+RPONINLM,,GTX Plus Basic,Vicki Laflamme,Engaging,2017-01-23,,,Unknown,West,0.9998870001984773,0.011299980152268407,Baixo
+M2A8EY5Q,,GTX Plus Pro,Hayden Neloms,Engaging,2017-07-16,,,Unknown,West,0.9998870177592373,0.011298224076272678,Baixo
+QQPAK72N,,GTX Plus Pro,Hayden Neloms,Engaging,2017-08-13,,,Unknown,West,0.9998870177592373,0.011298224076272678,Baixo
+Q3HHDSDS,,GTX Basic,Marty Freudenburg,Engaging,2017-07-24,,,Unknown,Central,0.9998870369090815,0.01129630909184609,Baixo
+NK1B8YME,,GTX Plus Pro,Cassey Cress,Engaging,2017-07-09,,,Unknown,East,0.9998871802370002,0.011281976299981622,Baixo
+9Q7NSPTF,,GTX Plus Pro,Cassey Cress,Engaging,2017-07-23,,,Unknown,East,0.9998871802370002,0.011281976299981622,Baixo
+BPOTQCFG,,MG Special,Elease Gluck,Engaging,2017-04-04,,,Unknown,West,0.999887227208247,0.011277279175303523,Baixo
+HPIKEMB9,,MG Special,Elease Gluck,Engaging,2017-04-06,,,Unknown,West,0.999887227208247,0.011277279175303523,Baixo
+D62905BC,,GTX Plus Pro,Maureen Marcano,Engaging,2017-04-04,,,Unknown,West,0.9998872656169333,0.01127343830666927,Baixo
+OJ42ZCHR,,MG Special,Violet Mclelland,Engaging,2017-07-30,,,Unknown,East,0.999887298997409,0.011270100259097582,Baixo
+6OD1J7MW,Plexzap,GTX Plus Pro,Elease Gluck,Engaging,2017-09-02,,,retail,West,0.9998873215814992,0.011267841850082227,Baixo
+45B6VA2Y,,MG Special,Violet Mclelland,Engaging,2017-04-09,,,Unknown,East,0.999887378237713,0.011262176228699072,Baixo
+S2SC8AP7,,MG Special,Violet Mclelland,Engaging,2017-06-25,,,Unknown,East,0.9998873788946008,0.011262110539922432,Baixo
+5F1RM2YM,,MG Special,Elease Gluck,Engaging,2017-09-20,,,Unknown,West,0.9998873993150501,0.011260068494989284,Baixo
+ASZNII2J,,MG Special,Elease Gluck,Engaging,2017-09-01,,,Unknown,West,0.9998873993150501,0.011260068494989284,Baixo
+NMLTE4CS,,GTX Plus Pro,Maureen Marcano,Engaging,2017-09-30,,,Unknown,West,0.9998874335565675,0.011256644343249356,Baixo
+VRWH3YJV,,GTX Plus Pro,Maureen Marcano,Engaging,2017-09-14,,,Unknown,West,0.9998874377052869,0.011256229471312551,Baixo
+S6645YWA,Y-corporation,GTX Basic,Kami Bicknell,Engaging,2017-02-07,,,employment,West,0.999887443201926,0.011255679807398167,Baixo
+TJ03NDNX,Iselectrics,MG Advanced,Violet Mclelland,Engaging,2017-03-25,,,technolgy,East,0.9998874567054744,0.011254329452559109,Baixo
+URQYDGX8,,GTX Basic,Jonathan Berthelot,Engaging,2017-08-02,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+64KHY8MT,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-27,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+KTWP0SMT,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-20,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+BJH89YWM,,GTX Basic,Jonathan Berthelot,Engaging,2017-08-09,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+5PWO4RPC,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-27,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+VIFA2I18,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-28,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+90G292UY,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-20,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+G0DTQHIC,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-26,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+JDHHDOX8,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-20,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+BEDNZXVE,,GTX Basic,Jonathan Berthelot,Engaging,2017-07-25,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+6RZ5GSAB,,GTX Basic,Jonathan Berthelot,Engaging,2017-08-03,,,Unknown,Central,0.9998876749606326,0.011232503936742244,Baixo
+QD8F0CI6,,GTX Basic,Rosalina Dieter,Engaging,2017-04-17,,,Unknown,West,0.9998878431929612,0.011215680703879904,Baixo
+YRTI0EKE,,GTX Basic,Rosalina Dieter,Engaging,2017-05-29,,,Unknown,West,0.9998878431929612,0.011215680703879904,Baixo
+3A7G5K0E,,GTX Basic,Rosalina Dieter,Engaging,2017-06-12,,,Unknown,West,0.9998878438471375,0.011215615286253033,Baixo
+E5V4WT18,Genco Pura Olive Oil Company,MG Special,Vicki Laflamme,Engaging,2017-05-25,,,retail,West,0.9998879657394211,0.01120342605789304,Baixo
+VKIR68JX,,GTX Plus Basic,Violet Mclelland,Engaging,2017-09-04,,,Unknown,East,0.9998882541812135,0.011174581878647949,Baixo
+QRQ8C6MQ,Globex Corporation,GTXPro,Cassey Cress,Engaging,2017-03-03,,,technolgy,East,0.9998883471632031,0.011165283679692717,Baixo
+B5A1BERF,Umbrella Corporation,GTXPro,Kami Bicknell,Engaging,2017-02-07,,,finance,West,0.9998886295669963,0.011137043300368799,Baixo
+GMY4U7RD,,GTX Basic,Maureen Marcano,Engaging,2017-12-09,,,Unknown,West,0.9998889258529862,0.011107414701383433,Baixo
+AKMV6WN5,,GTK 500,Elease Gluck,Engaging,2017-04-06,,,Unknown,West,0.9998893022914642,0.011069770853577854,Baixo
+ZGW9SCQ0,,MG Advanced,Hayden Neloms,Engaging,2017-09-10,,,Unknown,West,0.9998894233963316,0.011057660366842192,Baixo
+GQ7H31ZJ,Funholding,GTXPro,Darcel Schlecht,Engaging,2017-07-27,,,finance,Central,0.99988946325491,0.011053674508998412,Baixo
+A04V2WB3,,GTK 500,Elease Gluck,Engaging,2017-08-03,,,Unknown,West,0.999889471231755,0.011052876824502178,Baixo
+DZP41ANW,,GTX Plus Basic,Hayden Neloms,Engaging,2017-09-03,,,Unknown,West,0.9998895657461021,0.01104342538978953,Baixo
+LFJVV393,,GTX Plus Basic,Hayden Neloms,Engaging,2017-08-13,,,Unknown,West,0.9998895657461021,0.01104342538978953,Baixo
+ZPXE49AP,,GTX Basic,Daniell Hammack,Engaging,2017-09-06,,,Unknown,East,0.9998896317791331,0.011036822086685216,Baixo
+71GQNH5T,,MG Advanced,Cassey Cress,Engaging,2017-03-05,,,Unknown,East,0.9998896544342856,0.011034556571443144,Baixo
+P9EJ68SM,,GTX Plus Basic,Cassey Cress,Engaging,2017-07-30,,,Unknown,East,0.9998897245600542,0.011027543994579503,Baixo
+L4R7LDY1,Hatfan,MG Special,Violet Mclelland,Engaging,2017-08-17,,,services,East,0.9998897307050508,0.011026929494917237,Baixo
+BJO24Z5A,,GTX Plus Basic,Cassey Cress,Engaging,2017-05-14,,,Unknown,East,0.9998898020951281,0.01101979048718782,Baixo
+K8LRZ95S,,GTX Plus Basic,Maureen Marcano,Engaging,2017-04-18,,,Unknown,West,0.9998898080147026,0.011019198529738095,Baixo
+YVDQ80A0,,GTX Plus Basic,Maureen Marcano,Engaging,2017-07-15,,,Unknown,West,0.9998899721673611,0.01100278326389148,Baixo
+ZR436XWW,,GTX Plus Basic,Maureen Marcano,Engaging,2017-08-12,,,Unknown,West,0.9998899721673611,0.01100278326389148,Baixo
+V1SX6HOD,,GTX Plus Basic,Maureen Marcano,Engaging,2017-09-19,,,Unknown,West,0.9998899762225283,0.011002377747171277,Baixo
+ETLF2H4K,,GTX Plus Basic,Maureen Marcano,Engaging,2017-07-21,,,Unknown,West,0.9998899762225283,0.011002377747171277,Baixo
+24K085JJ,,GTX Plus Basic,Maureen Marcano,Engaging,2017-09-15,,,Unknown,West,0.9998899762225283,0.011002377747171277,Baixo
+6CT660FF,,GTX Plus Basic,Maureen Marcano,Engaging,2017-08-31,,,Unknown,West,0.9998899762225283,0.011002377747171277,Baixo
+MIXJ9F4F,,GTX Plus Basic,Maureen Marcano,Engaging,2017-07-18,,,Unknown,West,0.9998899762225283,0.011002377747171277,Baixo
+GIPPUV2F,Nam-zim,GTX Plus Basic,Hayden Neloms,Engaging,2017-05-31,,,services,West,0.9998902658729972,0.010973412700276963,Baixo
+FB9M4FR7,,MG Special,James Ascencio,Engaging,2017-03-26,,,Unknown,West,0.9998902852104528,0.01097147895472439,Baixo
+UYQJ2A1O,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-05-01,,,Unknown,West,0.9998903667957296,0.010963320427037626,Baixo
+EDM7CEZ6,Opentech,GTXPro,Kami Bicknell,Engaging,2017-08-31,,,finance,West,0.9998903730945375,0.010962690546245657,Baixo
+GL2FM1RM,,GTX Basic,Rosalina Dieter,Engaging,2017-10-22,,,Unknown,West,0.9998903788528406,0.010962114715939997,Baixo
+LXVCMY4C,,GTXPro,Daniell Hammack,Engaging,2017-08-17,,,Unknown,East,0.9998904488276323,0.010955117236766121,Baixo
+FKVC924F,,GTXPro,Daniell Hammack,Engaging,2017-08-17,,,Unknown,East,0.9998904488276323,0.010955117236766121,Baixo
+9DY57A6F,,GTXPro,Daniell Hammack,Engaging,2017-09-13,,,Unknown,East,0.9998904488276323,0.010955117236766121,Baixo
+IDKBZCAF,,GTXPro,Daniell Hammack,Engaging,2017-09-21,,,Unknown,East,0.9998904488276323,0.010955117236766121,Baixo
+S53EVWFC,,GTXPro,Daniell Hammack,Engaging,2017-08-23,,,Unknown,East,0.9998904488276323,0.010955117236766121,Baixo
+GMN9KQN2,,GTXPro,Daniell Hammack,Engaging,2017-05-27,,,Unknown,East,0.9998905218186152,0.010947818138484777,Baixo
+UGTXH980,,GTXPro,Daniell Hammack,Engaging,2017-06-01,,,Unknown,East,0.9998905264920575,0.010947350794254795,Baixo
+BJO4VYLK,,GTXPro,Daniell Hammack,Engaging,2017-06-21,,,Unknown,East,0.9998905264920575,0.010947350794254795,Baixo
+HTF7TYQS,,GTXPro,Daniell Hammack,Engaging,2017-06-27,,,Unknown,East,0.9998905264920575,0.010947350794254795,Baixo
+QFRZLXF3,,MG Special,Cecily Lampkin,Engaging,2017-08-12,,,Unknown,Central,0.999890665655349,0.01093343446509909,Baixo
+3A2CCWEG,,MG Special,Cecily Lampkin,Engaging,2017-07-29,,,Unknown,Central,0.999890665655349,0.01093343446509909,Baixo
+A3T91VUM,,MG Special,Cecily Lampkin,Engaging,2017-07-21,,,Unknown,Central,0.9998906696849599,0.01093303150401237,Baixo
+8D8JOXP6,,MG Special,Cecily Lampkin,Engaging,2017-07-19,,,Unknown,Central,0.9998906696849599,0.01093303150401237,Baixo
+IPHP2GVT,,MG Special,Cecily Lampkin,Engaging,2017-07-19,,,Unknown,Central,0.9998906696849599,0.01093303150401237,Baixo
+QDBJOE9M,,MG Special,Zane Levy,Engaging,2017-10-08,,,Unknown,West,0.9998909523013113,0.010904769868869124,Baixo
+JEWIBFH9,,MG Advanced,Wilburn Farren,Engaging,2017-08-14,,,Unknown,East,0.9998909778285271,0.01090221714729056,Baixo
+379DUF2N,,GTX Basic,Markita Hansen,Engaging,2017-01-29,,,Unknown,West,0.9998910019891956,0.010899801080443972,Baixo
+5CZBHSRI,Toughzap,MG Advanced,Kary Hendrixson,Engaging,2017-04-29,,,retail,West,0.9998910565294724,0.010894347052758935,Baixo
+2HS1C21I,,GTXPro,Elease Gluck,Engaging,2017-04-03,,,Unknown,West,0.9998911693952149,0.010883060478505957,Baixo
+C8TV7R8A,,GTXPro,Kary Hendrixson,Engaging,2016-12-26,,,Unknown,West,0.9998912419558711,0.010875804412890933,Baixo
+3ORQ2R0R,,GTXPro,Elease Gluck,Engaging,2017-08-28,,,Unknown,West,0.9998913354863521,0.010866451364788254,Baixo
+S3W6Q07M,Acme Corporation,GTX Plus Pro,Kami Bicknell,Engaging,2017-01-16,,,technolgy,West,0.9998914566318751,0.010854336812493592,Baixo
+M41NS5DN,,GTX Plus Pro,Cassey Cress,Engaging,2017-03-24,,,Unknown,East,0.9998915801233825,0.010841987661747154,Baixo
+L2S4T3VA,,GTX Plus Pro,Cassey Cress,Engaging,2017-02-08,,,Unknown,East,0.9998915801233825,0.010841987661747154,Baixo
+V4XHHFO3,Blackzim,GTX Basic,Elease Gluck,Engaging,2017-03-15,,,retail,West,0.9998916033741887,0.010839662581130227,Baixo
+MN6E59H6,,GTX Plus Pro,Markita Hansen,Engaging,2017-03-14,,,Unknown,West,0.9998917102588168,0.010828974118315404,Baixo
+D193SPY4,Plussunin,MG Special,Violet Mclelland,Engaging,2017-07-08,,,retail,East,0.9998917168017285,0.010828319827149713,Baixo
+LSVGDJ1A,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-04-17,,,Unknown,West,0.9998918204460673,0.010817955393271905,Baixo
+QNB3SCN9,,GTX Plus Pro,Wilburn Farren,Engaging,2017-10-01,,,Unknown,East,0.9998920130815603,0.010798691843971753,Baixo
+TNWCER5C,,GTX Plus Basic,Rosie Papadopoulos,Engaging,2017-06-12,,,Unknown,East,0.9998923234986072,0.010767650139276164,Baixo
+PQ104BT2,Finjob,GTXPro,Darcel Schlecht,Engaging,2017-07-27,,,employment,Central,0.9998930575439161,0.010694245608389163,Baixo
+CGWJ1WHI,,MG Special,Wilburn Farren,Engaging,2017-01-04,,,Unknown,East,0.9998931345034086,0.010686549659144617,Baixo
+9Y85N0W5,,MG Advanced,Markita Hansen,Engaging,2017-03-22,,,Unknown,West,0.99989313710015,0.010686289984995767,Baixo
+5BE27MLY,,GTXPro,Maureen Marcano,Engaging,2017-01-28,,,Unknown,West,0.9998931702311135,0.01068297688865405,Baixo
+03VCDZEE,,GTXPro,Maureen Marcano,Engaging,2017-02-23,,,Unknown,West,0.9998931741684258,0.010682583157417547,Baixo
+10IY4PV4,,MG Advanced,Rosalina Dieter,Engaging,2017-03-18,,,Unknown,West,0.9998932565013459,0.010674349865413824,Baixo
+VMIAO42Z,Donquadtech,GTX Plus Pro,Vicki Laflamme,Engaging,2017-04-28,,,technolgy,West,0.9998932741238559,0.010672587614413143,Baixo
+HCQK8NQ8,,GTX Plus Basic,Wilburn Farren,Engaging,2017-12-20,,,Unknown,East,0.9998936749608148,0.010632503918517333,Baixo
+K1K48OTP,Conecom,GTX Plus Pro,Kary Hendrixson,Engaging,2017-07-07,,,technolgy,West,0.9998937657169181,0.01062342830818741,Baixo
+P9LE92UR,,MG Special,Kary Hendrixson,Engaging,2017-03-31,,,Unknown,West,0.9998937770493684,0.010622295063156262,Baixo
+9CPUX0D0,,GTXPro,Marty Freudenburg,Engaging,2017-08-13,,,Unknown,Central,0.9998938230147629,0.010617698523707197,Baixo
+2JY9SQ2L,,MG Special,Vicki Laflamme,Engaging,2017-03-18,,,Unknown,West,0.9998938779248755,0.0106122075124504,Baixo
+OCGXWE8H,,MG Special,Vicki Laflamme,Engaging,2017-02-03,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+W8CXDBQN,,MG Special,Vicki Laflamme,Engaging,2017-01-13,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+BXK5HGEY,,MG Special,Vicki Laflamme,Engaging,2017-03-28,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+XXUGTDX7,,MG Special,Vicki Laflamme,Engaging,2017-03-28,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+U7M26UZV,,MG Special,Vicki Laflamme,Engaging,2017-03-03,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+A4JROIDO,,MG Special,Vicki Laflamme,Engaging,2017-01-19,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+L0GMLGRR,,MG Special,Vicki Laflamme,Engaging,2017-03-02,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+YB20NWM1,,MG Special,Vicki Laflamme,Engaging,2017-03-24,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+LWXHKI88,,MG Special,Vicki Laflamme,Engaging,2017-03-28,,,Unknown,West,0.9998938818361078,0.0106118163892166,Baixo
+OZ761BUJ,,GTX Basic,Violet Mclelland,Engaging,2017-02-13,,,Unknown,East,0.9998939750621181,0.010602493788192113,Baixo
+PYOFK7ZD,,GTX Basic,Cassey Cress,Engaging,2016-12-17,,,Unknown,East,0.9998941063195746,0.010589368042535074,Baixo
+FW2XJG9S,,GTX Plus Basic,Markita Hansen,Engaging,2017-02-15,,,Unknown,West,0.9998941524311614,0.01058475688385796,Baixo
+ND0OV6MQ,,GTX Plus Basic,Kary Hendrixson,Engaging,2017-06-26,,,Unknown,West,0.9998942607504614,0.010573924953860558,Baixo
+LLQCQOCR,,GTX Plus Basic,Kary Hendrixson,Engaging,2017-06-19,,,Unknown,West,0.9998942607504614,0.010573924953860558,Baixo
+J32XDDAW,,GTX Basic,Markita Hansen,Engaging,2016-12-14,,,Unknown,West,0.9998943148343807,0.010568516561926256,Baixo
+PV3TH2FF,,MG Special,Vicki Laflamme,Engaging,2017-11-23,,,Unknown,West,0.999894410209029,0.010558979097097243,Baixo
+BED55OSG,,GTXPro,Markita Hansen,Engaging,2017-04-02,,,Unknown,West,0.9998944591453356,0.010554085466440988,Baixo
+BTT6YAVZ,Green-Plus,GTX Plus Basic,Zane Levy,Engaging,2017-01-01,,,services,West,0.9998949318654985,0.010506813450150698,Baixo
+IG540SIB,,MG Advanced,Cecily Lampkin,Engaging,2017-07-30,,,Unknown,Central,0.9998950516150968,0.01049483849031585,Baixo
+4ZKFSG5F,,GTX Basic,Violet Mclelland,Engaging,2017-10-16,,,Unknown,East,0.9998952086253976,0.010479137460239762,Baixo
+PK1PS0KR,,MG Advanced,Rosie Papadopoulos,Engaging,2017-01-22,,,Unknown,East,0.9998953414701963,0.010465852980368062,Baixo
+RKOQZJZR,J-Texon,GTX Plus Basic,Zane Levy,Engaging,2017-09-11,,,retail,West,0.999895345328437,0.010465467156295372,Baixo
+I7MDOGGU,,GTX Basic,Maureen Marcano,Engaging,2017-03-18,,,Unknown,West,0.9998953718216899,0.010462817831013993,Baixo
+SVCKI631,,GTX Basic,Maureen Marcano,Engaging,2017-02-15,,,Unknown,West,0.999895375677869,0.010462432213098616,Baixo
+A1TDRYHZ,Rangreen,MG Advanced,Rosie Papadopoulos,Engaging,2017-03-18,,,technolgy,East,0.9998956086072504,0.01043913927496476,Baixo
+VO1YR5CY,,GTX Basic,Versie Hillebrand,Engaging,2017-07-25,,,Unknown,Central,0.9998956229755619,0.010437702443810704,Baixo
+IQFDPIND,,GTX Basic,Versie Hillebrand,Engaging,2017-07-19,,,Unknown,Central,0.9998956229755619,0.010437702443810704,Baixo
+XB1ZV04H,,GTX Basic,Versie Hillebrand,Engaging,2017-08-03,,,Unknown,Central,0.9998956229755619,0.010437702443810704,Baixo
+RIW4VWBW,,GTX Plus Pro,Hayden Neloms,Engaging,2017-01-10,,,Unknown,West,0.9998956678836879,0.010433211631211137,Baixo
+WSQHC199,,MG Special,Darcel Schlecht,Engaging,2017-07-24,,,Unknown,Central,0.999895943485723,0.010405651427702889,Baixo
+YWGU40CP,,MG Special,Darcel Schlecht,Engaging,2017-07-31,,,Unknown,Central,0.999895943485723,0.010405651427702889,Baixo
+KTC0RC8I,,MG Special,James Ascencio,Engaging,2017-04-23,,,Unknown,West,0.99989595454535,0.01040454546500369,Baixo
+D55HTKRU,Newex,GTXPro,Kary Hendrixson,Engaging,2017-11-24,,,services,West,0.9998959588368821,0.010404116311790723,Baixo
+854QZNWK,,MG Special,Violet Mclelland,Engaging,2017-11-01,,,Unknown,East,0.9998960939632464,0.010390603675358712,Baixo
+Y7N97FW8,,GTXPro,Vicki Laflamme,Engaging,2017-02-20,,,Unknown,West,0.9998961128274095,0.010388717259046665,Baixo
+0A1LN7GB,,MG Special,Violet Mclelland,Engaging,2017-03-09,,,Unknown,East,0.9998961594846876,0.010384051531242555,Baixo
+DJH67UIZ,,MG Special,Violet Mclelland,Engaging,2017-03-17,,,Unknown,East,0.9998961594846876,0.010384051531242555,Baixo
+7VGJ2B7O,,MG Special,Violet Mclelland,Engaging,2017-03-17,,,Unknown,East,0.9998961594846876,0.010384051531242555,Baixo
+O0L6JUYE,Bluth Company,GTX Basic,Marty Freudenburg,Engaging,2017-08-12,,,technolgy,Central,0.9998962829729199,0.01037170270801191,Baixo
+OERROEPM,,GTX Basic,Markita Hansen,Engaging,2017-05-28,,,Unknown,West,0.9998966342895355,0.010336571046454246,Baixo
+RV5Y8DRY,,GTX Plus Pro,Marty Freudenburg,Engaging,2017-07-25,,,Unknown,Central,0.9998966869905985,0.010331300940147337,Baixo
+MBYOJR5A,,GTX Plus Pro,Marty Freudenburg,Engaging,2017-08-01,,,Unknown,Central,0.9998966869905985,0.010331300940147337,Baixo
+OTLQMB5X,,GTX Basic,Rosalina Dieter,Engaging,2017-04-30,,,Unknown,West,0.9998967535031599,0.010324649684012588,Baixo
+24REVMX7,,GTX Basic,Rosalina Dieter,Engaging,2017-06-25,,,Unknown,West,0.9998967541053704,0.01032458946296222,Baixo
+SZAMHBGA,Nam-zim,MG Advanced,Violet Mclelland,Engaging,2017-06-28,,,services,East,0.9998970340509568,0.01029659490432433,Baixo
+ESZY10SI,,MG Advanced,Hayden Neloms,Engaging,2017-02-22,,,Unknown,West,0.9998970425841514,0.010295741584864793,Baixo
+MRCYKUX4,,MG Advanced,Hayden Neloms,Engaging,2017-03-14,,,Unknown,West,0.9998970425841514,0.010295741584864793,Baixo
+KMB8TJ0I,,MG Advanced,Hayden Neloms,Engaging,2017-03-24,,,Unknown,West,0.9998970425841514,0.010295741584864793,Baixo
+Z2E1UVVB,,MG Advanced,Violet Mclelland,Engaging,2017-05-07,,,Unknown,East,0.9998970716664308,0.010292833356917441,Baixo
+R6Q5JOLX,,GTX Plus Pro,Cassey Cress,Engaging,2017-09-16,,,Unknown,East,0.9998971064176365,0.010289358236348356,Baixo
+6TGCOE5O,,GTX Plus Pro,Cassey Cress,Engaging,2017-08-03,,,Unknown,East,0.9998971102098921,0.010288979010786292,Baixo
+0T9KUEQ2,,GTX Plus Pro,Cassey Cress,Engaging,2017-07-11,,,Unknown,East,0.9998971102098921,0.010288979010786292,Baixo
+EF24VTVA,Kinnamplus,GTX Plus Pro,James Ascencio,Engaging,2017-05-14,,,retail,West,0.9998972452810583,0.010275471894172217,Baixo
+86C26QSR,,GTX Plus Pro,Markita Hansen,Engaging,2017-05-03,,,Unknown,West,0.9998973059641999,0.01026940358000994,Baixo
+RVH3UUKY,,MG Advanced,Vicki Laflamme,Engaging,2017-02-19,,,Unknown,West,0.9998973258163929,0.010267418360709879,Baixo
+5378T3K3,,GTX Plus Pro,Markita Hansen,Engaging,2017-08-15,,,Unknown,West,0.9998974626910114,0.01025373089885706,Baixo
+58W7CZGD,Cancity,GTXPro,Vicki Laflamme,Engaging,2017-08-12,,,retail,West,0.9998976615875039,0.010233841249607245,Baixo
+GYB4W2AU,,MG Advanced,Elease Gluck,Engaging,2016-11-23,,,Unknown,West,0.9998978627990155,0.010213720098450896,Baixo
+IBS3H6Z4,,GTX Plus Basic,Hayden Neloms,Engaging,2017-03-17,,,Unknown,West,0.9998980208119718,0.010197918802823391,Baixo
+9V2SW5MV,,MG Advanced,Marty Freudenburg,Engaging,2017-08-03,,,Unknown,Central,0.9998980482644783,0.010195173552174364,Baixo
+RC4LEDIA,,MG Advanced,Marty Freudenburg,Engaging,2017-08-09,,,Unknown,Central,0.9998980482644783,0.010195173552174364,Baixo
+7LD79NYD,,MG Advanced,Marty Freudenburg,Engaging,2017-07-19,,,Unknown,Central,0.9998980482644783,0.010195173552174364,Baixo
+CMS1HUGL,,MG Advanced,Cassey Cress,Engaging,2017-03-25,,,Unknown,East,0.9998981302922599,0.010186970774006543,Baixo
+FYN7C0CV,,MG Advanced,Cassey Cress,Engaging,2017-03-04,,,Unknown,East,0.9998981302922599,0.010186970774006543,Baixo
+IVJP36UT,,MG Advanced,Cassey Cress,Engaging,2017-02-08,,,Unknown,East,0.9998981340467834,0.010186595321659553,Baixo
+9A9E1KPG,Genco Pura Olive Oil Company,GTX Basic,Elease Gluck,Engaging,2017-02-08,,,retail,West,0.9998984017179936,0.010159828200639875,Baixo
+98K99UW9,,GTX Plus Pro,Rosie Papadopoulos,Engaging,2017-08-06,,,Unknown,East,0.9998985189475741,0.010148105242591132,Baixo
+WUNMIJW9,,MG Advanced,Elease Gluck,Engaging,2017-03-02,,,Unknown,West,0.9998985605249023,0.010143947509766438,Baixo
+J6F10SFK,,MG Advanced,Markita Hansen,Engaging,2017-04-08,,,Unknown,West,0.9998986553480065,0.010134465199351794,Baixo
+7882RJGY,,MG Special,Wilburn Farren,Engaging,2017-04-27,,,Unknown,East,0.999898656620608,0.01013433793920493,Baixo
+CX4ZLSDW,,MG Special,Wilburn Farren,Engaging,2017-05-18,,,Unknown,East,0.999898656620608,0.01013433793920493,Baixo
+GQ2W1DXM,,GTXPro,Maureen Marcano,Engaging,2017-04-25,,,Unknown,West,0.9998986942362017,0.010130576379829836,Baixo
+4LOHS2AJ,,MG Special,Rosie Papadopoulos,Engaging,2017-07-13,,,Unknown,East,0.9998988045461503,0.010119545384967843,Baixo
+XVB2CGL6,,GTXPro,Maureen Marcano,Engaging,2017-07-21,,,Unknown,West,0.9998988488806019,0.010115111939812405,Baixo
+81PWOUF0,,GTXPro,Maureen Marcano,Engaging,2017-07-06,,,Unknown,West,0.9998988488806019,0.010115111939812405,Baixo
+XQY4Z4KI,,MG Special,Rosie Papadopoulos,Engaging,2017-06-06,,,Unknown,East,0.9998988762875312,0.010112371246884244,Baixo
+S2J63YRV,,MG Special,Rosie Papadopoulos,Engaging,2017-06-08,,,Unknown,East,0.9998988762875312,0.010112371246884244,Baixo
+0GS0L5VR,,MG Special,Anna Snelling,Engaging,2017-08-14,,,Unknown,Central,0.999898882262537,0.0101117737463019,Baixo
+NPORW46K,,MG Special,Anna Snelling,Engaging,2017-08-14,,,Unknown,Central,0.999898882262537,0.0101117737463019,Baixo
+WL6CZ7N4,,GTX Plus Basic,Marty Freudenburg,Engaging,2017-07-28,,,Unknown,Central,0.9998990169380076,0.010098306199235463,Baixo
+UU25XD9E,Hatfan,GTXPro,Zane Levy,Engaging,2017-05-08,,,services,West,0.9998991788051179,0.010082119488208363,Baixo
+RD6Y5R4P,Cancity,MG Special,Kami Bicknell,Engaging,2017-08-03,,,retail,West,0.999899252349574,0.010074765042600298,Baixo
+HSYU33MS,,MG Special,Vicki Laflamme,Engaging,2017-06-24,,,Unknown,West,0.999899362217731,0.010063778226898634,Baixo
+3P7QQSVF,,MG Special,Vicki Laflamme,Engaging,2017-04-12,,,Unknown,West,0.999899365339877,0.010063466012300015,Baixo
+49ZS7GTS,,MG Special,Vicki Laflamme,Engaging,2017-04-18,,,Unknown,West,0.999899365339877,0.010063466012300015,Baixo
+3C5GNT3Q,,MG Special,Vicki Laflamme,Engaging,2017-06-16,,,Unknown,West,0.9998993659268548,0.010063407314520045,Baixo
+USJWM3F3,,GTX Basic,Violet Mclelland,Engaging,2017-07-10,,,Unknown,East,0.9998993830041827,0.010061699581731531,Baixo
+CGFLLZZI,,MG Special,Kary Hendrixson,Engaging,2017-07-25,,,Unknown,West,0.9998994197031442,0.010058029685577896,Baixo
+5X3TSUA9,,GTX Plus Basic,Cassey Cress,Engaging,2017-09-13,,,Unknown,East,0.9998994306136869,0.010056938631308743,Baixo
+JUCNIG4H,,GTX Basic,James Ascencio,Engaging,2016-12-05,,,Unknown,West,0.9998994543886197,0.010054561138028717,Baixo
+XRO7PMA2,,GTX Plus Basic,Cassey Cress,Engaging,2017-05-17,,,Unknown,East,0.9998995013250841,0.010049867491590536,Baixo
+MRWHJE9P,,GTX Plus Basic,Cassey Cress,Engaging,2017-04-21,,,Unknown,East,0.9998995013250841,0.010049867491590536,Baixo
+8BYEALF9,,MG Special,Vicki Laflamme,Engaging,2017-07-14,,,Unknown,West,0.9998995189240821,0.01004810759178687,Baixo
+EQ0PLA0O,,MG Special,Vicki Laflamme,Engaging,2017-09-13,,,Unknown,West,0.9998995189240821,0.01004810759178687,Baixo
+LZ3B174J,,MG Special,Vicki Laflamme,Engaging,2017-09-29,,,Unknown,West,0.9998995189240821,0.01004810759178687,Baixo
+V7W8CA47,,MG Special,Vicki Laflamme,Engaging,2017-08-16,,,Unknown,West,0.9998995189240821,0.01004810759178687,Baixo
+J71N4WQ6,,GTX Plus Basic,Markita Hansen,Engaging,2017-05-06,,,Unknown,West,0.9998996182540351,0.01003817459649392,Baixo
+XM4VD3NN,,GTX Plus Basic,Markita Hansen,Engaging,2017-04-04,,,Unknown,West,0.9998996219537235,0.010037804627649471,Baixo
+M3IMVC9G,,GTX Plus Basic,Rosalina Dieter,Engaging,2017-05-16,,,Unknown,West,0.9998997378053386,0.010026219466141573,Baixo
+IMLFM79C,,GTX Plus Basic,Markita Hansen,Engaging,2017-09-09,,,Unknown,West,0.9998997714522924,0.0100228547707637,Baixo
+0H9C9J03,,GTX Plus Basic,Markita Hansen,Engaging,2017-08-25,,,Unknown,West,0.9998997751463349,0.010022485366512068,Baixo
+JXUSPNPV,,GTX Plus Basic,Markita Hansen,Engaging,2017-09-26,,,Unknown,West,0.9998997751463349,0.010022485366512068,Baixo
+K7056XS7,Kinnamplus,MG Advanced,Rosie Papadopoulos,Engaging,2017-07-05,,,retail,East,0.9998999574640213,0.010004253597872825,Baixo
+GEQ7KT9J,Plussunin,GTX Plus Basic,Wilburn Farren,Engaging,2017-07-20,,,retail,East,0.9999000936941618,0.009990630583822657,Baixo
+PPUSV3RG,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-05-21,,,Unknown,West,0.9999004148144137,0.009958518558628171,Baixo
+2FNTCPOU,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-06-25,,,Unknown,West,0.9999005136340711,0.009948636592893578,Baixo
+H8XH5MFQ,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-09-03,,,Unknown,West,0.999900566797116,0.00994332028839695,Baixo
+ZK4S74FD,Singletechno,GTX Plus Pro,Vicki Laflamme,Engaging,2017-05-25,,,retail,West,0.9999006099676297,0.009939003237025013,Baixo
+LOQ46F0T,,GTX Basic,Cassey Cress,Engaging,2017-09-03,,,Unknown,East,0.999900706961788,0.009929303821198943,Baixo
+ORYORRQV,Hottechi,GTX Basic,Kary Hendrixson,Engaging,2017-10-13,,,technolgy,West,0.9999007511730975,0.009924882690248715,Baixo
+ZU3GICE9,,GTX Basic,Maureen Marcano,Engaging,2017-06-15,,,Unknown,West,0.9999007825758852,0.009921742411478363,Baixo
+UMF3KRCL,,GTX Basic,Maureen Marcano,Engaging,2017-08-11,,,Unknown,West,0.9999009334548945,0.009906654510549728,Baixo
+PQJZNRKK,,GTXPro,Rosie Papadopoulos,Engaging,2017-08-14,,,Unknown,East,0.999900936653814,0.009906334618603463,Baixo
+QV3TAWDT,,GTXPro,Rosie Papadopoulos,Engaging,2017-07-10,,,Unknown,East,0.999900936653814,0.009906334618603463,Baixo
+Q19RWR17,Rundofase,GTX Basic,Vicki Laflamme,Engaging,2017-02-22,,,technolgy,West,0.999900952086921,0.009904791307902006,Baixo
+SWEQFKRF,,GTXPro,Rosie Papadopoulos,Engaging,2017-05-22,,,Unknown,East,0.9999010063064033,0.009899369359667176,Baixo
+51VR0RD3,,MG Special,Violet Mclelland,Engaging,2017-08-04,,,Unknown,East,0.9999014560183735,0.009854398162645328,Baixo
+WEES59KH,,MG Special,Violet Mclelland,Engaging,2017-09-06,,,Unknown,East,0.9999014560183735,0.009854398162645328,Baixo
+ORM1IRQ2,,MG Special,Violet Mclelland,Engaging,2017-07-07,,,Unknown,East,0.9999014560183735,0.009854398162645328,Baixo
+1Y58TSUU,,MG Special,Violet Mclelland,Engaging,2017-08-30,,,Unknown,East,0.9999014560183735,0.009854398162645328,Baixo
+61E7IHAY,,MG Special,Violet Mclelland,Engaging,2017-04-22,,,Unknown,East,0.9999015216762849,0.009847832371512322,Baixo
+FN1QX0BQ,,MG Special,Violet Mclelland,Engaging,2017-04-11,,,Unknown,East,0.9999015253058274,0.009847469417256782,Baixo
+5K0ZFCVO,,MG Special,Violet Mclelland,Engaging,2017-04-18,,,Unknown,East,0.9999015253058274,0.009847469417256782,Baixo
+6AEVX11M,,MG Special,Violet Mclelland,Engaging,2017-04-18,,,Unknown,East,0.9999015253058274,0.009847469417256782,Baixo
+IQMW1VDP,,MG Special,Violet Mclelland,Engaging,2017-06-07,,,Unknown,East,0.9999015258802079,0.009847411979213572,Baixo
+0LRVHITK,,MG Special,Violet Mclelland,Engaging,2017-06-16,,,Unknown,East,0.9999015258802079,0.009847411979213572,Baixo
+YMWG4Z3S,Warephase,GTX Plus Basic,Kary Hendrixson,Engaging,2017-11-23,,,services,West,0.9999015572354674,0.009844276453263578,Baixo
+OLVI7L8M,,GTXPro,Cassey Cress,Engaging,2016-11-16,,,Unknown,East,0.9999018260645406,0.009817393545941133,Baixo
+H176AX96,Gekko & Co,MG Advanced,James Ascencio,Engaging,2017-06-18,,,retail,West,0.9999020064165139,0.009799358348605569,Baixo
+ON821ADT,,GTXPro,Markita Hansen,Engaging,2017-11-04,,,Unknown,West,0.9999020153917345,0.009798460826548894,Baixo
+N2249A7T,,GTXPro,Markita Hansen,Engaging,2017-11-02,,,Unknown,West,0.9999020190030821,0.00979809969179346,Baixo
+MIY4MF3R,,MG Advanced,Hayden Neloms,Engaging,2017-04-01,,,Unknown,West,0.9999023591780734,0.00976408219266478,Baixo
+7X0T2QOL,,MG Advanced,Hayden Neloms,Engaging,2017-05-26,,,Unknown,West,0.9999023627767517,0.00976372232482925,Baixo
+Y2EC6KYG,,MG Advanced,Hayden Neloms,Engaging,2017-05-25,,,Unknown,West,0.9999023627767517,0.00976372232482925,Baixo
+U0E0XHK9,,MG Advanced,Hayden Neloms,Engaging,2017-04-06,,,Unknown,West,0.9999023627767517,0.00976372232482925,Baixo
+7KKFQ7LX,,MG Advanced,Hayden Neloms,Engaging,2017-05-26,,,Unknown,West,0.9999023627767517,0.00976372232482925,Baixo
+0EYXI1UN,,MG Advanced,Hayden Neloms,Engaging,2017-04-19,,,Unknown,West,0.9999023627767517,0.00976372232482925,Baixo
+2FMT1053,,MG Advanced,Hayden Neloms,Engaging,2017-05-18,,,Unknown,West,0.9999023627767517,0.00976372232482925,Baixo
+77IBMLTB,,GTX Plus Pro,James Ascencio,Engaging,2017-09-11,,,Unknown,West,0.9999024491773967,0.00975508226033206,Baixo
+1O72EKFY,,GTX Plus Pro,James Ascencio,Engaging,2017-07-31,,,Unknown,West,0.9999024491773967,0.00975508226033206,Baixo
+456BP2X7,,MG Advanced,Zane Levy,Engaging,2017-04-10,,,Unknown,West,0.999902449976119,0.009755002388101008,Baixo
+7F2DDW3C,,MG Advanced,Hayden Neloms,Engaging,2017-07-25,,,Unknown,West,0.999902511786846,0.009748821315402889,Baixo
+04OAV3CV,,GTX Plus Pro,Elease Gluck,Engaging,2017-05-17,,,Unknown,West,0.9999025178345563,0.009748216544369637,Baixo
+9FPDDSIJ,,GTXPro,Cassey Cress,Engaging,2017-03-22,,,Unknown,East,0.999902571395627,0.00974286043730066,Baixo
+7VOW7BUJ,,GTXPro,Cassey Cress,Engaging,2017-02-07,,,Unknown,East,0.999902571395627,0.00974286043730066,Baixo
+WALNFJ70,,GTX Plus Pro,Kary Hendrixson,Engaging,2016-12-08,,,Unknown,West,0.9999025828296014,0.009741717039857267,Baixo
+RW3CJO8D,,MG Advanced,Zane Levy,Engaging,2017-09-04,,,Unknown,West,0.999902598853146,0.009740114685397039,Baixo
+NRK892VX,,GTX Plus Pro,Elease Gluck,Engaging,2017-09-20,,,Unknown,West,0.9999026666080305,0.009733339196948965,Baixo
+WFCEPHD3,,GTXPro,Markita Hansen,Engaging,2017-03-16,,,Unknown,West,0.9999026883396169,0.009731166038307038,Baixo
+LMKNU8IZ,,GTXPro,Markita Hansen,Engaging,2017-02-24,,,Unknown,West,0.9999026883396169,0.009731166038307038,Baixo
+I5AKI9KC,,MG Special,Niesha Huffines,Engaging,2017-07-30,,,Unknown,Central,0.9999027356397339,0.009726436026613605,Baixo
+5WHMLQDK,,GTXPro,Kary Hendrixson,Engaging,2017-05-01,,,Unknown,West,0.9999027873575087,0.009721264249129558,Baixo
+2LSNRT4U,,GTXPro,Kary Hendrixson,Engaging,2017-04-17,,,Unknown,West,0.9999027873575087,0.009721264249129558,Baixo
+EUYJDW9C,,GTXPro,Kary Hendrixson,Engaging,2017-05-29,,,Unknown,West,0.9999027873575087,0.009721264249129558,Baixo
+8LW65NDL,,GTX Plus Pro,Violet Mclelland,Engaging,2017-01-10,,,Unknown,East,0.9999030324965255,0.00969675034745432,Baixo
+2DY9U1V7,Konex,GTXPro,Rosie Papadopoulos,Engaging,2017-10-20,,,technolgy,East,0.9999030880211749,0.009691197882510938,Baixo
+QD7MU7DD,,GTXPro,Rosie Papadopoulos,Engaging,2017-11-05,,,Unknown,East,0.9999031702403376,0.009682975966240903,Baixo
+OTJR9SSK,,GTX Plus Basic,Hayden Neloms,Engaging,2017-04-25,,,Unknown,West,0.9999032904607913,0.009670953920870584,Baixo
+A2YIYWNW,,MG Advanced,Cassey Cress,Engaging,2017-08-01,,,Unknown,East,0.9999033298748485,0.009667012515146567,Baixo
+ICR59VIJ,,MG Advanced,Cassey Cress,Engaging,2017-08-15,,,Unknown,East,0.9999033298748485,0.009667012515146567,Baixo
+5P4O1IU6,,MG Advanced,Cassey Cress,Engaging,2017-08-22,,,Unknown,East,0.9999033298748485,0.009667012515146567,Baixo
+SPV7OJTH,,MG Advanced,Cassey Cress,Engaging,2017-06-02,,,Unknown,East,0.9999033984083584,0.009660159164159854,Baixo
+QU6CFZ22,,MG Advanced,Cassey Cress,Engaging,2017-06-23,,,Unknown,East,0.9999033984083584,0.009660159164159854,Baixo
+AR33M33M,,GTX Plus Basic,Hayden Neloms,Engaging,2017-07-01,,,Unknown,West,0.9999034344961777,0.00965655038223101,Baixo
+RFXH6VDX,,GTX Plus Basic,Hayden Neloms,Engaging,2017-07-27,,,Unknown,West,0.9999034380552275,0.009656194477247748,Baixo
+988J5AUI,,GTX Plus Basic,Hayden Neloms,Engaging,2017-08-10,,,Unknown,West,0.9999034380552275,0.009656194477247748,Baixo
+U4L1277G,,GTX Plus Basic,Hayden Neloms,Engaging,2017-08-01,,,Unknown,West,0.9999034380552275,0.009656194477247748,Baixo
+PMK11X5L,,GTX Plus Basic,Wilburn Farren,Engaging,2017-11-08,,,Unknown,East,0.9999034562324582,0.009654376754175686,Baixo
+YLK0MRJ3,Iselectrics,GTX Basic,Kary Hendrixson,Engaging,2017-04-01,,,technolgy,West,0.9999035055599101,0.009649444008985597,Baixo
+HU970PDK,Donquadtech,GTX Plus Pro,James Ascencio,Engaging,2017-05-18,,,technolgy,West,0.9999035177628988,0.009648223710123638,Baixo
+1FLN8BTI,Rundofase,MG Special,Darcel Schlecht,Engaging,2017-08-01,,,technolgy,Central,0.9999035516278474,0.009644837215261326,Baixo
+23NAJF9W,Plussunin,GTXPro,Zane Levy,Engaging,2017-06-26,,,retail,West,0.9999036385447967,0.009636145520330874,Baixo
+9AESK6QV,,GTX Basic,Vicki Laflamme,Engaging,2017-08-07,,,Unknown,West,0.9999036587564257,0.009634124357427165,Baixo
+UU7N7LZK,,MG Advanced,James Ascencio,Engaging,2017-09-18,,,Unknown,West,0.9999037345348045,0.009626546519547752,Baixo
+NGG8O0JX,,GTX Basic,Markita Hansen,Engaging,2017-10-13,,,Unknown,West,0.99990403835735,0.009596164265002205,Baixo
+OM8LELJW,Iselectrics,GTX Basic,Kary Hendrixson,Engaging,2017-09-06,,,technolgy,West,0.9999040483190206,0.009595168097942253,Baixo
+BY2L60V1,,MG Special,Zane Levy,Engaging,2017-03-11,,,Unknown,West,0.9999041697860831,0.009583021391690316,Baixo
+81FNO0VM,,GTX Plus Basic,Wilburn Farren,Engaging,2017-03-07,,,Unknown,East,0.9999041891885858,0.009581081141418757,Baixo
+4XZ4RY1N,,GTX Plus Basic,Wilburn Farren,Engaging,2017-03-15,,,Unknown,East,0.9999041891885858,0.009581081141418757,Baixo
+GVYF29NM,,MG Advanced,Violet Mclelland,Engaging,2017-02-25,,,Unknown,East,0.9999043066417812,0.009569335821879577,Baixo
+G3SJ8X1K,,MG Advanced,Violet Mclelland,Engaging,2017-03-31,,,Unknown,East,0.9999043101686899,0.009568983131014175,Baixo
+NNNEMOZ5,,GTX Plus Pro,James Ascencio,Engaging,2017-11-05,,,Unknown,West,0.9999045089191728,0.009549108082718138,Baixo
+4JHY98UG,,GTX Basic,Cassey Cress,Engaging,2017-01-07,,,Unknown,East,0.9999045758493753,0.009542415062469,Baixo
+7ONH55WT,,GTX Basic,Cassey Cress,Engaging,2017-02-24,,,Unknown,East,0.999904579366363,0.009542063363698894,Baixo
+T1SITEI0,Singletechno,MG Special,Darcel Schlecht,Engaging,2017-07-29,,,retail,Central,0.9999046432600304,0.009535673996963201,Baixo
+ETZKANFZ,,GTX Basic,Markita Hansen,Engaging,2017-01-21,,,Unknown,West,0.9999046903876396,0.00953096123603725,Baixo
+DWUD4S0P,,GTX Basic,Markita Hansen,Engaging,2017-01-10,,,Unknown,West,0.9999046939004064,0.009530609959362835,Baixo
+VL8YNHD7,,GTX Plus Basic,Kary Hendrixson,Engaging,2017-12-08,,,Unknown,West,0.9999047798248615,0.009522017513852177,Baixo
+X4FW4JR1,,GTX Basic,Kary Hendrixson,Engaging,2017-05-15,,,Unknown,West,0.9999047908777671,0.009520912223293099,Baixo
+PIFPDJMN,,GTX Basic,Kary Hendrixson,Engaging,2017-06-05,,,Unknown,West,0.9999047914331021,0.009520856689793078,Baixo
+MCA0202R,,GTX Basic,Kary Hendrixson,Engaging,2017-06-12,,,Unknown,West,0.9999047914331021,0.009520856689793078,Baixo
+4V9NMGEA,,GTX Basic,Rosalina Dieter,Engaging,2017-03-02,,,Unknown,West,0.9999048038196146,0.009519618038544841,Baixo
+Y3CYQGPH,,GTX Basic,Rosalina Dieter,Engaging,2017-02-22,,,Unknown,West,0.9999048038196146,0.009519618038544841,Baixo
+ZBDT3T2H,,GTX Basic,Kary Hendrixson,Engaging,2017-09-18,,,Unknown,West,0.9999049361825414,0.009506381745860715,Baixo
+35LLMROC,,GTX Basic,Kary Hendrixson,Engaging,2017-07-03,,,Unknown,West,0.9999049361825414,0.009506381745860715,Baixo
+VFEV5XBS,,GTX Plus Basic,Violet Mclelland,Engaging,2017-01-31,,,Unknown,East,0.9999052193516588,0.009478064834123057,Baixo
+HN6TZPAF,,GTX Plus Pro,Wilburn Farren,Engaging,2017-10-31,,,Unknown,East,0.9999055779952281,0.009442200477194351,Baixo
+E4THD359,,GTX Basic,Wilburn Farren,Engaging,2017-02-05,,,Unknown,East,0.9999056819564736,0.009431804352644235,Baixo
+R9AVNYCO,Conecom,GTX Plus Basic,Zane Levy,Engaging,2017-06-07,,,technolgy,West,0.9999057985907421,0.00942014092578658,Baixo
+T5SX9Z3T,Conecom,GTX Basic,Vicki Laflamme,Engaging,2017-05-10,,,technolgy,West,0.9999060702799502,0.009392972004984568,Baixo
+UQQE9ILV,Iselectrics,GTXPro,James Ascencio,Engaging,2017-01-13,,,technolgy,West,0.9999061743610522,0.00938256389477754,Baixo
+DN6SG3US,,GTX Plus Pro,Wilburn Farren,Engaging,2017-02-25,,,Unknown,East,0.9999062913907684,0.009370860923163526,Baixo
+TV300INP,,GTX Plus Pro,Wilburn Farren,Engaging,2017-03-03,,,Unknown,East,0.9999062948445335,0.009370515546647251,Baixo
+AF7XJNED,,GTX Plus Pro,Rosie Papadopoulos,Engaging,2017-03-16,,,Unknown,East,0.9999064974113845,0.009350258861551275,Baixo
+AWCGYWTE,Kinnamplus,MG Special,Moses Frase,Engaging,2017-07-22,,,retail,Central,0.9999065475193455,0.009345248065451006,Baixo
+5DQZSOBE,,GTX Plus Basic,Cecily Lampkin,Engaging,2017-07-22,,,Unknown,Central,0.9999068655338686,0.009313446613135046,Baixo
+KPYCCBQA,,GTX Plus Basic,Cecily Lampkin,Engaging,2017-07-27,,,Unknown,Central,0.9999068689664748,0.009313103352515117,Baixo
+UJ58VMZT,,GTX Plus Basic,Cecily Lampkin,Engaging,2017-07-21,,,Unknown,Central,0.9999068689664748,0.009313103352515117,Baixo
+E8GD44YC,,GTX Plus Basic,Cecily Lampkin,Engaging,2017-07-21,,,Unknown,Central,0.9999068689664748,0.009313103352515117,Baixo
+NBJR3GVR,,GTXPro,Marty Freudenburg,Engaging,2017-08-01,,,Unknown,Central,0.9999071605924867,0.009283940751325659,Baixo
+J732416R,,MG Special,Anna Snelling,Engaging,2017-07-23,,,Unknown,Central,0.9999072494224682,0.009275057753177496,Baixo
+MK380H70,,MG Special,Anna Snelling,Engaging,2017-07-30,,,Unknown,Central,0.9999072494224682,0.009275057753177496,Baixo
+IAUXJ05J,,MG Special,Anna Snelling,Engaging,2017-07-23,,,Unknown,Central,0.9999072494224682,0.009275057753177496,Baixo
+5SNCUQ8Z,,MG Special,Anna Snelling,Engaging,2017-07-30,,,Unknown,Central,0.9999072494224682,0.009275057753177496,Baixo
+FEFNNXH1,Singletechno,MG Special,Anna Snelling,Engaging,2017-07-22,,,retail,Central,0.9999073363595233,0.009266364047666453,Baixo
+OGHK250E,,GTX Basic,Violet Mclelland,Engaging,2017-09-03,,,Unknown,East,0.9999073766177009,0.009262338229909517,Baixo
+UI3DE2C4,,GTX Plus Basic,Zane Levy,Engaging,2017-02-26,,,Unknown,West,0.999907402687544,0.009259731245603309,Baixo
+8MUD1WS1,,MG Advanced,Cecily Lampkin,Engaging,2017-08-12,,,Unknown,Central,0.9999074704732984,0.00925295267015791,Baixo
+QIEAKLRU,,MG Advanced,Cecily Lampkin,Engaging,2017-08-03,,,Unknown,Central,0.9999074738836106,0.009252611638943531,Baixo
+Q8QGD2OG,,MG Advanced,Cecily Lampkin,Engaging,2017-08-08,,,Unknown,Central,0.9999074738836106,0.009252611638943531,Baixo
+5C8HCDXT,,MG Advanced,Wilburn Farren,Engaging,2017-03-21,,,Unknown,East,0.9999075295350224,0.009247046497762312,Baixo
+1D54L027,,MG Advanced,Wilburn Farren,Engaging,2017-01-25,,,Unknown,East,0.9999075295350224,0.009247046497762312,Baixo
+RFQP9VCW,,MG Advanced,Wilburn Farren,Engaging,2017-03-07,,,Unknown,East,0.9999075295350224,0.009247046497762312,Baixo
+6KEWAQMX,,GTXPro,Cassey Cress,Engaging,2017-08-12,,,Unknown,East,0.999907537503044,0.009246249695604725,Baixo
+UIOJX7O0,,GTXPro,Cassey Cress,Engaging,2017-08-24,,,Unknown,East,0.9999075409108859,0.009245908911414968,Baixo
+Y7244XW7,Plussunin,MG Special,Moses Frase,Engaging,2017-08-01,,,retail,Central,0.9999075615104421,0.009243848955786671,Baixo
+THKCN7HU,,GTX Basic,Kary Hendrixson,Engaging,2017-03-19,,,Unknown,West,0.9999075791167552,0.009242088324479258,Baixo
+GL95LARP,,GTXPro,Cassey Cress,Engaging,2017-04-08,,,Unknown,East,0.9999076025149284,0.009239748507161583,Baixo
+HDALWEHF,,GTXPro,Cassey Cress,Engaging,2017-04-25,,,Unknown,East,0.9999076059203744,0.009239407962557955,Baixo
+DYYJW46L,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-10-14,,,Unknown,West,0.9999076359078426,0.009236409215740427,Baixo
+E2CJIO85,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-10-03,,,Unknown,West,0.9999076393120582,0.009236068794182817,Baixo
+GR2X90DZ,,GTX Basic,Vicki Laflamme,Engaging,2017-01-15,,,Unknown,West,0.9999076702892985,0.009232971070149976,Baixo
+XYRO1TLJ,,GTXPro,Markita Hansen,Engaging,2017-06-29,,,Unknown,West,0.9999077173602297,0.00922826397703469,Baixo
+SMP2K39G,,GTXPro,Markita Hansen,Engaging,2017-09-28,,,Unknown,West,0.9999078576616734,0.009214233832655072,Baixo
+283MDYKM,,GTX Plus Basic,Moses Frase,Engaging,2017-07-31,,,Unknown,Central,0.9999078872916023,0.009211270839770691,Baixo
+AZN2K0V9,Ganjaflex,MG Advanced,Anna Snelling,Engaging,2017-08-03,,,retail,Central,0.9999079886908242,0.009201130917579903,Baixo
+HZIU2NOT,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-02-04,,,Unknown,West,0.9999081762937098,0.00918237062902394,Baixo
+04YGLJ3N,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-03-17,,,Unknown,West,0.9999081796780103,0.009182032198973289,Baixo
+CR6ZLEWC,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-03-24,,,Unknown,West,0.9999081796780103,0.009182032198973289,Baixo
+LIQZNH9U,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-03-31,,,Unknown,West,0.9999081796780103,0.009182032198973289,Baixo
+1GT10YJD,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-03-17,,,Unknown,West,0.9999082702581585,0.009172974184146199,Baixo
+89P5UVQ0,,GTXPro,Wilburn Farren,Engaging,2017-05-14,,,Unknown,East,0.999908673541699,0.009132645830101094,Baixo
+4S17VJ7O,,MG Advanced,Kary Hendrixson,Engaging,2017-10-19,,,Unknown,West,0.9999087662874931,0.009123371250685519,Baixo
+RUFJMV3I,,MG Special,James Ascencio,Engaging,2017-06-20,,,Unknown,West,0.9999090249227388,0.009097507726119058,Baixo
+FQI66XXN,,GTX Basic,Marty Freudenburg,Engaging,2017-07-29,,,Unknown,Central,0.9999090706386802,0.009092936131982476,Baixo
+3L3W9W8I,,GTX Basic,Marty Freudenburg,Engaging,2017-07-28,,,Unknown,Central,0.9999090739900213,0.009092600997873124,Baixo
+WX546S1D,,GTX Basic,Marty Freudenburg,Engaging,2017-07-27,,,Unknown,Central,0.9999090739900213,0.009092600997873124,Baixo
+E26Z10W7,,MG Special,James Ascencio,Engaging,2017-07-22,,,Unknown,West,0.999909159888365,0.009084011163495997,Baixo
+3NC5XSDF,,MG Advanced,Violet Mclelland,Engaging,2017-09-12,,,Unknown,East,0.9999091910028619,0.00908089971380921,Baixo
+8Z4ZMS9U,,MG Advanced,Violet Mclelland,Engaging,2017-05-19,,,Unknown,East,0.9999092548522494,0.009074514775064824,Baixo
+9GYIYGHW,,MG Advanced,Violet Mclelland,Engaging,2017-06-06,,,Unknown,East,0.9999092553815492,0.009074461845082205,Baixo
+IBEUTCSW,,MG Advanced,James Ascencio,Engaging,2016-12-08,,,Unknown,West,0.9999092554294793,0.009074457052071772,Baixo
+I92EJ805,Bluth Company,GTX Basic,Kami Bicknell,Engaging,2017-05-01,,,technolgy,West,0.9999094070697822,0.009059293021784764,Baixo
+STI8KYWL,,GTX Plus Basic,Niesha Huffines,Engaging,2017-07-31,,,Unknown,Central,0.9999094426714881,0.009055732851193099,Baixo
+KR22DD8M,,GTX Basic,Cassey Cress,Engaging,2017-08-17,,,Unknown,East,0.9999094464708608,0.009055352913922565,Baixo
+X6NSKI7H,,GTX Basic,Cassey Cress,Engaging,2017-09-06,,,Unknown,East,0.9999094464708608,0.009055352913922565,Baixo
+AWORM94L,,GTX Basic,Cassey Cress,Engaging,2017-07-05,,,Unknown,East,0.9999094464708608,0.009055352913922565,Baixo
+S931EBRN,,GTX Basic,Cassey Cress,Engaging,2017-08-09,,,Unknown,East,0.9999094464708608,0.009055352913922565,Baixo
+8V5OCDHN,,GTX Basic,Cassey Cress,Engaging,2017-09-12,,,Unknown,East,0.9999094464708608,0.009055352913922565,Baixo
+84LN84VM,,MG Advanced,Vicki Laflamme,Engaging,2017-02-17,,,Unknown,West,0.9999094789222926,0.009052107770735063,Baixo
+56LUBQTV,,MG Advanced,Moses Frase,Engaging,2017-07-31,,,Unknown,Central,0.9999095618219721,0.009043817802789622,Baixo
+TCJA7XF2,,MG Special,Kami Bicknell,Engaging,2017-08-27,,,Unknown,West,0.9999096114672759,0.009038853272413938,Baixo
+7COYG1Z2,,MG Special,Kami Bicknell,Engaging,2017-07-30,,,Unknown,West,0.9999096114672759,0.009038853272413938,Baixo
+EGEJA2HY,,GTX Basic,Markita Hansen,Engaging,2017-06-17,,,Unknown,West,0.9999096159527094,0.009038404729055927,Baixo
+WQSJNIEZ,,GTX Basic,Markita Hansen,Engaging,2017-05-05,,,Unknown,West,0.9999096187567764,0.009038124322358065,Baixo
+6S2ABHZS,,GTX Basic,Markita Hansen,Engaging,2017-04-14,,,Unknown,West,0.9999096187567764,0.009038124322358065,Baixo
+99EA6HXJ,,GTX Basic,Markita Hansen,Engaging,2017-08-10,,,Unknown,West,0.9999097566940787,0.009024330592133367,Baixo
+M2ZRU2UH,,GTX Basic,Rosalina Dieter,Engaging,2017-07-28,,,Unknown,West,0.9999098607747506,0.00901392252493638,Baixo
+7TI1WTV9,Acme Corporation,GTXPro,Zane Levy,Engaging,2017-03-04,,,technolgy,West,0.9999098608434711,0.009013915652889004,Baixo
+0D37PQA0,,GTX Plus Basic,Violet Mclelland,Engaging,2017-07-08,,,Unknown,East,0.9999100505002386,0.0089949499761377,Baixo
+DQ7GS2BN,,GTX Plus Pro,James Ascencio,Engaging,2017-04-02,,,Unknown,West,0.9999100619567634,0.008993804323664811,Baixo
+ZH14SZPT,,GTX Plus Basic,Violet Mclelland,Engaging,2017-04-29,,,Unknown,East,0.9999101137453528,0.008988625464723121,Baixo
+CEEJ2EN5,,GTX Plus Basic,Violet Mclelland,Engaging,2017-04-25,,,Unknown,East,0.9999101170582522,0.008988294174783196,Baixo
+RS31U03Y,,GTX Plus Basic,Zane Levy,Engaging,2017-12-07,,,Unknown,West,0.9999102171007354,0.008978289926464544,Baixo
+3F2ZPCSL,,GTX Plus Basic,Kary Hendrixson,Engaging,2017-03-25,,,Unknown,West,0.9999102471540079,0.00897528459921082,Baixo
+VV6T07G4,,MG Advanced,Darcel Schlecht,Engaging,2017-07-24,,,Unknown,Central,0.9999102713443583,0.008972865564171872,Baixo
+4H2QMS78,,GTX Basic,Vicki Laflamme,Engaging,2016-12-21,,,Unknown,West,0.9999104765697,0.00895234302999981,Baixo
+9IA34L8S,,GTX Basic,Vicki Laflamme,Engaging,2016-12-29,,,Unknown,West,0.9999104765697,0.00895234302999981,Baixo
+10AEGW41,,GTXPro,Kary Hendrixson,Engaging,2017-04-16,,,Unknown,West,0.9999105105331252,0.008948946687481474,Baixo
+GXC8JN36,,GTXPro,Kary Hendrixson,Engaging,2017-06-04,,,Unknown,West,0.9999105110551018,0.008948894489824166,Baixo
+6G6ZCKSB,,GTXPro,Vicki Laflamme,Engaging,2017-04-16,,,Unknown,West,0.9999105988141057,0.008940118589428891,Baixo
+A8QRKXG3,,GTXPro,Vicki Laflamme,Engaging,2017-06-25,,,Unknown,West,0.9999105993355673,0.00894006644327483,Baixo
+VD2KHXRY,Toughzap,GTXPro,Zane Levy,Engaging,2017-07-27,,,retail,West,0.9999106431842127,0.008935681578725596,Baixo
+SLMY2KDA,,GTXPro,Kary Hendrixson,Engaging,2017-08-06,,,Unknown,West,0.9999106471095451,0.00893528904548635,Baixo
+20CVXRTX,Kinnamplus,GTXPro,Vicki Laflamme,Engaging,2017-04-01,,,retail,West,0.999910686026512,0.00893139734879922,Baixo
+4NGSQODD,Blackzim,GTXPro,James Ascencio,Engaging,2017-01-28,,,retail,West,0.9999107113419461,0.008928865805390984,Baixo
+9JTFD4FZ,,GTX Plus Pro,Wilburn Farren,Engaging,2017-09-28,,,Unknown,East,0.9999110744557016,0.00889255442984016,Baixo
+YYTZSTL0,,GTX Plus Pro,Rosie Papadopoulos,Engaging,2017-07-07,,,Unknown,East,0.9999112666911587,0.008873330884129338,Baixo
+Q8BZ3PC9,,GTX Plus Pro,Rosie Papadopoulos,Engaging,2017-04-18,,,Unknown,East,0.9999113290812228,0.008867091877717836,Baixo
+BBOWBQA6,Blackzim,GTX Plus Pro,Niesha Huffines,Engaging,2017-07-20,,,retail,Central,0.9999114243152327,0.008857568476727806,Baixo
+JHCA115A,Green-Plus,GTXPro,Vicki Laflamme,Engaging,2017-07-19,,,services,West,0.9999114365548064,0.008856344519359016,Baixo
+0OESOJNN,Warephase,GTX Plus Basic,James Ascencio,Engaging,2017-01-17,,,services,West,0.9999115289967687,0.008847100323128299,Baixo
+513PSPBN,,GTX Plus Pro,Anna Snelling,Engaging,2017-07-24,,,Unknown,Central,0.999911652761635,0.008834723836503855,Baixo
+3SD04QJ4,,MG Advanced,Wilburn Farren,Engaging,2017-07-29,,,Unknown,East,0.9999122429395296,0.008775706047037257,Baixo
+TZPE6M07,,MG Advanced,Wilburn Farren,Engaging,2017-08-22,,,Unknown,East,0.999912246173961,0.008775382603898318,Baixo
+NBBIFIKB,,MG Advanced,Wilburn Farren,Engaging,2017-09-15,,,Unknown,East,0.999912246173961,0.008775382603898318,Baixo
+UMXZFLO8,,GTXPro,Zane Levy,Engaging,2017-05-29,,,Unknown,West,0.999912301845282,0.008769815471798559,Baixo
+QNVW1NSS,,MG Advanced,Wilburn Farren,Engaging,2017-05-30,,,Unknown,East,0.9999123078753928,0.008769212460724152,Baixo
+UJ7BYO6A,,MG Advanced,Wilburn Farren,Engaging,2017-05-04,,,Unknown,East,0.9999123078753928,0.008769212460724152,Baixo
+B6Z5NFV0,,MG Advanced,Wilburn Farren,Engaging,2017-06-20,,,Unknown,East,0.9999123083868866,0.008769161311339424,Baixo
+RE3UNESR,,GTX Basic,Kary Hendrixson,Engaging,2017-05-21,,,Unknown,West,0.9999123548952522,0.008764510474779108,Baixo
+4LXUITP3,,GTX Basic,Kary Hendrixson,Engaging,2017-06-04,,,Unknown,West,0.9999123554064718,0.008764459352816889,Baixo
+3IWUUUCN,,GTXPro,Elease Gluck,Engaging,2017-05-24,,,Unknown,West,0.999912400372566,0.008759962743398741,Baixo
+BCA6Y34B,,MG Advanced,Rosie Papadopoulos,Engaging,2017-07-01,,,Unknown,East,0.9999124326492294,0.008756735077064537,Baixo
+WVKBXWA9,,MG Advanced,Rosie Papadopoulos,Engaging,2017-09-19,,,Unknown,East,0.9999124358766694,0.008756412333055241,Baixo
+O7LSETHG,,MG Advanced,Rosie Papadopoulos,Engaging,2017-08-08,,,Unknown,East,0.9999124358766694,0.008756412333055241,Baixo
+848QSODT,,GTX Basic,Vicki Laflamme,Engaging,2017-05-14,,,Unknown,West,0.9999124413569367,0.00875586430633124,Baixo
+477HSG28,,GTX Basic,Vicki Laflamme,Engaging,2017-06-11,,,Unknown,West,0.9999124418676517,0.008755813234828658,Baixo
+OVLGWURN,,GTX Basic,Kary Hendrixson,Engaging,2017-07-30,,,Unknown,West,0.9999124886571026,0.008751134289741724,Baixo
+QPUPBL50,,GTX Basic,Kary Hendrixson,Engaging,2017-08-20,,,Unknown,West,0.9999124886571026,0.008751134289741724,Baixo
+V71FMJBD,,MG Advanced,Rosie Papadopoulos,Engaging,2017-06-28,,,Unknown,East,0.9999124979551173,0.008750204488272573,Baixo
+CCLIVXMG,,GTXPro,Elease Gluck,Engaging,2017-07-19,,,Unknown,West,0.9999125340650159,0.008746593498409894,Baixo
+8GE7FY98,,GTXPro,Violet Mclelland,Engaging,2017-03-22,,,Unknown,East,0.9999128628637284,0.008713713627162,Baixo
+7HSRDCCK,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-06-13,,,Unknown,West,0.999912924933564,0.008707506643601537,Baixo
+E8QHX9TE,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-05-11,,,Unknown,West,0.9999130103255588,0.008698967444120687,Baixo
+C6TQMD3C,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-06-07,,,Unknown,West,0.9999130108329557,0.00869891670443046,Baixo
+JB3J080M,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-07-11,,,Unknown,West,0.9999130573183883,0.008694268161169028,Baixo
+FPLXC8Z3,,GTX Plus Pro,Kary Hendrixson,Engaging,2017-07-26,,,Unknown,West,0.9999130573183883,0.008694268161169028,Baixo
+3C6E0D28,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-08-12,,,Unknown,West,0.9999131398858183,0.008686011418168604,Baixo
+DY8DMZZ9,,GTX Plus Pro,Vicki Laflamme,Engaging,2017-09-16,,,Unknown,West,0.9999131398858183,0.008686011418168604,Baixo
+GWQX8BSZ,Donquadtech,GTX Basic,Niesha Huffines,Engaging,2017-07-30,,,technolgy,Central,0.9999132545293065,0.008674547069353888,Baixo
+OPCLCCQH,Konex,GTX Plus Basic,Kami Bicknell,Engaging,2017-03-16,,,technolgy,West,0.9999134580427046,0.008654195729540515,Baixo
+SAMPTSH0,,GTX Plus Basic,Anna Snelling,Engaging,2017-08-14,,,Unknown,Central,0.9999136452254281,0.00863547745718618,Baixo
+PW9DTZON,Donquadtech,GTXPro,James Ascencio,Engaging,2017-07-26,,,technolgy,West,0.999913783439743,0.008621656025697977,Baixo
+8G3HB5S6,,GTX Basic,James Ascencio,Engaging,2017-05-29,,,Unknown,West,0.9999140141330148,0.008598586698516097,Baixo
+E4082SMQ,,GTX Basic,James Ascencio,Engaging,2017-04-17,,,Unknown,West,0.9999140141330148,0.008598586698516097,Baixo
+BHHDOY2E,,MG Advanced,Kary Hendrixson,Engaging,2017-04-07,,,Unknown,West,0.9999140717700821,0.008592822991793092,Baixo
+PCVNB0NO,,GTX Basic,Zane Levy,Engaging,2017-06-19,,,Unknown,West,0.99991410979294,0.008589020705995765,Baixo
+M857G6G1,,MG Advanced,Vicki Laflamme,Engaging,2017-04-18,,,Unknown,West,0.9999141565382188,0.008584346178119873,Baixo
+T4FR3FAC,,MG Advanced,Vicki Laflamme,Engaging,2017-06-29,,,Unknown,West,0.9999141570389306,0.008584296106939338,Baixo
+UEZOR630,,GTX Basic,Elease Gluck,Engaging,2017-04-29,,,Unknown,West,0.9999142026265675,0.00857973734325057,Baixo
+W07RZO17,,MG Advanced,Kary Hendrixson,Engaging,2017-07-04,,,Unknown,West,0.9999142029119042,0.008579708809575148,Baixo
+HF2DSIT5,,GTX Basic,Elease Gluck,Engaging,2017-05-16,,,Unknown,West,0.9999142057887775,0.008579421122245634,Baixo
+W533W8G6,,GTX Basic,Zane Levy,Engaging,2017-09-04,,,Unknown,West,0.9999142403765148,0.008575962348522648,Baixo
+PMMW9JX3,,GTX Basic,Kary Hendrixson,Engaging,2016-12-28,,,Unknown,West,0.9999142629916901,0.008573700830993847,Baixo
+2VCDVCIZ,,GTX Basic,Kary Hendrixson,Engaging,2016-12-27,,,Unknown,West,0.9999142629916901,0.008573700830993847,Baixo
+3Q15OHQB,,MG Advanced,Vicki Laflamme,Engaging,2017-09-23,,,Unknown,West,0.999914284391484,0.008571560851600157,Baixo
+MAH5U65E,,MG Advanced,Vicki Laflamme,Engaging,2017-08-18,,,Unknown,West,0.9999142875506806,0.008571244931943056,Baixo
+2FM8HJDM,,MG Advanced,Vicki Laflamme,Engaging,2017-09-20,,,Unknown,West,0.9999142875506806,0.008571244931943056,Baixo
+N909ADDC,,MG Advanced,Vicki Laflamme,Engaging,2017-08-02,,,Unknown,West,0.9999142875506806,0.008571244931943056,Baixo
+P4D1NK6D,,GTX Basic,Elease Gluck,Engaging,2017-08-11,,,Unknown,West,0.9999143367260807,0.008566327391934525,Baixo
+4UZCVHEV,,GTX Basic,Violet Mclelland,Engaging,2017-03-17,,,Unknown,East,0.9999146587488745,0.00853412511254703,Baixo
+97PFKCPG,,GTXPro,James Ascencio,Engaging,2017-03-26,,,Unknown,West,0.9999147758251111,0.008522417488887601,Baixo
+PD2198ZH,,GTXPro,Zane Levy,Engaging,2017-03-19,,,Unknown,West,0.9999148701411705,0.00851298588294691,Baixo
+8YIANRVX,,GTXPro,Zane Levy,Engaging,2017-01-29,,,Unknown,West,0.9999148701411705,0.00851298588294691,Baixo
+BRFHWGVC,,GTX Plus Basic,Kary Hendrixson,Engaging,2017-05-19,,,Unknown,West,0.9999148882125145,0.00851117874854923,Baixo
+J58BUYQH,,GTX Plus Basic,Kary Hendrixson,Engaging,2017-04-11,,,Unknown,West,0.9999148882125145,0.00851117874854923,Baixo
+I35REHYN,Genco Pura Olive Oil Company,GTX Basic,Vicki Laflamme,Engaging,2017-09-12,,,retail,West,0.9999148977364213,0.008510226357871797,Baixo
+51H02FX1,,MG Special,Niesha Huffines,Engaging,2017-07-27,,,Unknown,Central,0.999914953740226,0.008504625977401314,Baixo
+SUUVV6RP,,MG Special,Niesha Huffines,Engaging,2017-08-03,,,Unknown,Central,0.999914953740226,0.008504625977401314,Baixo
+S2MSQIXP,Hottechi,GTX Basic,Zane Levy,Engaging,2017-04-19,,,technolgy,West,0.9999153271735454,0.00846728264546348,Baixo
+8QDSXHQ8,,GTX Basic,Cecily Lampkin,Engaging,2017-07-22,,,Unknown,Central,0.999915624676802,0.00843753231980493,Baixo
+VVO21D4Z,,GTX Basic,Cecily Lampkin,Engaging,2017-07-25,,,Unknown,Central,0.9999156277866043,0.008437221339574474,Baixo
+LT111IZL,,MG Special,Moses Frase,Engaging,2017-08-12,,,Unknown,Central,0.9999158695394025,0.008413046059752016,Baixo
+UJTU7DUB,,MG Special,Moses Frase,Engaging,2017-07-22,,,Unknown,Central,0.9999158695394025,0.008413046059752016,Baixo
+QHY85D44,,MG Special,Moses Frase,Engaging,2017-08-12,,,Unknown,Central,0.9999158695394025,0.008413046059752016,Baixo
+M5FP7HGQ,,MG Special,Moses Frase,Engaging,2017-07-28,,,Unknown,Central,0.9999158726401809,0.008412735981910835,Baixo
+GE4QGOCI,,MG Special,Moses Frase,Engaging,2017-07-21,,,Unknown,Central,0.9999158726401809,0.008412735981910835,Baixo
+IK7LMFER,,MG Special,Moses Frase,Engaging,2017-07-26,,,Unknown,Central,0.9999158726401809,0.008412735981910835,Baixo
+DZP0MNRM,Konex,GTX Plus Basic,Niesha Huffines,Engaging,2017-07-25,,,technolgy,Central,0.9999159081974148,0.008409180258517335,Baixo
+43LFUTVM,,GTX Plus Pro,Zane Levy,Engaging,2017-03-24,,,Unknown,West,0.999916096359064,0.008390364093602276,Baixo
+246MLWZ7,Rangreen,GTX Basic,Zane Levy,Engaging,2017-05-09,,,technolgy,West,0.999916429017667,0.008357098233302551,Baixo
+YQJGEI71,,GTX Plus Pro,James Ascencio,Engaging,2017-10-19,,,Unknown,West,0.9999165042834323,0.008349571656773858,Baixo
+LXS3Z82E,,MG Advanced,Niesha Huffines,Engaging,2017-07-23,,,Unknown,Central,0.9999165296941035,0.008347030589650473,Baixo
+UAX2OR58,,MG Special,Darcel Schlecht,Engaging,2017-07-22,,,Unknown,Central,0.9999165404478366,0.008345955216337853,Baixo
+VAL8O4PH,,MG Special,Darcel Schlecht,Engaging,2017-08-01,,,Unknown,Central,0.9999165435238894,0.008345647611063267,Baixo
+3PPHOXTT,,MG Special,Darcel Schlecht,Engaging,2017-07-28,,,Unknown,Central,0.9999165435238894,0.008345647611063267,Baixo
+CG9VXPV1,,GTX Basic,Zane Levy,Engaging,2017-02-19,,,Unknown,West,0.9999166246600368,0.008337533996316537,Baixo
+SYA1A4E5,,GTXPro,Niesha Huffines,Engaging,2017-08-07,,,Unknown,Central,0.9999167456255551,0.008325437444489658,Baixo
+H2FCUPHJ,,GTXPro,Niesha Huffines,Engaging,2017-07-24,,,Unknown,Central,0.9999167456255551,0.008325437444489658,Baixo
+HWOBBZWQ,,GTX Basic,Wilburn Farren,Engaging,2017-10-24,,,Unknown,East,0.9999168990716198,0.008310092838015315,Baixo
+VY4IVO2W,,GTX Plus Basic,Kami Bicknell,Engaging,2017-04-24,,,Unknown,West,0.9999169115285874,0.008308847141258457,Baixo
+VVE9HGLD,,GTXPro,Kary Hendrixson,Engaging,2017-10-05,,,Unknown,West,0.9999169207306166,0.00830792693834459,Baixo
+22HV3N2W,Rangreen,GTX Plus Basic,Niesha Huffines,Engaging,2017-08-01,,,technolgy,Central,0.9999170024813235,0.008299751867646421,Baixo
+6JBM1ZKO,,GTXPro,Vicki Laflamme,Engaging,2017-11-09,,,Unknown,West,0.9999170026884892,0.008299731151084622,Baixo
+R2V49PU5,,GTX Plus Basic,Kami Bicknell,Engaging,2017-08-21,,,Unknown,West,0.9999170383367905,0.008296166320953535,Baixo
+5BXUKFPR,,GTX Plus Pro,James Ascencio,Engaging,2017-02-11,,,Unknown,West,0.9999170716185558,0.008292838144419168,Baixo
+X1D1HYMM,,GTX Plus Pro,James Ascencio,Engaging,2017-02-25,,,Unknown,West,0.9999170716185558,0.008292838144419168,Baixo
+JSZZN48S,,GTX Plus Pro,James Ascencio,Engaging,2017-02-28,,,Unknown,West,0.9999170746750331,0.00829253249668982,Baixo
+1B27CZ2M,,GTX Plus Pro,James Ascencio,Engaging,2017-03-10,,,Unknown,West,0.9999170746750331,0.00829253249668982,Baixo
+QKW7MDJK,,GTXPro,Violet Mclelland,Engaging,2017-08-23,,,Unknown,East,0.9999173074881866,0.008269251181336479,Baixo
+TJ95PY76,J-Texon,GTXPro,Darcel Schlecht,Engaging,2017-07-30,,,retail,Central,0.9999173626327836,0.008263736721636494,Baixo
+R443AUAG,,GTXPro,Violet Mclelland,Engaging,2017-06-27,,,Unknown,East,0.9999173661131985,0.008263388680151973,Baixo
+HQKWQ004,,MG Advanced,Moses Frase,Engaging,2017-08-13,,,Unknown,Central,0.9999174315677439,0.008256843225606936,Baixo
+ZG8WPG99,,GTXPro,Kary Hendrixson,Engaging,2017-03-03,,,Unknown,West,0.99991748827754,0.008251172245998806,Baixo
+ZHXIDZNI,,GTXPro,Kary Hendrixson,Engaging,2017-02-08,,,Unknown,West,0.99991748827754,0.008251172245998806,Baixo
+7PXJ92C5,,GTXPro,Kary Hendrixson,Engaging,2017-03-15,,,Unknown,West,0.99991748827754,0.008251172245998806,Baixo
+INBGKE14,,GTXPro,Kary Hendrixson,Engaging,2017-02-16,,,Unknown,West,0.99991748827754,0.008251172245998806,Baixo
+OZ5S8NCK,,GTXPro,Kary Hendrixson,Engaging,2017-01-18,,,Unknown,West,0.99991748827754,0.008251172245998806,Baixo
+ODGKZEVV,,GTXPro,Kary Hendrixson,Engaging,2017-03-23,,,Unknown,West,0.99991748827754,0.008251172245998806,Baixo
+DOGKQHQP,,GTXPro,Vicki Laflamme,Engaging,2017-03-31,,,Unknown,West,0.9999175696755724,0.00824303244275626,Baixo
+RW39Y63V,,GTXPro,Vicki Laflamme,Engaging,2017-01-10,,,Unknown,West,0.9999175696755724,0.00824303244275626,Baixo
+HAXMC4IX,,MG Advanced,James Ascencio,Engaging,2016-11-03,,,Unknown,West,0.9999176044620225,0.008239553797750876,Baixo
+5KK2SSSB,,GTX Basic,Rosie Papadopoulos,Engaging,2017-02-16,,,Unknown,East,0.9999177105722735,0.008228942772647851,Baixo
+F3EOBN5A,Genco Pura Olive Oil Company,GTX Plus Pro,Moses Frase,Engaging,2017-07-20,,,retail,Central,0.9999178766587576,0.00821233412423572,Baixo
+R6OZIG5J,,MG Advanced,Darcel Schlecht,Engaging,2017-07-30,,,Unknown,Central,0.9999180793539978,0.008192064600220927,Baixo
+DVT7NPEH,,MG Advanced,Darcel Schlecht,Engaging,2017-07-30,,,Unknown,Central,0.9999180793539978,0.008192064600220927,Baixo
+ILR33OAV,,MG Advanced,James Ascencio,Engaging,2017-03-11,,,Unknown,West,0.999918164322285,0.008183567771502531,Baixo
+QR2BDRAI,,MG Advanced,James Ascencio,Engaging,2017-01-04,,,Unknown,West,0.9999181673384919,0.008183266150807444,Baixo
+ZRYPU2QW,,MG Advanced,James Ascencio,Engaging,2017-03-09,,,Unknown,West,0.9999181673384919,0.008183266150807444,Baixo
+EY7OI10Z,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-30,,,Unknown,Central,0.9999181954696917,0.00818045303082604,Baixo
+QMFN71BT,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-08-13,,,Unknown,Central,0.9999181954696917,0.00818045303082604,Baixo
+EJJCUJ3P,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-23,,,Unknown,Central,0.9999181954696917,0.00818045303082604,Baixo
+ODFL6HOF,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-23,,,Unknown,Central,0.9999181954696917,0.00818045303082604,Baixo
+1976N63N,Kinnamplus,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-26,,,retail,Central,0.9999182782841527,0.008172171584730492,Baixo
+AILB4LIX,,GTXPro,Darcel Schlecht,Engaging,2017-08-14,,,Unknown,Central,0.9999183019159492,0.008169808405078527,Baixo
+FJE58EP1,,GTXPro,Darcel Schlecht,Engaging,2017-08-14,,,Unknown,Central,0.9999183019159492,0.008169808405078527,Baixo
+WGFTBY3W,,GTXPro,Darcel Schlecht,Engaging,2017-07-24,,,Unknown,Central,0.9999183019159492,0.008169808405078527,Baixo
+OEP0IJ6S,,GTXPro,Darcel Schlecht,Engaging,2017-07-31,,,Unknown,Central,0.9999183019159492,0.008169808405078527,Baixo
+FSEV7ZJC,,GTXPro,Darcel Schlecht,Engaging,2017-07-31,,,Unknown,Central,0.9999183019159492,0.008169808405078527,Baixo
+NCCB118E,,GTXPro,Darcel Schlecht,Engaging,2017-07-24,,,Unknown,Central,0.9999183019159492,0.008169808405078527,Baixo
+JVF7HZMV,,GTX Plus Basic,Zane Levy,Engaging,2017-11-28,,,Unknown,West,0.9999184776610983,0.008152233890168503,Baixo
+MYD4PBM9,,GTX Basic,Kary Hendrixson,Engaging,2017-10-03,,,Unknown,West,0.9999186329904546,0.008136700954541887,Baixo
+31IV2B9O,,GTX Basic,Vicki Laflamme,Engaging,2017-10-26,,,Unknown,West,0.9999187132593167,0.008128674068330621,Baixo
+L9EVLHSJ,,GTX Plus Basic,Kami Bicknell,Engaging,2017-10-08,,,Unknown,West,0.9999187900600416,0.008120993995841541,Baixo
+RQF6II3D,,MG Special,Anna Snelling,Engaging,2017-07-22,,,Unknown,Central,0.9999188975699075,0.008110243009251672,Baixo
+FT5U6NIG,,MG Special,Anna Snelling,Engaging,2017-07-22,,,Unknown,Central,0.9999188975699075,0.008110243009251672,Baixo
+DAAHNY6T,,MG Special,Anna Snelling,Engaging,2017-08-05,,,Unknown,Central,0.9999188975699075,0.008110243009251672,Baixo
+3DATPTEH,,MG Special,Anna Snelling,Engaging,2017-07-22,,,Unknown,Central,0.9999188975699075,0.008110243009251672,Baixo
+80QJ0BQH,,MG Special,Anna Snelling,Engaging,2017-08-05,,,Unknown,Central,0.9999188975699075,0.008110243009251672,Baixo
+YYU1J6E1,,MG Special,Anna Snelling,Engaging,2017-07-27,,,Unknown,Central,0.9999189005590915,0.00810994409085053,Baixo
+V02WMIWK,,MG Special,Anna Snelling,Engaging,2017-07-26,,,Unknown,Central,0.9999189005590915,0.00810994409085053,Baixo
+10QE4JCA,,MG Special,Anna Snelling,Engaging,2017-07-28,,,Unknown,Central,0.9999189005590915,0.00810994409085053,Baixo
+ULJG457F,,MG Special,Anna Snelling,Engaging,2017-08-03,,,Unknown,Central,0.9999189005590915,0.00810994409085053,Baixo
+B08R55ET,,MG Special,Anna Snelling,Engaging,2017-08-15,,,Unknown,Central,0.9999189005590915,0.00810994409085053,Baixo
+1R2CLEGQ,,MG Special,Anna Snelling,Engaging,2017-07-20,,,Unknown,Central,0.9999189005590915,0.00810994409085053,Baixo
+H85L45JM,,MG Special,Anna Snelling,Engaging,2017-08-01,,,Unknown,Central,0.9999189005590915,0.00810994409085053,Baixo
+ZNEQXZZK,Donquadtech,MG Advanced,Anna Snelling,Engaging,2017-07-25,,,technolgy,Central,0.999918900599648,0.008109940035194718,Baixo
+PKDJTR06,Hatfan,GTX Plus Basic,Kami Bicknell,Engaging,2017-01-24,,,services,West,0.999918923452388,0.008107654761202454,Baixo
+9A4H9IAC,,GTX Plus Basic,James Ascencio,Engaging,2017-03-07,,,Unknown,West,0.999918944870257,0.008105512974299067,Baixo
+KM1D04JS,,GTX Plus Basic,James Ascencio,Engaging,2017-02-16,,,Unknown,West,0.999918944870257,0.008105512974299067,Baixo
+EEQV0YY4,,GTX Basic,Violet Mclelland,Engaging,2017-08-12,,,Unknown,East,0.9999190087925302,0.008099120746984934,Baixo
+PTZ9QLEF,,GTX Basic,Violet Mclelland,Engaging,2017-08-29,,,Unknown,East,0.999919011777615,0.008098822238500336,Baixo
+39EYEBMK,,GTX Basic,Violet Mclelland,Engaging,2017-07-18,,,Unknown,East,0.999919011777615,0.008098822238500336,Baixo
+EW28ZONV,,GTX Plus Basic,Zane Levy,Engaging,2017-02-25,,,Unknown,West,0.9999190315886382,0.008096841136184807,Baixo
+4QFATB6J,,GTX Basic,Violet Mclelland,Engaging,2017-04-22,,,Unknown,East,0.9999190657394172,0.008093426058275455,Baixo
+CNM0H9FR,,GTX Basic,Zane Levy,Engaging,2016-12-02,,,Unknown,West,0.9999191588022143,0.00808411977857304,Baixo
+8AJG1YLJ,,GTX Basic,Kary Hendrixson,Engaging,2017-02-11,,,Unknown,West,0.9999191858626487,0.008081413735128162,Baixo
+Z75ND4JF,,GTX Basic,Kary Hendrixson,Engaging,2017-01-04,,,Unknown,West,0.9999191888412081,0.00808111587918825,Baixo
+839AMI93,,GTX Basic,Kary Hendrixson,Engaging,2017-03-10,,,Unknown,West,0.9999191888412081,0.00808111587918825,Baixo
+92G1TO7L,,GTX Basic,Kary Hendrixson,Engaging,2017-02-15,,,Unknown,West,0.9999191888412081,0.00808111587918825,Baixo
+BFGASJAW,,GTX Basic,Kary Hendrixson,Engaging,2017-03-10,,,Unknown,West,0.9999191888412081,0.00808111587918825,Baixo
+KBR253C0,,MG Advanced,Kami Bicknell,Engaging,2017-01-29,,,Unknown,West,0.9999192408702593,0.008075912974070398,Baixo
+2VDN72EP,,GTX Basic,Vicki Laflamme,Engaging,2017-03-30,,,Unknown,West,0.9999192685617654,0.008073143823461582,Baixo
+VYPYVO8V,,GTX Basic,Vicki Laflamme,Engaging,2017-01-24,,,Unknown,West,0.9999192685617654,0.008073143823461582,Baixo
+79EHWR35,,GTX Basic,Vicki Laflamme,Engaging,2017-03-02,,,Unknown,West,0.9999192685617654,0.008073143823461582,Baixo
+MWSPTOQK,,GTXPro,Zane Levy,Engaging,2017-05-28,,,Unknown,West,0.9999192691919728,0.008073080802717403,Baixo
+34XWXEQE,,GTXPro,James Ascencio,Engaging,2017-09-10,,,Unknown,West,0.9999193030960263,0.008069690397372042,Baixo
+0KRVN3V5,Hatfan,MG Advanced,Anna Snelling,Engaging,2017-07-21,,,services,Central,0.999919323990268,0.008067600973205025,Baixo
+LOHJU3OB,,GTXPro,Zane Levy,Engaging,2017-09-10,,,Unknown,West,0.9999193924022406,0.008060759775940785,Baixo
+CQYAMIQ3,,GTXPro,Zane Levy,Engaging,2017-07-09,,,Unknown,West,0.9999193924022406,0.008060759775940785,Baixo
+9M72KPA3,Bluth Company,GTX Plus Basic,Kami Bicknell,Engaging,2017-07-29,,,technolgy,West,0.9999194644705754,0.008053552942455244,Baixo
+041Q1IZL,Green-Plus,GTXPro,Zane Levy,Engaging,2017-08-15,,,services,West,0.9999200256927281,0.00799743072719128,Baixo
+GK1NH8G7,Iselectrics,GTX Basic,Kami Bicknell,Engaging,2017-03-16,,,technolgy,West,0.9999200478465576,0.007995215344236417,Baixo
+NS6JLCZ2,,GTXPro,Rosie Papadopoulos,Engaging,2017-09-29,,,Unknown,East,0.9999202623591174,0.00797376408826489,Baixo
+FHWXZ6HL,,GTXPro,Rosie Papadopoulos,Engaging,2017-05-09,,,Unknown,East,0.9999203184246616,0.007968157533844167,Baixo
+96798U7Y,,GTXPro,Rosie Papadopoulos,Engaging,2017-06-20,,,Unknown,East,0.9999203188894348,0.007968111056522176,Baixo
+G7H64S20,,MG Advanced,Anna Snelling,Engaging,2017-07-23,,,Unknown,Central,0.9999204033820707,0.007959661792933392,Baixo
+8WB5HXOB,,GTX Plus Pro,Zane Levy,Engaging,2017-05-02,,,Unknown,West,0.9999204320505979,0.007956794940211509,Baixo
+J0G6ZLYZ,,GTX Plus Pro,Zane Levy,Engaging,2017-09-02,,,Unknown,West,0.9999205505580028,0.007944944199722581,Baixo
+EG7OFLFR,,GTX Basic,Kami Bicknell,Engaging,2016-11-14,,,Unknown,West,0.9999205672910374,0.007943270896260124,Baixo
+C32E4E1D,,MG Special,Kami Bicknell,Engaging,2017-04-20,,,Unknown,West,0.9999208451068275,0.007915489317245061,Baixo
+OLXEYM3P,,GTX Basic,Zane Levy,Engaging,2017-08-27,,,Unknown,West,0.9999210537250646,0.007894627493543194,Baixo
+MIGDLH14,,GTX Basic,Zane Levy,Engaging,2017-07-23,,,Unknown,West,0.9999210537250646,0.007894627493543194,Baixo
+TGSLH2ZD,,GTX Basic,Zane Levy,Engaging,2017-08-27,,,Unknown,West,0.9999210537250646,0.007894627493543194,Baixo
+CLRPASVW,Cancity,GTX Basic,Kami Bicknell,Engaging,2017-08-08,,,retail,West,0.9999211668877028,0.007883311229717194,Baixo
+K7TV5UBZ,,GTX Plus Pro,James Ascencio,Engaging,2017-05-24,,,Unknown,West,0.9999213598164046,0.007864018359537983,Baixo
+D85PDC6S,,GTX Plus Pro,James Ascencio,Engaging,2017-05-18,,,Unknown,West,0.9999213598164046,0.007864018359537983,Baixo
+NX28C8EI,,GTX Plus Pro,James Ascencio,Engaging,2017-09-30,,,Unknown,West,0.9999214769421164,0.007852305788358382,Baixo
+KAGK2GQJ,,GTX Plus Pro,James Ascencio,Engaging,2017-09-01,,,Unknown,West,0.9999214798362401,0.007852016375986537,Baixo
+U5K2MZB6,,MG Advanced,Zane Levy,Engaging,2017-04-13,,,Unknown,West,0.9999214804791562,0.007851952084381164,Baixo
+YXXWQA4G,,MG Advanced,Zane Levy,Engaging,2017-06-15,,,Unknown,West,0.9999214809371518,0.007851906284817023,Baixo
+VH6OFWCV,,MG Advanced,Zane Levy,Engaging,2017-06-20,,,Unknown,West,0.9999214809371518,0.007851906284817023,Baixo
+C7ODMOS2,,MG Advanced,Zane Levy,Engaging,2017-06-13,,,Unknown,West,0.9999214809371518,0.007851906284817023,Baixo
+JGXK8P6T,,MG Advanced,Zane Levy,Engaging,2017-08-01,,,Unknown,West,0.9999216003148518,0.00783996851482227,Baixo
+S8FODURJ,Nam-zim,GTX Basic,Zane Levy,Engaging,2017-09-07,,,services,West,0.9999216739644556,0.007832603554436268,Baixo
+2PI827MA,,GTXPro,Kary Hendrixson,Engaging,2017-05-25,,,Unknown,West,0.9999217520477982,0.007824795220179315,Baixo
+R0CLLIH9,,GTXPro,Kary Hendrixson,Engaging,2017-04-12,,,Unknown,West,0.9999217520477982,0.007824795220179315,Baixo
+14CNQKX8,,GTXPro,Kary Hendrixson,Engaging,2017-06-21,,,Unknown,West,0.9999217525042101,0.007824749578988488,Baixo
+JNEQWZQK,,GTX Basic,Wilburn Farren,Engaging,2017-04-25,,,Unknown,East,0.9999217915942391,0.007820840576089338,Baixo
+O3KC8QI8,,GTX Plus Basic,Kami Bicknell,Engaging,2016-12-08,,,Unknown,West,0.9999217963083875,0.007820369161248841,Baixo
+3F34LWKM,,GTXPro,Vicki Laflamme,Engaging,2017-05-06,,,Unknown,West,0.9999218263586928,0.007817364130724425,Baixo
+U4IJO6SL,,GTXPro,Vicki Laflamme,Engaging,2017-04-08,,,Unknown,West,0.9999218263586928,0.007817364130724425,Baixo
+Q6OUJCH5,,GTXPro,Vicki Laflamme,Engaging,2017-04-21,,,Unknown,West,0.9999218292399389,0.007817076006111368,Baixo
+XRZNF1LQ,,GTXPro,Kary Hendrixson,Engaging,2017-08-31,,,Unknown,West,0.9999218714690611,0.007812853093891459,Baixo
+NUS67BOQ,,GTX Basic,Rosie Papadopoulos,Engaging,2017-08-31,,,Unknown,East,0.9999219079478302,0.007809205216979809,Baixo
+Q5GNQ823,,GTXPro,Vicki Laflamme,Engaging,2017-07-26,,,Unknown,West,0.999921948543401,0.007805145659900425,Baixo
+6SMB6SDY,,GTXPro,Vicki Laflamme,Engaging,2017-08-15,,,Unknown,West,0.999921948543401,0.007805145659900425,Baixo
+S0Z4QVL2,,GTXPro,Vicki Laflamme,Engaging,2017-07-21,,,Unknown,West,0.999921948543401,0.007805145659900425,Baixo
+BTRIUUWG,,GTX Basic,Rosie Papadopoulos,Engaging,2017-05-16,,,Unknown,East,0.9999219628564099,0.007803714359011504,Baixo
+2O76H591,,MG Advanced,James Ascencio,Engaging,2017-06-17,,,Unknown,West,0.9999223936135034,0.007760638649656482,Baixo
+U6XJRWV8,,MG Advanced,James Ascencio,Engaging,2017-04-18,,,Unknown,West,0.9999223960211883,0.007760397881173553,Baixo
+N7G1TU1X,,MG Advanced,James Ascencio,Engaging,2017-06-02,,,Unknown,West,0.9999223964738441,0.00776035261559338,Baixo
+TQJJDWWH,,MG Advanced,James Ascencio,Engaging,2017-08-15,,,Unknown,West,0.9999225144597013,0.007748554029873844,Baixo
+XRWMLGOG,,MG Advanced,James Ascencio,Engaging,2017-07-18,,,Unknown,West,0.9999225144597013,0.007748554029873844,Baixo
+8DDR4MUL,,MG Advanced,James Ascencio,Engaging,2017-09-08,,,Unknown,West,0.9999225144597013,0.007748554029873844,Baixo
+TDJ3N8EJ,Kinnamplus,MG Advanced,Kami Bicknell,Engaging,2017-07-20,,,retail,West,0.9999229748699335,0.007702513006646594,Baixo
+3T23AW36,,GTX Plus Basic,James Ascencio,Engaging,2017-06-30,,,Unknown,West,0.999923133825634,0.007686617436597487,Baixo
+10THTNLC,,GTX Plus Basic,Zane Levy,Engaging,2017-06-22,,,Unknown,West,0.999923218892755,0.00767811072449609,Baixo
+G03J67Z1,,GTX Plus Basic,Zane Levy,Engaging,2017-08-22,,,Unknown,West,0.9999233356283294,0.007666437167064277,Baixo
+LWPFQ1UA,,GTX Basic,Kary Hendrixson,Engaging,2017-04-15,,,Unknown,West,0.9999233619173933,0.007663808260671701,Baixo
+U2HYH97X,,GTX Basic,Kary Hendrixson,Engaging,2017-04-20,,,Unknown,West,0.9999233647420478,0.0076635257952206715,Baixo
+UUGY3W44,,GTX Basic,Kary Hendrixson,Engaging,2017-04-07,,,Unknown,West,0.9999233647420478,0.0076635257952206715,Baixo
+EMUG64GW,,GTX Basic,Kary Hendrixson,Engaging,2017-06-29,,,Unknown,West,0.9999233651890537,0.007663481094632996,Baixo
+TIPG6R0Z,,GTX Basic,Vicki Laflamme,Engaging,2017-06-17,,,Unknown,West,0.9999234379680894,0.007656203191064304,Baixo
+XDECB9X2,,GTX Basic,Vicki Laflamme,Engaging,2017-04-07,,,Unknown,West,0.9999234403433762,0.007655965662378694,Baixo
+HKV37WU9,,GTX Basic,Vicki Laflamme,Engaging,2017-06-15,,,Unknown,West,0.9999234407899412,0.007655921005877975,Baixo
+D17T8PTH,,GTX Basic,Vicki Laflamme,Engaging,2017-06-08,,,Unknown,West,0.9999234407899412,0.007655921005877975,Baixo
+WV2YBM8V,,GTX Basic,Kary Hendrixson,Engaging,2017-09-30,,,Unknown,West,0.9999234788818766,0.0076521118123396015,Baixo
+7VSFD2MV,,GTX Basic,Kary Hendrixson,Engaging,2017-08-03,,,Unknown,West,0.9999234817022206,0.007651829777943764,Baixo
+VYR4EWHR,,GTX Basic,Kary Hendrixson,Engaging,2017-08-18,,,Unknown,West,0.9999234817022206,0.007651829777943764,Baixo
+F8QQEW1W,,GTX Plus Basic,Kami Bicknell,Engaging,2017-06-04,,,Unknown,West,0.9999235131243781,0.0076486875621895045,Baixo
+B96E3BBD,,GTX Basic,Vicki Laflamme,Engaging,2017-08-12,,,Unknown,West,0.999923554370614,0.007644562938602384,Baixo
+MQEFGUOG,,GTX Basic,Vicki Laflamme,Engaging,2017-08-12,,,Unknown,West,0.999923554370614,0.007644562938602384,Baixo
+H9N9DP3D,,GTX Basic,Vicki Laflamme,Engaging,2017-07-01,,,Unknown,West,0.999923554370614,0.007644562938602384,Baixo
+P6NQ2LZK,,GTX Basic,Vicki Laflamme,Engaging,2017-08-23,,,Unknown,West,0.9999235571881757,0.007644281182428436,Baixo
+298J5EM0,,GTX Basic,Vicki Laflamme,Engaging,2017-08-09,,,Unknown,West,0.9999235571881757,0.007644281182428436,Baixo
+RTX8ZJXT,,GTX Basic,Vicki Laflamme,Engaging,2017-08-31,,,Unknown,West,0.9999235571881757,0.007644281182428436,Baixo
+T56J7ES7,Nam-zim,GTX Plus Basic,Kami Bicknell,Engaging,2017-06-09,,,services,West,0.9999241140430278,0.0075885956972165935,Baixo
+9B7FS6YL,Konex,GTXPro,Darcel Schlecht,Engaging,2017-07-27,,,technolgy,Central,0.9999241349659652,0.0075865034034783285,Baixo
+2WDSO6PG,Hatfan,GTX Basic,Niesha Huffines,Engaging,2017-07-19,,,services,Central,0.9999245473542876,0.007545264571240384,Baixo
+3ATYY665,Conecom,GTXPro,Kami Bicknell,Engaging,2017-05-26,,,technolgy,West,0.9999245642918678,0.007543570813217659,Baixo
+Q1HNDPKW,,GTXPro,Darcel Schlecht,Engaging,2017-07-23,,,Unknown,Central,0.9999247926114682,0.007520738853183939,Baixo
+A8NDGVJE,,GTXPro,Darcel Schlecht,Engaging,2017-08-06,,,Unknown,Central,0.9999247926114682,0.007520738853183939,Baixo
+D9NLFAEG,,GTX Basic,Niesha Huffines,Engaging,2017-07-30,,,Unknown,Central,0.9999249395124243,0.007506048757566219,Baixo
+OMCFUDOU,,GTXPro,James Ascencio,Engaging,2017-10-31,,,Unknown,West,0.9999249690109113,0.007503098908867578,Baixo
+01EH41WA,,GTXPro,Zane Levy,Engaging,2017-03-04,,,Unknown,West,0.9999255613064643,0.007443869353573884,Baixo
+NGCM47PC,,GTXPro,Zane Levy,Engaging,2017-03-07,,,Unknown,West,0.9999255640500617,0.007443594993827851,Baixo
+XRDF1NAB,,GTXPro,Zane Levy,Engaging,2017-03-01,,,Unknown,West,0.9999255640500617,0.007443594993827851,Baixo
+EYBMEX1Z,,GTX Basic,Moses Frase,Engaging,2017-07-23,,,Unknown,Central,0.9999257505270439,0.007424947295608941,Baixo
+ABT1TDH1,,GTX Basic,Moses Frase,Engaging,2017-07-30,,,Unknown,Central,0.9999257505270439,0.007424947295608941,Baixo
+QHJ3W8FW,,GTXPro,Kami Bicknell,Engaging,2017-03-12,,,Unknown,West,0.9999258492955122,0.007415070448779648,Baixo
+RYWETTBK,Fasehatice,GTX Basic,Kami Bicknell,Engaging,2017-10-20,,,retail,West,0.9999259861043263,0.007401389567374128,Baixo
+MGD7DZAU,Globex Corporation,GTX Basic,Kami Bicknell,Engaging,2017-05-19,,,technolgy,West,0.9999261190299075,0.007388097009253247,Baixo
+CUZDYOOO,,GTX Basic,Darcel Schlecht,Engaging,2017-07-30,,,Unknown,Central,0.999926342644163,0.007365735583697575,Baixo
+ZRCQXB38,,GTX Basic,Darcel Schlecht,Engaging,2017-07-23,,,Unknown,Central,0.999926342644163,0.007365735583697575,Baixo
+RN67OVFW,,GTX Basic,Zane Levy,Engaging,2017-11-04,,,Unknown,West,0.9999265940277519,0.0073405972248141715,Baixo
+5NGPM4C3,,GTX Plus Pro,Darcel Schlecht,Engaging,2017-08-05,,,Unknown,Central,0.9999268090595413,0.007319094045865615,Baixo
+RCJRB8W8,,GTX Plus Pro,Darcel Schlecht,Engaging,2017-08-05,,,Unknown,Central,0.9999268090595413,0.007319094045865615,Baixo
+Z4OOTJAJ,,GTX Plus Pro,Darcel Schlecht,Engaging,2017-08-10,,,Unknown,Central,0.9999268117571536,0.0073188242846411455,Baixo
+H2IOHZ8R,,GTX Basic,James Ascencio,Engaging,2017-03-18,,,Unknown,West,0.9999270147249472,0.007298527505283925,Baixo
+4U9D1IZ5,,GTX Basic,Zane Levy,Engaging,2017-03-22,,,Unknown,West,0.9999270981844799,0.007290181552010999,Baixo
+D3ZC338T,,GTX Basic,Zane Levy,Engaging,2017-03-02,,,Unknown,West,0.9999270981844799,0.007290181552010999,Baixo
+KBQ16F1I,,GTX Basic,Zane Levy,Engaging,2017-03-03,,,Unknown,West,0.9999270981844799,0.007290181552010999,Baixo
+V3HVIJLL,,GTX Basic,Zane Levy,Engaging,2017-02-16,,,Unknown,West,0.9999270981844799,0.007290181552010999,Baixo
+R2W96FGX,,GTX Basic,Zane Levy,Engaging,2017-02-15,,,Unknown,West,0.9999270981844799,0.007290181552010999,Baixo
+EEB0JYIQ,,GTX Plus Basic,Niesha Huffines,Engaging,2017-08-10,,,Unknown,Central,0.9999271091071033,0.007289089289674866,Baixo
+OBC504T8,,GTX Plus Basic,Niesha Huffines,Engaging,2017-07-25,,,Unknown,Central,0.9999271091071033,0.007289089289674866,Baixo
+AERVH1AC,,GTX Plus Basic,Niesha Huffines,Engaging,2017-07-20,,,Unknown,Central,0.9999271091071033,0.007289089289674866,Baixo
+1MQ3015O,,GTX Plus Basic,Niesha Huffines,Engaging,2017-08-15,,,Unknown,Central,0.9999271091071033,0.007289089289674866,Baixo
+JOLNKYNH,,MG Advanced,Moses Frase,Engaging,2017-07-22,,,Unknown,Central,0.999927202331611,0.007279766838896862,Baixo
+SJGOQMLT,,MG Advanced,Moses Frase,Engaging,2017-07-22,,,Unknown,Central,0.999927202331611,0.007279766838896862,Baixo
+TV2M081C,,MG Advanced,Moses Frase,Engaging,2017-07-22,,,Unknown,Central,0.999927202331611,0.007279766838896862,Baixo
+P3K1DVYB,,MG Advanced,Moses Frase,Engaging,2017-07-26,,,Unknown,Central,0.9999272050147295,0.007279498527046346,Baixo
+BB1PRS3T,,MG Advanced,Moses Frase,Engaging,2017-07-26,,,Unknown,Central,0.9999272050147295,0.007279498527046346,Baixo
+P5C842B5,,GTX Plus Pro,Kami Bicknell,Engaging,2017-10-28,,,Unknown,West,0.9999273505079533,0.007264949204666138,Baixo
+AKTPC3M1,,GTX Basic,Kami Bicknell,Engaging,2017-03-05,,,Unknown,West,0.9999273775514123,0.007262244858774469,Baixo
+R7H0M07R,,MG Advanced,Darcel Schlecht,Engaging,2017-07-27,,,Unknown,Central,0.999927776129462,0.007222387053795742,Baixo
+8TD2LLOF,,MG Advanced,Darcel Schlecht,Engaging,2017-07-26,,,Unknown,Central,0.999927776129462,0.007222387053795742,Baixo
+XFCKQ7RI,,MG Advanced,Darcel Schlecht,Engaging,2017-07-25,,,Unknown,Central,0.999927776129462,0.007222387053795742,Baixo
+JQ5AOYQ8,,MG Advanced,Darcel Schlecht,Engaging,2017-07-27,,,Unknown,Central,0.999927776129462,0.007222387053795742,Baixo
+JQA8H6M5,,GTX Plus Pro,Kami Bicknell,Engaging,2017-02-15,,,Unknown,West,0.9999278494695039,0.007215053049614006,Baixo
+13GM5I6M,,GTXPro,Kami Bicknell,Engaging,2016-12-29,,,Unknown,West,0.999928103080728,0.007189691927200759,Baixo
+KV2OFRJT,,GTXPro,Kami Bicknell,Engaging,2016-12-13,,,Unknown,West,0.999928103080728,0.007189691927200759,Baixo
+VVM42VWQ,,GTX Basic,Anna Snelling,Engaging,2017-07-30,,,Unknown,Central,0.999928422945681,0.00715770543190386,Baixo
+ERD6D5K3,,GTX Basic,Anna Snelling,Engaging,2017-07-30,,,Unknown,Central,0.999928422945681,0.00715770543190386,Baixo
+UWI771ZX,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-29,,,Unknown,Central,0.9999284690483229,0.007153095167711232,Baixo
+P66UXGPS,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-22,,,Unknown,Central,0.9999284690483229,0.007153095167711232,Baixo
+SSK95WLX,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-27,,,Unknown,Central,0.9999284716847571,0.007152831524293024,Baixo
+LHBWJAD3,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-20,,,Unknown,Central,0.9999284716847571,0.007152831524293024,Baixo
+KRWKDPWW,,GTX Plus Basic,Darcel Schlecht,Engaging,2017-07-20,,,Unknown,Central,0.9999284716847571,0.007152831524293024,Baixo
+4E5A84H1,,MG Advanced,Kami Bicknell,Engaging,2017-02-23,,,Unknown,West,0.9999288001692637,0.007119983073633485,Baixo
+VPXW8RJS,,MG Advanced,Kami Bicknell,Engaging,2017-01-05,,,Unknown,West,0.9999288001692637,0.007119983073633485,Baixo
+T4AW06MM,,GTX Plus Pro,Anna Snelling,Engaging,2017-07-22,,,Unknown,Central,0.999928885449945,0.00711145500550403,Baixo
+T0TDA2O1,,GTX Plus Pro,Anna Snelling,Engaging,2017-07-29,,,Unknown,Central,0.999928885449945,0.00711145500550403,Baixo
+OVA9HMN1,,GTX Plus Pro,Anna Snelling,Engaging,2017-08-05,,,Unknown,Central,0.999928885449945,0.00711145500550403,Baixo
+N9GIC5PC,,GTX Plus Pro,Anna Snelling,Engaging,2017-07-27,,,Unknown,Central,0.9999288880710328,0.007111192896724905,Baixo
+FCBSZ6FJ,,GTX Plus Pro,Anna Snelling,Engaging,2017-08-09,,,Unknown,Central,0.9999288880710328,0.007111192896724905,Baixo
+1T5WFCEJ,,GTX Plus Pro,Anna Snelling,Engaging,2017-07-27,,,Unknown,Central,0.9999288880710328,0.007111192896724905,Baixo
+F5U1ACDD,,GTX Plus Basic,Kami Bicknell,Engaging,2016-11-19,,,Unknown,West,0.999928988971208,0.0071011028792034026,Baixo
+QCBO7C6E,,GTX Plus Basic,Kami Bicknell,Engaging,2017-10-13,,,Unknown,West,0.9999289915884806,0.007100841151941317,Baixo
+Y6NI5EBV,,GTX Plus Basic,Kami Bicknell,Engaging,2017-10-17,,,Unknown,West,0.9999289915884806,0.007100841151941317,Baixo
+G1AKE0NR,,GTXPro,Zane Levy,Engaging,2017-06-07,,,Unknown,West,0.9999294109482301,0.007058905176993147,Baixo
+FSYTM6YE,,GTXPro,James Ascencio,Engaging,2017-09-27,,,Unknown,West,0.9999294401818383,0.0070559818161730625,Baixo
+EJGRLQP8,,GTXPro,James Ascencio,Engaging,2017-09-08,,,Unknown,West,0.9999294401818383,0.0070559818161730625,Baixo
+ZHY9C8OO,,GTX Plus Basic,Kami Bicknell,Engaging,2017-02-02,,,Unknown,West,0.9999294766804773,0.007052331952273061,Baixo
+TF19VML9,,GTX Plus Basic,Kami Bicknell,Engaging,2017-02-08,,,Unknown,West,0.9999294766804773,0.007052331952273061,Baixo
+RU5X1LZM,,GTXPro,Zane Levy,Engaging,2017-08-26,,,Unknown,West,0.9999295156724008,0.00704843275991518,Baixo
+TM70L0W8,,GTXPro,Zane Levy,Engaging,2017-08-22,,,Unknown,West,0.9999295182702621,0.007048172973789235,Baixo
+4R4QF0ZU,,GTXPro,Zane Levy,Engaging,2017-09-20,,,Unknown,West,0.9999295182702621,0.007048172973789235,Baixo
+LC93MVYP,,GTX Basic,Kami Bicknell,Engaging,2017-12-01,,,Unknown,West,0.9999295848890857,0.007041511091432362,Baixo
+D5VY17OP,,GTXPro,Kami Bicknell,Engaging,2017-04-02,,,Unknown,West,0.9999296810428815,0.007031895711850922,Baixo
+4EGO7VCJ,,GTXPro,Kami Bicknell,Engaging,2017-07-02,,,Unknown,West,0.9999297883638387,0.007021163616127701,Baixo
+7K1KXMBT,,GTXPro,Kami Bicknell,Engaging,2017-08-27,,,Unknown,West,0.9999297883638387,0.007021163616127701,Baixo
+8NG46N94,,GTXPro,Kami Bicknell,Engaging,2017-09-10,,,Unknown,West,0.9999297883638387,0.007021163616127701,Baixo
+B1ZN2CFP,,MG Advanced,Anna Snelling,Engaging,2017-07-29,,,Unknown,Central,0.9999298224999476,0.007017750005244849,Baixo
+E9J482PX,,MG Advanced,Anna Snelling,Engaging,2017-07-22,,,Unknown,Central,0.9999298224999476,0.007017750005244849,Baixo
+P7MSQO38,Yearin,GTX Basic,Anna Snelling,Engaging,2017-07-28,,,retail,Central,0.9999303246684462,0.00696753315537757,Baixo
+S50ETCN7,,GTX Plus Basic,Anna Snelling,Engaging,2017-07-21,,,Unknown,Central,0.9999304918600534,0.006950813994655025,Baixo
+ZGFB0IF1,,GTX Plus Basic,Anna Snelling,Engaging,2017-07-20,,,Unknown,Central,0.9999304918600534,0.006950813994655025,Baixo
+I1R23P5F,,GTX Plus Basic,Anna Snelling,Engaging,2017-08-01,,,Unknown,Central,0.9999304918600534,0.006950813994655025,Baixo
+CFKXEPFN,,GTX Plus Basic,Anna Snelling,Engaging,2017-08-01,,,Unknown,Central,0.9999304918600534,0.006950813994655025,Baixo
+3VC45PML,,GTX Basic,James Ascencio,Engaging,2017-06-14,,,Unknown,West,0.9999307892075056,0.006921079249444517,Baixo
+RUAU1ORD,,GTX Basic,Zane Levy,Engaging,2017-06-10,,,Unknown,West,0.999930863254872,0.006913674512798451,Baixo
+G1L2YY5P,,GTX Basic,Zane Levy,Engaging,2017-05-26,,,Unknown,West,0.99993086539981,0.006913460018997952,Baixo
+PNO7D8PD,,GTX Basic,Zane Levy,Engaging,2017-04-05,,,Unknown,West,0.99993086539981,0.006913460018997952,Baixo
+9HYMQL4I,,GTX Basic,Zane Levy,Engaging,2017-04-26,,,Unknown,West,0.99993086539981,0.006913460018997952,Baixo
+81G840FM,,GTX Basic,Zane Levy,Engaging,2017-04-13,,,Unknown,West,0.99993086539981,0.006913460018997952,Baixo
+UFL6ZQDV,,GTX Basic,Zane Levy,Engaging,2017-05-18,,,Unknown,West,0.99993086539981,0.006913460018997952,Baixo
+27REMGYU,,GTX Basic,James Ascencio,Engaging,2017-08-12,,,Unknown,West,0.9999308918870662,0.006910811293381336,Baixo
+QKXCMJVB,,GTX Basic,James Ascencio,Engaging,2017-07-08,,,Unknown,West,0.9999308918870662,0.006910811293381336,Baixo
+LKJZEISS,,GTX Basic,Zane Levy,Engaging,2017-08-24,,,Unknown,West,0.9999309709133241,0.006902908667594243,Baixo
+REAFB3C3,,GTX Basic,Zane Levy,Engaging,2017-07-21,,,Unknown,West,0.9999309709133241,0.006902908667594243,Baixo
+VRCYXSP1,,GTX Basic,Zane Levy,Engaging,2017-07-21,,,Unknown,West,0.9999309709133241,0.006902908667594243,Baixo
+0Z8ZAS2M,,GTX Basic,Zane Levy,Engaging,2017-07-21,,,Unknown,West,0.9999309709133241,0.006902908667594243,Baixo
+JBECEURV,,GTX Basic,Zane Levy,Engaging,2017-09-14,,,Unknown,West,0.9999309709133241,0.006902908667594243,Baixo
+6C6Z3HRA,,GTX Basic,Zane Levy,Engaging,2017-08-31,,,Unknown,West,0.9999309709133241,0.006902908667594243,Baixo
+R0XNAFUB,,GTX Basic,Zane Levy,Engaging,2017-07-12,,,Unknown,West,0.9999309709133241,0.006902908667594243,Baixo
+T50TV9SO,,GTX Basic,Zane Levy,Engaging,2017-07-26,,,Unknown,West,0.9999309709133241,0.006902908667594243,Baixo
+XU836DFA,,GTX Basic,Kami Bicknell,Engaging,2017-06-18,,,Unknown,West,0.99993113073311,0.006886926688998152,Baixo
+04T6SOQW,,GTX Basic,Kami Bicknell,Engaging,2017-08-06,,,Unknown,West,0.9999312354405988,0.006876455940119097,Baixo
+PAQ6EKHB,,GTX Basic,Kami Bicknell,Engaging,2017-09-17,,,Unknown,West,0.9999312354405988,0.006876455940119097,Baixo
+KDPBAHOJ,,MG Advanced,Kami Bicknell,Engaging,2017-06-20,,,Unknown,West,0.9999324798339863,0.006752016601374589,Baixo
+4OYGRQGO,,MG Advanced,Kami Bicknell,Engaging,2017-07-29,,,Unknown,West,0.9999325800055411,0.006741999445891711,Baixo
+PYQ3VX08,,GTXPro,Niesha Huffines,Engaging,2017-08-15,,,Unknown,Central,0.999932987455085,0.006701254491503494,Baixo
+2E2FDZHG,,GTXPro,Niesha Huffines,Engaging,2017-08-02,,,Unknown,Central,0.999932987455085,0.006701254491503494,Baixo
+K6M3EX4O,,GTX Plus Basic,Kami Bicknell,Engaging,2017-04-15,,,Unknown,West,0.9999331185297118,0.006688147028821589,Baixo
+8254HM4E,,GTX Plus Basic,Kami Bicknell,Engaging,2017-04-06,,,Unknown,West,0.9999331209947903,0.006687900520974122,Baixo
+2I7IFY8D,,GTXPro,Darcel Schlecht,Engaging,2017-07-29,,,Unknown,Central,0.9999342377299023,0.00657622700976912,Baixo
+PNTHPFHY,,GTXPro,Darcel Schlecht,Engaging,2017-07-29,,,Unknown,Central,0.9999342377299023,0.00657622700976912,Baixo
+FY5MBCWQ,,GTXPro,Darcel Schlecht,Engaging,2017-07-22,,,Unknown,Central,0.9999342377299023,0.00657622700976912,Baixo
+HISWL7B0,,GTXPro,Darcel Schlecht,Engaging,2017-08-01,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+Q62JFLLD,,GTXPro,Darcel Schlecht,Engaging,2017-07-28,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+6V7FT2YU,,GTXPro,Darcel Schlecht,Engaging,2017-07-20,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+2GFL3TAF,,GTXPro,Darcel Schlecht,Engaging,2017-07-25,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+VMBM5EKL,,GTXPro,Darcel Schlecht,Engaging,2017-07-26,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+TJ7PNIXL,,GTXPro,Darcel Schlecht,Engaging,2017-07-26,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+CUSWE9PB,,GTXPro,Darcel Schlecht,Engaging,2017-07-25,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+BSKNQJOJ,,GTXPro,Darcel Schlecht,Engaging,2017-08-01,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+NU4ACGMY,,GTXPro,Darcel Schlecht,Engaging,2017-07-19,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+E8MIFXOH,,GTXPro,Darcel Schlecht,Engaging,2017-07-27,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+M6JT5RL8,,GTXPro,Darcel Schlecht,Engaging,2017-07-27,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+UO8DLVVQ,,GTXPro,Darcel Schlecht,Engaging,2017-07-27,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+45H84LNT,,GTXPro,Darcel Schlecht,Engaging,2017-07-27,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+FH3UXT3T,,GTXPro,Darcel Schlecht,Engaging,2017-08-08,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+69U39SXU,,GTXPro,Darcel Schlecht,Engaging,2017-08-04,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+9B20R6A5,,GTXPro,Darcel Schlecht,Engaging,2017-08-09,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+UM1OU73X,,GTXPro,Darcel Schlecht,Engaging,2017-08-04,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+S6YZO6UQ,,GTXPro,Darcel Schlecht,Engaging,2017-07-21,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+PI45UJKA,,GTXPro,Darcel Schlecht,Engaging,2017-07-21,,,Unknown,Central,0.9999342401537328,0.006575984626722153,Baixo
+I3IRJZRL,,GTX Basic,Niesha Huffines,Engaging,2017-07-27,,,Unknown,Central,0.9999343686022214,0.006563139777859828,Baixo
+OFC7ZTU8,,GTXPro,Kami Bicknell,Engaging,2017-10-17,,,Unknown,West,0.9999347181320637,0.006528186793630653,Baixo
+BZGJ44FH,,GTXPro,Kami Bicknell,Engaging,2017-10-19,,,Unknown,West,0.9999347181320637,0.006528186793630653,Baixo
+3JW6CZ7K,,GTX Basic,Moses Frase,Engaging,2017-07-20,,,Unknown,Central,0.9999350777438926,0.006492225610743585,Baixo
+G2XP6IGJ,,GTX Basic,Moses Frase,Engaging,2017-07-25,,,Unknown,Central,0.9999350777438926,0.006492225610743585,Baixo
+EN8JHUXA,,GTX Basic,Moses Frase,Engaging,2017-07-27,,,Unknown,Central,0.9999350777438926,0.006492225610743585,Baixo
+BKOWQMMV,,GTX Basic,Moses Frase,Engaging,2017-07-19,,,Unknown,Central,0.9999350777438926,0.006492225610743585,Baixo
+NR947OAB,,GTXPro,Kami Bicknell,Engaging,2017-02-24,,,Unknown,West,0.999935164105873,0.006483589412697999,Baixo
+TQQDICC6,,GTX Basic,Darcel Schlecht,Engaging,2017-07-22,,,Unknown,Central,0.9999355931101879,0.006440688981212972,Baixo
+X8M3SCVF,,GTX Basic,Darcel Schlecht,Engaging,2017-07-19,,,Unknown,Central,0.9999355954840656,0.006440451593436869,Baixo
+APIB681L,,GTX Basic,Darcel Schlecht,Engaging,2017-07-25,,,Unknown,Central,0.9999355954840656,0.006440451593436869,Baixo
+TFSKOBH7,,GTX Basic,Darcel Schlecht,Engaging,2017-07-25,,,Unknown,Central,0.9999355954840656,0.006440451593436869,Baixo
+E1LFK6E3,,GTX Basic,Kami Bicknell,Engaging,2017-11-03,,,Unknown,West,0.9999360636117482,0.006393638825175074,Baixo
+Z1WLLL1H,,GTX Basic,Kami Bicknell,Engaging,2017-01-21,,,Unknown,West,0.999936498053956,0.0063501946043986734,Baixo
+3T64Z7DB,,GTX Basic,Kami Bicknell,Engaging,2017-03-25,,,Unknown,West,0.999936498053956,0.0063501946043986734,Baixo
+3JUL12VK,,GTX Basic,Kami Bicknell,Engaging,2017-03-22,,,Unknown,West,0.999936500394482,0.00634996055179915,Baixo
+F569KUVC,,GTX Basic,Kami Bicknell,Engaging,2017-01-24,,,Unknown,West,0.999936500394482,0.00634996055179915,Baixo
+I6U62W0R,,GTX Basic,Kami Bicknell,Engaging,2017-03-29,,,Unknown,West,0.999936500394482,0.00634996055179915,Baixo
+QRR70537,,GTX Basic,Anna Snelling,Engaging,2017-07-22,,,Unknown,Central,0.9999374121675465,0.006258783245349786,Baixo
+4PNXMXXC,,GTX Basic,Anna Snelling,Engaging,2017-08-05,,,Unknown,Central,0.9999374121675465,0.006258783245349786,Baixo
+LAYVBSH4,,GTX Basic,Anna Snelling,Engaging,2017-07-19,,,Unknown,Central,0.9999374144743826,0.006258552561744235,Baixo
+FHYD80FB,,GTXPro,Kami Bicknell,Engaging,2017-06-17,,,Unknown,West,0.9999385126311603,0.0061487368839707734,Baixo
+ZVAZKWF3,,GTXPro,Kami Bicknell,Engaging,2017-04-14,,,Unknown,West,0.9999385145387945,0.006148546120554599,Baixo
+Z7OH4GWO,,GTXPro,Kami Bicknell,Engaging,2017-04-13,,,Unknown,West,0.9999385145387945,0.006148546120554599,Baixo
+Z8Z77GN3,,GTXPro,Kami Bicknell,Engaging,2017-08-24,,,Unknown,West,0.9999386083788773,0.0061391621122730555,Baixo
+197EQMY8,,GTXPro,Kami Bicknell,Engaging,2017-09-20,,,Unknown,West,0.9999386083788773,0.0061391621122730555,Baixo
+X9L0T199,,GTXPro,Kami Bicknell,Engaging,2017-08-18,,,Unknown,West,0.9999386083788773,0.0061391621122730555,Baixo
+KSOW4MUK,,GTX Basic,Kami Bicknell,Engaging,2017-06-17,,,Unknown,West,0.9999397799097434,0.006022009025663522,Baixo
+HTBPSC2D,,GTX Basic,Kami Bicknell,Engaging,2017-05-31,,,Unknown,West,0.9999397817780628,0.006021822193724713,Baixo
+VBFYOCDO,,GTX Basic,Kami Bicknell,Engaging,2017-05-10,,,Unknown,West,0.9999397817780628,0.006021822193724713,Baixo
+Q2RY668B,,GTX Basic,Kami Bicknell,Engaging,2017-05-10,,,Unknown,West,0.9999397817780628,0.006021822193724713,Baixo
+5IQAJGCU,,GTX Basic,Kami Bicknell,Engaging,2017-05-11,,,Unknown,West,0.9999397817780628,0.006021822193724713,Baixo
+K2NPVZL8,,GTX Basic,Kami Bicknell,Engaging,2017-09-23,,,Unknown,West,0.9999398714679839,0.0060128532016090475,Baixo
+U1XSUD1P,,GTX Basic,Kami Bicknell,Engaging,2017-09-06,,,Unknown,West,0.9999398736841815,0.006012631581853167,Baixo
+SXYJU7LC,,GTX Basic,Kami Bicknell,Engaging,2017-07-05,,,Unknown,West,0.9999398736841815,0.006012631581853167,Baixo
+8JH8YA79,,GTX Basic,Kami Bicknell,Engaging,2017-07-14,,,Unknown,West,0.9999398736841815,0.006012631581853167,Baixo
+H5J7C2FE,,GTX Basic,Kami Bicknell,Engaging,2017-09-05,,,Unknown,West,0.9999398736841815,0.006012631581853167,Baixo
+HTEAOHFO,,GTX Basic,Kami Bicknell,Engaging,2017-07-21,,,Unknown,West,0.9999398736841815,0.006012631581853167,Baixo
